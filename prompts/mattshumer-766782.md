@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@mattshumer_](https://x.com/mattshumer_).
 
-[![A rainy night drive through Mirror Earth](https://media.skillry.dev/fable-5-2/mattshumer-766782/preview.017bfc1d65.webp)](https://media.skillry.dev/fable-5-2/mattshumer-766782/video.b946b431ef.mp4)
+[![A rainy night drive through Mirror Earth](https://media.skillry.dev/fable-5-2/mattshumer-766782/preview.017bfc1d65.webp)](https://media.skillry.dev/fable-5-2/mattshumer-766782/video.a7080b81a5.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/mattshumer-766782/video.b946b431ef.mp4) · [Original post](https://x.com/mattshumer_/status/2119879860344766782) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/mattshumer-766782?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/mattshumer-766782/video.a7080b81a5.mp4) · [Original post](https://x.com/mattshumer_/status/2119879860344766782) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/mattshumer-766782?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:26 (1920×948)

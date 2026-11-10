@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@handsher_NGU](https://x.com/handsher_NGU).
 
-[![A galaxy rendered in 20 minutes](https://media.skillry.dev/fable-5-2/handsher-ngu-863367/preview.8327969f05.webp)](https://media.skillry.dev/fable-5-2/handsher-ngu-863367/video.e2d6a8210b.mp4)
+[![A galaxy rendered in 20 minutes](https://media.skillry.dev/fable-5-2/handsher-ngu-863367/preview.8327969f05.webp)](https://media.skillry.dev/fable-5-2/handsher-ngu-863367/video.de27a0ec31.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/handsher-ngu-863367/video.e2d6a8210b.mp4) · [Original post](https://x.com/handsher_NGU/status/2119887298292863367) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/handsher-ngu-863367?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/handsher-ngu-863367/video.de27a0ec31.mp4) · [Original post](https://x.com/handsher_NGU/status/2119887298292863367) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/handsher-ngu-863367?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:17 (1920×1080)

@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@petergostev](https://x.com/petergostev).
 
-[![Istanbul, built from a prompt](https://media.skillry.dev/fable-5-2/petergostev-394520/preview.1a73d2fe3b.webp)](https://media.skillry.dev/fable-5-2/petergostev-394520/video.bd0e17a82c.mp4)
+[![Istanbul, built from a prompt](https://media.skillry.dev/fable-5-2/petergostev-394520/preview.1a73d2fe3b.webp)](https://media.skillry.dev/fable-5-2/petergostev-394520/video.44bd69d564.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/petergostev-394520/video.bd0e17a82c.mp4) · [Original post](https://x.com/petergostev/status/2119877733488394520) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/petergostev-394520?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/petergostev-394520/video.44bd69d564.mp4) · [Original post](https://x.com/petergostev/status/2119877733488394520) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/petergostev-394520?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:39 (1920×958)

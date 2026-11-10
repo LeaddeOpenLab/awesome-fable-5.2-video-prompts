@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@Ldataengineer](https://x.com/Ldataengineer).
 
-[![What Earth looks like with the oceans drained](https://media.skillry.dev/fable-5-2/ldataengineer-146101/preview.60c60d53cb.webp)](https://media.skillry.dev/fable-5-2/ldataengineer-146101/video.2914ce64dc.mp4)
+[![What Earth looks like with the oceans drained](https://media.skillry.dev/fable-5-2/ldataengineer-146101/preview.60c60d53cb.webp)](https://media.skillry.dev/fable-5-2/ldataengineer-146101/video.1e4d794a7c.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/ldataengineer-146101/video.2914ce64dc.mp4) · [Original post](https://x.com/Ldataengineer/status/2119896030993146101) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/ldataengineer-146101?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/ldataengineer-146101/video.1e4d794a7c.mp4) · [Original post](https://x.com/Ldataengineer/status/2119896030993146101) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/ldataengineer-146101?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:16 (1920×1080)

@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@Pumpnasterr](https://x.com/Pumpnasterr).
 
-[![An Overwatch-style hero brawler](https://media.skillry.dev/fable-5-2/pumpnasterr-609238/preview.8188cafc55.webp)](https://media.skillry.dev/fable-5-2/pumpnasterr-609238/video.bcd599905f.mp4)
+[![An Overwatch-style hero brawler](https://media.skillry.dev/fable-5-2/pumpnasterr-609238/preview.8188cafc55.webp)](https://media.skillry.dev/fable-5-2/pumpnasterr-609238/video.57178d093b.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/pumpnasterr-609238/video.bcd599905f.mp4) · [Original post](https://x.com/Pumpnasterr/status/2119895877250609238) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/pumpnasterr-609238?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://www.spawn.co/@abbidabbi/rifts)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/pumpnasterr-609238/video.57178d093b.mp4) · [Original post](https://x.com/Pumpnasterr/status/2119895877250609238) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/pumpnasterr-609238?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://www.spawn.co/@abbidabbi/rifts)
 
 - **Category:** Games & interactive
 - **Length:** 1:21 (1920×1080)

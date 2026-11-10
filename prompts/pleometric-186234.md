@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@pleometric](https://x.com/pleometric).
 
-[![A tribute to 90s Bryce ray tracing](https://media.skillry.dev/fable-5-2/pleometric-186234/preview.8159803180.webp)](https://media.skillry.dev/fable-5-2/pleometric-186234/video.3d617db361.mp4)
+[![A tribute to 90s Bryce ray tracing](https://media.skillry.dev/fable-5-2/pleometric-186234/preview.8159803180.webp)](https://media.skillry.dev/fable-5-2/pleometric-186234/video.3058a7057a.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/pleometric-186234/video.3d617db361.mp4) · [Original post](https://x.com/pleometric/status/2119901747930186234) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/pleometric-186234?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/pleometric-186234/video.3058a7057a.mp4) · [Original post](https://x.com/pleometric/status/2119901747930186234) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/pleometric-186234?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:15 (1920×1080)

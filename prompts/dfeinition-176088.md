@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@dfeinition](https://x.com/dfeinition).
 
-[![A zoetrope spun to life](https://media.skillry.dev/fable-5-2/dfeinition-176088/preview.bbdb7f1949.webp)](https://media.skillry.dev/fable-5-2/dfeinition-176088/video.f972d16e3a.mp4)
+[![A zoetrope spun to life](https://media.skillry.dev/fable-5-2/dfeinition-176088/preview.bbdb7f1949.webp)](https://media.skillry.dev/fable-5-2/dfeinition-176088/video.ead42018f7.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/dfeinition-176088/video.f972d16e3a.mp4) · [Original post](https://x.com/dfeinition/status/2119892210376176088) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/dfeinition-176088?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/dfeinition-176088/video.ead42018f7.mp4) · [Original post](https://x.com/dfeinition/status/2119892210376176088) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/dfeinition-176088?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Explainers
 - **Length:** 0:21 (1920×1920)

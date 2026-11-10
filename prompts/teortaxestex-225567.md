@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@teortaxesTex](https://x.com/teortaxesTex).
 
-[![A Minecraft-style world in Three.js](https://media.skillry.dev/fable-5-2/teortaxestex-225567/preview.9a2c900a29.webp)](https://media.skillry.dev/fable-5-2/teortaxestex-225567/video.cab216b58f.mp4)
+[![A Minecraft-style world in Three.js](https://media.skillry.dev/fable-5-2/teortaxestex-225567/preview.9a2c900a29.webp)](https://media.skillry.dev/fable-5-2/teortaxestex-225567/video.49a8474013.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/teortaxestex-225567/video.cab216b58f.mp4) · [Original post](https://x.com/teortaxesTex/status/2119899511317225567) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/teortaxestex-225567?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/teortaxestex-225567/video.49a8474013.mp4) · [Original post](https://x.com/teortaxesTex/status/2119899511317225567) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/teortaxestex-225567?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 2:00 (1920×1080)

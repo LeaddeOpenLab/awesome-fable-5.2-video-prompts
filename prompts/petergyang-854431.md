@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@petergyang](https://x.com/petergyang).
 
-[![A travel ad for Fushimi Inari in autumn](https://media.skillry.dev/fable-5-2/petergyang-854431/preview.b7349b5e7f.webp)](https://media.skillry.dev/fable-5-2/petergyang-854431/video.1990d09857.mp4)
+[![A travel ad for Fushimi Inari in autumn](https://media.skillry.dev/fable-5-2/petergyang-854431/preview.b7349b5e7f.webp)](https://media.skillry.dev/fable-5-2/petergyang-854431/video.af2ff3278e.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/petergyang-854431/video.1990d09857.mp4) · [Original post](https://x.com/petergyang/status/2119886560992854431) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/petergyang-854431?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/petergyang-854431/video.af2ff3278e.mp4) · [Original post](https://x.com/petergyang/status/2119886560992854431) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/petergyang-854431?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:20 (1920×1080)

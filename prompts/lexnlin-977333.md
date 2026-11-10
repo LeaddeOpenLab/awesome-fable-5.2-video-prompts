@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@LexnLin](https://x.com/LexnLin).
 
-[![A flight through a living world](https://media.skillry.dev/fable-5-2/lexnlin-977333/preview.45c035e8db.webp)](https://media.skillry.dev/fable-5-2/lexnlin-977333/video.7c4d940aa5.mp4)
+[![A flight through a living world](https://media.skillry.dev/fable-5-2/lexnlin-977333/preview.45c035e8db.webp)](https://media.skillry.dev/fable-5-2/lexnlin-977333/video.51eaff703d.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/lexnlin-977333/video.7c4d940aa5.mp4) · [Original post](https://x.com/LexnLin/status/2119880654858977333) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/lexnlin-977333?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](https://media.skillry.dev/fable-5-2/lexnlin-977333/video.51eaff703d.mp4) · [Original post](https://x.com/LexnLin/status/2119880654858977333) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/lexnlin-977333?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Motion graphics
 - **Length:** 0:30 (1920×1080)
