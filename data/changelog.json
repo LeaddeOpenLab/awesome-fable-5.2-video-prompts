@@ -1,6 +1,11 @@
 [
   {
     "date": "2026-11-10",
+    "added": 1,
+    "total": 179
+  },
+  {
+    "date": "2026-11-10",
     "added": 178,
     "total": 178,
     "note": "first release with the community showcase film"
