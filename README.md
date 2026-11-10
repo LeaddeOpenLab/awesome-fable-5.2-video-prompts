@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-178-121313)](https://skillry.dev/ai-videos/fable5-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) [![Prompts](https://img.shields.io/badge/prompts-20-f4ff71?labelColor=121313)](#prompts-you-can-copy) [![Updated](https://img.shields.io/badge/updated-2026--11--10-2bb673)](#changelog) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-<a href="https://media.skillry.dev/fable-5-2/_readme/showcase.c5060ab723.mp4"><img src="https://media.skillry.dev/fable-5-2/_readme/showcase-poster.b909928064.webp" alt="Fable 5.2 showcase film: a 5:06 montage of videos the community made with Fable 5.2. Click to play." width="100%"></a>
+<a href="https://media.skillry.dev/fable-5-2/_readme/showcase.c5060ab723.mp4"><img src="https://media.skillry.dev/fable-5-2/_readme/showcase-teaser.4dcb7309b2.webp" alt="Fable 5.2 showcase film: a 5:06 montage of videos the community made with Fable 5.2. Click to play." width="100%"></a>
 
 **The Fable 5.2 showcase film.** A 5:06 montage of what the community made with Fable 5.2: launch films, anime shorts, 3D cities, explainers and playable games. **[Play the film](https://media.skillry.dev/fable-5-2/_readme/showcase.c5060ab723.mp4)** (MP4, 1080p).
 
