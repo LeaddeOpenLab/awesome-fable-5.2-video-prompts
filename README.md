@@ -6,7 +6,7 @@
 
 **☆ Star this repo to keep the prompts handy for your next project.**
 
-180 video examples · 20 publicly shared prompts · 5 categories. Videos, posters and animated previews are archived in `media/`.
+180 video examples · 5 categories. Videos, posters and animated previews are archived in `media/`.
 
 [Featured creations](#featured-creations) · [Start with a prompt](#start-here) · [Latest additions](#recently-added) · [Browse the full repository](#browse-the-full-library)
 

@@ -24,20 +24,9 @@ backup=ROOT/'data/upstream';backup.mkdir(exist_ok=True)
 if not (backup/'README.md').exists(): shutil.copy2(ROOT/'README.md',backup/'README.md')
 public=[v for v in items if v.get('prompt')]
 updated_at=json.loads((ROOT/'data/catalog.json').read_text())['updated_at']
-(ROOT/'data/banner.svg').write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-<title id="title">Fable 5.2 Video Prompts — {len(items)} video examples</title>
-<desc id="desc">{len(public)} shared prompts. Last updated {updated_at}. Leadde Open Lab.</desc>
-<rect width="1280" height="320" rx="24" fill="#151b2d"/>
-<text x="64" y="62" fill="#a9c3ff" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">LEADDE OPEN LAB</text>
-<text x="64" y="110" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="bold">Fable 5.2 Video Prompts</text>
-<text x="60" y="244" fill="#ffffff" font-family="Arial, sans-serif" font-size="112" font-weight="bold">{len(items)}</text>
-<text x="280" y="220" fill="#d8dfef" font-family="Arial, sans-serif" font-size="27">video examples</text>
-<text x="280" y="253" fill="#a9c3ff" font-family="Arial, sans-serif" font-size="20">{len(public)} shared prompts</text>
-<path d="M700 146V266" stroke="#36415d" stroke-width="2"/>
-<text x="756" y="177" fill="#a9c3ff" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">LAST UPDATED</text>
-<text x="756" y="237" fill="#ffffff" font-family="Arial, sans-serif" font-size="44" font-weight="bold">{updated_at}</text>
-</svg>''')
-lines=['# Awesome Fable 5.2 Video Prompts','','![Fable 5.2 — total examples and latest update](data/banner.svg)','','**Creator-shared prompts, visual previews, and original sources — curated by Leadde Open Lab.** Explore Fable 5.2 videos, animation, 3D worlds and interactive projects.','','**☆ Star this repo to keep the prompts handy for your next project.**','',f'{len(items)} video examples · {len(public)} publicly shared prompts · {len(set(v["category"] for v in items))} categories. Videos, posters and animated previews are archived in `media/`.','','[Featured creations](#featured-creations) · [Start with a prompt](#start-here) · [Latest additions](#recently-added) · [Browse the full repository](#browse-the-full-library)','','## Featured creations','','Read the creator’s prompt on GitHub, watch the archived video, or open the original post.','',table(public[:6],2),'## Start here','','| Creative direction | Shared prompt |','| --- | --- |']
+catalog=json.loads((ROOT/'data/catalog.json').read_text())
+(ROOT/'data/banner.svg').write_text((ROOT/'data/banner-template.svg').read_text().replace('{{TOTAL}}',str(catalog.get('total',len(items)))).replace('{{ADDED}}',str(catalog.get('recently_added',0))).replace('{{UPDATED_AT}}',updated_at))
+lines=['# Awesome Fable 5.2 Video Prompts','','![Fable 5.2 — total examples and latest update](data/banner.svg)','','**Creator-shared prompts, visual previews, and original sources — curated by Leadde Open Lab.** Explore Fable 5.2 videos, animation, 3D worlds and interactive projects.','','**☆ Star this repo to keep the prompts handy for your next project.**','',f'{catalog.get('total',len(items))} video examples · {len(set(v["category"] for v in items))} categories. Videos, posters and animated previews are archived in `media/`.','','[Featured creations](#featured-creations) · [Start with a prompt](#start-here) · [Latest additions](#recently-added) · [Browse the full repository](#browse-the-full-library)','','## Featured creations','','Read the creator’s prompt on GitHub, watch the archived video, or open the original post.','',table(public[:6],2),'## Start here','','| Creative direction | Shared prompt |','| --- | --- |']
 for cat in categories:
  v=next((v for v in public if v['category']==cat),None)
  if v: lines.append(f'| {categories[cat]} | [{v["title"]}](prompts/{v["slug"]}.md) |')
