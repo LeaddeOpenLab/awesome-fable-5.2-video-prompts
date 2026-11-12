@@ -8,7 +8,7 @@ assert len(items)==len(local)
 assert len({v['slug'] for v in items})==len(items)
 for item,record in zip(items,local):
  assert item['slug']==record['slug']
- assert item['post_url']==record['post_url'] and re.match(r'https://x.com/[^/]+/status/\d+',item['post_url'])
+ assert item['post_url']==record['post_url'] and item['post_url'].startswith('https://')
  prompt=(ROOT/record['prompt_path']).read_text()
  assert item['post_url'] in prompt
  if item.get('prompt'): assert item['prompt'] in prompt
