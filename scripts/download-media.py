@@ -1,5 +1,5 @@
 """Download only media referenced by the cloned source index; never searches X."""
-import concurrent.futures, json, subprocess, re
+import concurrent.futures, json, subprocess
 from pathlib import Path
 from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
@@ -11,9 +11,6 @@ for item in items:
         if url:
             path=ROOT/'media'/item['slug']/Path(urlparse(url).path).name
             jobs.append((url,path))
-for url in sorted(set(re.findall(r'https://media\.skillry\.dev/[^\s"<>)]*', (ROOT/'data/upstream/README.md').read_text()))):
-    if '/_readme/' in url:
-        jobs.append((url, ROOT/'media/_readme'/Path(urlparse(url).path).name))
 def download(job):
     url,path=job
     path.parent.mkdir(parents=True,exist_ok=True)

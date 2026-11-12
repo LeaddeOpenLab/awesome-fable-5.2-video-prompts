@@ -1,6 +1,6 @@
 # Awesome Fable 5.2 Video Prompts
 
-![Fable 5.2 community collection](data/banner.svg)
+![Fable 5.2 — total examples and latest update](data/banner.svg)
 
 **Creator-shared prompts, visual previews, and original sources — curated by Leadde Open Lab.** Explore Fable 5.2 videos, animation, 3D worlds and interactive projects.
 
@@ -9,10 +9,6 @@
 180 video examples · 20 publicly shared prompts · 5 categories. Videos, posters and animated previews are archived in `media/`.
 
 [Featured creations](#featured-creations) · [Start with a prompt](#start-here) · [Latest additions](#recently-added) · [Browse the full repository](#browse-the-full-library)
-
-## Showcase film
-
-[![Fable 5.2 showcase film](media/_readme/showcase-teaser.4dcb7309b2.webp)](media/_readme/showcase.c5060ab723.mp4)
 
 ## Featured creations
 
@@ -369,7 +365,7 @@ Entries without a disclosed prompt are labelled **Prompt not published**; their 
 
 ## Clone with all videos
 
-Video files are stored with Git LFS, including the original showcase film.
+Individual case videos are stored with Git LFS.
 
 ```bash
 git lfs install
