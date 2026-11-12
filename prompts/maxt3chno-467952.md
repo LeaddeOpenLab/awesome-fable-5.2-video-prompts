@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@maxt3chno](https://x.com/maxt3chno).
 
-[![A zombie eagle sculpted through Blender MCP](https://media.skillry.dev/fable-5-2/maxt3chno-467952/preview.6032413028.webp)](https://media.skillry.dev/fable-5-2/maxt3chno-467952/video.16700423ec.mp4)
+[![A zombie eagle sculpted through Blender MCP](../media/maxt3chno-467952/preview.6032413028.webp)](../media/maxt3chno-467952/video.16700423ec.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/maxt3chno-467952/video.16700423ec.mp4) · [Original post](https://x.com/maxt3chno/status/2119896698281467952) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/maxt3chno-467952?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/maxt3chno-467952/video.16700423ec.mp4) · [Original post](https://x.com/maxt3chno/status/2119896698281467952) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/maxt3chno-467952?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:21 (1920×1228)
@@ -109,3 +109,5 @@ Shared in a [separate post](https://x.com/maxt3chno/status/2119896909062058411).
 > Fable cooked this in 40 minutes
 >
 > the wildest part? it's not even finished yet
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Public prompt

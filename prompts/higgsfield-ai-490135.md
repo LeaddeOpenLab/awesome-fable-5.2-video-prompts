@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@higgsfield_ai](https://x.com/higgsfield_ai).
 
-[![A rigged zombie hand that crawls and backflips](https://media.skillry.dev/fable-5-2/higgsfield-ai-490135/preview.efe1b055b4.webp)](https://media.skillry.dev/fable-5-2/higgsfield-ai-490135/video.e3ae90993a.mp4)
+[![A rigged zombie hand that crawls and backflips](../media/higgsfield-ai-490135/preview.efe1b055b4.webp)](../media/higgsfield-ai-490135/video.e3ae90993a.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/higgsfield-ai-490135/video.e3ae90993a.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119893970897490135) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-490135?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/higgsfield-ai-490135/video.e3ae90993a.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119893970897490135) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-490135?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:19 (1920×1080)
@@ -113,3 +113,5 @@ Shared in a [separate post](https://higgsfield.ai/zh/@higgsfield.studio/blogs/br
 > Claude Fable 5.2 built this zombie hand in Blender, gave it a working rig, and animated it crawling, backflipping, and making gestures.
 >
 > Here’s how we built it with Claude and Higgsfield.
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Public prompt

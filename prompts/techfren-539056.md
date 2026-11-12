@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@techfren](https://x.com/techfren).
 
-[![Simple rules, complex beauty](https://media.skillry.dev/fable-5-2/techfren-539056/preview.6343f2f89f.webp)](https://media.skillry.dev/fable-5-2/techfren-539056/video.75fd49e8d1.mp4)
+[![Simple rules, complex beauty](../media/techfren-539056/preview.6343f2f89f.webp)](../media/techfren-539056/video.75fd49e8d1.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/techfren-539056/video.75fd49e8d1.mp4) · [Original post](https://x.com/techfren/status/2119899949756539056) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/techfren-539056?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/techfren-539056/video.75fd49e8d1.mp4) · [Original post](https://x.com/techfren/status/2119899949756539056) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/techfren-539056?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Motion graphics
 - **Length:** 1:18 (1920×1080)
@@ -23,3 +23,5 @@ A Fable 5.2 video by [@techfren](https://x.com/techfren).
 > (added some bg music from suno afterwards, everything else is claude code generated)
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Motion Graphics & Typography · Prompt not published

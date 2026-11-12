@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@alliekmiller](https://x.com/alliekmiller).
 
-[![A nationwide water safety map](https://media.skillry.dev/fable-5-2/alliekmiller-757417/preview.cdabc6d1b1.webp)](https://media.skillry.dev/fable-5-2/alliekmiller-757417/video.72f4192da5.mp4)
+[![A nationwide water safety map](../media/alliekmiller-757417/preview.cdabc6d1b1.webp)](../media/alliekmiller-757417/video.72f4192da5.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/alliekmiller-757417/video.72f4192da5.mp4) · [Original post](https://x.com/alliekmiller/status/2119868629818757417) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/alliekmiller-757417?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/alliekmiller-757417/video.72f4192da5.mp4) · [Original post](https://x.com/alliekmiller/status/2119868629818757417) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/alliekmiller-757417?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Explainers
 - **Length:** 1:22 (1920×1080)
@@ -28,3 +28,5 @@ A Fable 5.2 video by [@alliekmiller](https://x.com/alliekmiller).
 > The new model also built out this trailer video below.
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Explainers & Education · Prompt not published

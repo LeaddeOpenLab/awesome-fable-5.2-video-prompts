@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@RuslanKyrch](https://x.com/RuslanKyrch).
 
-[![A promo for a shipping label app](https://media.skillry.dev/fable-5-2/ruslankyrch-762218/preview.c75aefaa7c.webp)](https://media.skillry.dev/fable-5-2/ruslankyrch-762218/video.faac325d4b.mp4)
+[![A promo for a shipping label app](../media/ruslankyrch-762218/preview.c75aefaa7c.webp)](../media/ruslankyrch-762218/video.faac325d4b.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/ruslankyrch-762218/video.faac325d4b.mp4) · [Original post](https://x.com/RuslanKyrch/status/2119896220814762218) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/ruslankyrch-762218?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/ruslankyrch-762218/video.faac325d4b.mp4) · [Original post](https://x.com/RuslanKyrch/status/2119896220814762218) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/ruslankyrch-762218?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Launch films
 - **Length:** 0:20 (1080×1350)
@@ -25,3 +25,5 @@ A Fable 5.2 video by [@RuslanKyrch](https://x.com/RuslanKyrch).
 > Me parece un cambio brutal
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Product & Brand Videos · Prompt not published

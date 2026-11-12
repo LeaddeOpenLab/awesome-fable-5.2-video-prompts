@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@Scratcherrrr](https://x.com/Scratcherrrr).
 
-[![A 3D piranha that takes itself apart](https://media.skillry.dev/fable-5-2/scratcherrrr-785332/preview.419f8ba3fa.webp)](https://media.skillry.dev/fable-5-2/scratcherrrr-785332/video.d720d4afc3.mp4)
+[![A 3D piranha that takes itself apart](../media/scratcherrrr-785332/preview.419f8ba3fa.webp)](../media/scratcherrrr-785332/video.d720d4afc3.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/scratcherrrr-785332/video.d720d4afc3.mp4) · [Original post](https://x.com/Scratcherrrr/status/2119909780269785332) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/scratcherrrr-785332?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/scratcherrrr-785332/video.d720d4afc3.mp4) · [Original post](https://x.com/Scratcherrrr/status/2119909780269785332) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/scratcherrrr-785332?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:20 (1920×1080)
@@ -39,3 +39,5 @@ A Fable 5.2 video by [@Scratcherrrr](https://x.com/Scratcherrrr).
 > what should I make Fable 5.2 build from scratch?
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Prompt not published

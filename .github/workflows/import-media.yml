@@ -1,0 +1,24 @@
+name: Import source media
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the existing source index (no X search)
+        run: python3 scripts/download-media.py
+      - name: Check imported content
+        run: python3 scripts/check-catalog.py
+      - name: Save media with Git LFS
+        run: |
+          git lfs install --local
+          git config user.name 'Leadde Open Lab'
+          git config user.email 'actions@users.noreply.github.com'
+          git add media data/media-download-errors.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Archive all source videos and previews with Git LFS'
+          git push origin HEAD:main

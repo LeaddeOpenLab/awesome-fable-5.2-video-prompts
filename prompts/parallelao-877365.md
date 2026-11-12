@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@parallelao](https://x.com/parallelao).
 
-[![A PvP arena game in Unreal Engine](https://media.skillry.dev/fable-5-2/parallelao-877365/preview.2f7d8c1ea6.webp)](https://media.skillry.dev/fable-5-2/parallelao-877365/video.6ff4d022cc.mp4)
+[![A PvP arena game in Unreal Engine](../media/parallelao-877365/preview.2f7d8c1ea6.webp)](../media/parallelao-877365/video.6ff4d022cc.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/parallelao-877365/video.6ff4d022cc.mp4) · [Original post](https://x.com/parallelao/status/2119889035149877365) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/parallelao-877365?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/parallelao-877365/video.6ff4d022cc.mp4) · [Original post](https://x.com/parallelao/status/2119889035149877365) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/parallelao-877365?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 0:56 (1920×1080)
@@ -25,3 +25,5 @@ A Fable 5.2 video by [@parallelao](https://x.com/parallelao).
 > Reply for details
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Prompt not published

@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@vib3coded](https://x.com/vib3coded).
 
-[![A volume slider with a cozy room inside](https://media.skillry.dev/fable-5-2/vib3coded-505627/preview.1fb6588a2c.webp)](https://media.skillry.dev/fable-5-2/vib3coded-505627/video.fc8fa57494.mp4)
+[![A volume slider with a cozy room inside](../media/vib3coded-505627/preview.1fb6588a2c.webp)](../media/vib3coded-505627/video.fc8fa57494.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/vib3coded-505627/video.fc8fa57494.mp4) · [Original post](https://x.com/vib3coded/status/2119876781700505627) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/vib3coded-505627?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/vib3coded-505627/video.fc8fa57494.mp4) · [Original post](https://x.com/vib3coded/status/2119876781700505627) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/vib3coded-505627?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 0:13 (1920×1080)
@@ -86,3 +86,5 @@ Shared in a [separate post](https://x.com/vib3coded/status/2119877121732419838).
 > I’m blown away. Fable 5.2 is incredible
 >
 > It built this addictive volume slider in 10 minutes for just $8.43
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Public prompt

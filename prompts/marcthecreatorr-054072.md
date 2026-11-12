@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@marcthecreatorr](https://x.com/marcthecreatorr).
 
-[![A golden sailing ship above the clouds](https://media.skillry.dev/fable-5-2/marcthecreatorr-054072/preview.93b05acb35.webp)](https://media.skillry.dev/fable-5-2/marcthecreatorr-054072/video.4379fb2274.mp4)
+[![A golden sailing ship above the clouds](../media/marcthecreatorr-054072/preview.93b05acb35.webp)](../media/marcthecreatorr-054072/video.4379fb2274.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/marcthecreatorr-054072/video.4379fb2274.mp4) · [Original post](https://x.com/marcthecreatorr/status/2119890973560054072) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/marcthecreatorr-054072?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://claude.ai/artifact/7ge282etTXSS4edGFTFa85)
+[▶ Watch the video](../media/marcthecreatorr-054072/video.4379fb2274.mp4) · [Original post](https://x.com/marcthecreatorr/status/2119890973560054072) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/marcthecreatorr-054072?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://claude.ai/artifact/7ge282etTXSS4edGFTFa85)
 
 - **Category:** 3D scenes
 - **Length:** 0:53 (1920×858)
@@ -23,3 +23,5 @@ A Fable 5.2 video by [@marcthecreatorr](https://x.com/marcthecreatorr).
 > OpenAI really has to step up now and drop 6.2 Astra
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Prompt not published

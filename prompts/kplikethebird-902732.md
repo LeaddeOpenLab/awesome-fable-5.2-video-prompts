@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@kplikethebird](https://x.com/kplikethebird).
 
-[![An immersive 3D model of ancient Jerusalem](https://media.skillry.dev/fable-5-2/kplikethebird-902732/preview.1e5bcc5ec1.webp)](https://media.skillry.dev/fable-5-2/kplikethebird-902732/video.7395e83d4c.mp4)
+[![An immersive 3D model of ancient Jerusalem](../media/kplikethebird-902732/preview.1e5bcc5ec1.webp)](../media/kplikethebird-902732/video.7395e83d4c.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/kplikethebird-902732/video.7395e83d4c.mp4) · [Original post](https://x.com/kplikethebird/status/2119900775727902732) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/kplikethebird-902732?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://fable-jerusalem.vercel.app/)
+[▶ Watch the video](../media/kplikethebird-902732/video.7395e83d4c.mp4) · [Original post](https://x.com/kplikethebird/status/2119900775727902732) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/kplikethebird-902732?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://fable-jerusalem.vercel.app/)
 
 - **Category:** 3D scenes
 - **Length:** 0:30 (1920×1080)
@@ -23,3 +23,5 @@ Build an immersive, historically accurate 3D model of Jerusalem during the week 
 > Prompt: "Build an immersive, historically accurate 3D model of Jerusalem during the week of Jesus's final visit using Blender."
 >
 > You can wander the streets of Jerusalem yourself:
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Public prompt

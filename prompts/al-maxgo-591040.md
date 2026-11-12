@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@al_maxgo](https://x.com/al_maxgo).
 
-[![A trailer for a chart-making tool](https://media.skillry.dev/fable-5-2/al-maxgo-591040/preview.742a318389.webp)](https://media.skillry.dev/fable-5-2/al-maxgo-591040/video.05fc93e5e4.mp4)
+[![A trailer for a chart-making tool](../media/al-maxgo-591040/preview.742a318389.webp)](../media/al-maxgo-591040/video.05fc93e5e4.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/al-maxgo-591040/video.05fc93e5e4.mp4) · [Original post](https://x.com/al_maxgo/status/2119891197317591040) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/al-maxgo-591040?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/al-maxgo-591040/video.05fc93e5e4.mp4) · [Original post](https://x.com/al_maxgo/status/2119891197317591040) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/al-maxgo-591040?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Launch films
 - **Length:** 0:28 (1080×1920)
@@ -25,3 +25,5 @@ Shared in a [separate post](https://x.com/al_maxgo/status/2119894113252212885).
 > No editor, no stock music, no templates. It read the codebase, rendered the real charts, wrote the animation in HTML with HyperFrames, and synthesized the soundtrack from scratch in code.
 >
 > This would have been unbelievable just a few years ago 😱
+
+**Tags:** Fable 5.2 · Product & Brand Videos · Public prompt

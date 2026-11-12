@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@higgsfield_ai](https://x.com/higgsfield_ai).
 
-[![A sci-fi shooter built with Blender and Unreal](https://media.skillry.dev/fable-5-2/higgsfield-ai-529605/preview.30f615a1b7.webp)](https://media.skillry.dev/fable-5-2/higgsfield-ai-529605/video.1a181ee09a.mp4)
+[![A sci-fi shooter built with Blender and Unreal](../media/higgsfield-ai-529605/preview.30f615a1b7.webp)](../media/higgsfield-ai-529605/video.1a181ee09a.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/higgsfield-ai-529605/video.1a181ee09a.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119897113534529605) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-529605?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/higgsfield-ai-529605/video.1a181ee09a.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119897113534529605) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-529605?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 0:25 (1080×1120)
@@ -19,3 +19,5 @@ A Fable 5.2 video by [@higgsfield_ai](https://x.com/higgsfield_ai).
 > Full workflow below 👇
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Prompt not published

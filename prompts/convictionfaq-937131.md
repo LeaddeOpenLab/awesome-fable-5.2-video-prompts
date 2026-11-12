@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@ConvictionFAQ](https://x.com/ConvictionFAQ).
 
-[![A PS2-style nuclear explosion](https://media.skillry.dev/fable-5-2/convictionfaq-937131/preview.bace4e9577.webp)](https://media.skillry.dev/fable-5-2/convictionfaq-937131/video.02b5cf05d8.mp4)
+[![A PS2-style nuclear explosion](../media/convictionfaq-937131/preview.bace4e9577.webp)](../media/convictionfaq-937131/video.02b5cf05d8.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/convictionfaq-937131/video.02b5cf05d8.mp4) · [Original post](https://x.com/ConvictionFAQ/status/2119898203088937131) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/convictionfaq-937131?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/convictionfaq-937131/video.02b5cf05d8.mp4) · [Original post](https://x.com/ConvictionFAQ/status/2119898203088937131) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/convictionfaq-937131?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:10 (1440×1080)
@@ -19,3 +19,5 @@ A Fable 5.2 video by [@ConvictionFAQ](https://x.com/ConvictionFAQ).
 > >PS 2 STYLE + MAX REASONING
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Prompt not published

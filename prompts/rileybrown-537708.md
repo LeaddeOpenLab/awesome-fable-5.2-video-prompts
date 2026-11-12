@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@rileybrown](https://x.com/rileybrown).
 
-[![A launch film staged on a desk](https://media.skillry.dev/fable-5-2/rileybrown-537708/preview.81f8c850e2.webp)](https://media.skillry.dev/fable-5-2/rileybrown-537708/video.cf30c12150.mp4)
+[![A launch film staged on a desk](../media/rileybrown-537708/preview.81f8c850e2.webp)](../media/rileybrown-537708/video.cf30c12150.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/rileybrown-537708/video.cf30c12150.mp4) · [Original post](https://x.com/rileybrown/status/2119902109709537708) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/rileybrown-537708?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa)
+[▶ Watch the video](../media/rileybrown-537708/video.cf30c12150.mp4) · [Original post](https://x.com/rileybrown/status/2119902109709537708) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/rileybrown-537708?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa)
 
 - **Category:** Launch films
 - **Length:** 0:59 (1920×1080)
@@ -31,3 +31,5 @@ A Fable 5.2 video by [@rileybrown](https://x.com/rileybrown).
 > (More info below)
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Product & Brand Videos · Prompt not published

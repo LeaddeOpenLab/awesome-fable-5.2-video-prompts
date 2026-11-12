@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@notjazii](https://x.com/notjazii).
 
-[![A pirate ship sailing across the ocean](https://media.skillry.dev/fable-5-2/notjazii-122575/preview.ff0527515f.webp)](https://media.skillry.dev/fable-5-2/notjazii-122575/video.4d67b5c657.mp4)
+[![A pirate ship sailing across the ocean](../media/notjazii-122575/preview.ff0527515f.webp)](../media/notjazii-122575/video.4d67b5c657.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/notjazii-122575/video.4d67b5c657.mp4) · [Original post](https://x.com/notjazii/status/2119905661505122575) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/notjazii-122575?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://tests.jazii.dev/)
+[▶ Watch the video](../media/notjazii-122575/video.4d67b5c657.mp4) · [Original post](https://x.com/notjazii/status/2119905661505122575) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/notjazii-122575?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) · [Live demo](https://tests.jazii.dev/)
 
 - **Category:** 3D scenes
 - **Length:** 0:50 (1920×1080)
@@ -24,3 +24,5 @@ A Fable 5.2 video by [@notjazii](https://x.com/notjazii).
 > i am really loving model so far. stuff that opus couldn’t do, fable is just one shotting at medium or high reasoning
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Prompt not published

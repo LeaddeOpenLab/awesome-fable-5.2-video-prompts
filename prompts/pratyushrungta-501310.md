@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@pratyushrungta](https://x.com/pratyushrungta).
 
-[![A Hollow Knight-style game in five minutes](https://media.skillry.dev/fable-5-2/pratyushrungta-501310/preview.78cac4d3c9.webp)](https://media.skillry.dev/fable-5-2/pratyushrungta-501310/video.81943a60e6.mp4)
+[![A Hollow Knight-style game in five minutes](../media/pratyushrungta-501310/preview.78cac4d3c9.webp)](../media/pratyushrungta-501310/video.81943a60e6.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/pratyushrungta-501310/video.81943a60e6.mp4) · [Original post](https://x.com/pratyushrungta/status/2119891187511501310) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/pratyushrungta-501310?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/pratyushrungta-501310/video.81943a60e6.mp4) · [Original post](https://x.com/pratyushrungta/status/2119891187511501310) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/pratyushrungta-501310?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 0:42 (1920×1204)
@@ -17,3 +17,5 @@ A Fable 5.2 video by [@pratyushrungta](https://x.com/pratyushrungta).
 > took literally 5 min, its insane
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Prompt not published

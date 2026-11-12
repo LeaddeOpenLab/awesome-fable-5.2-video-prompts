@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@higgsfield_ai](https://x.com/higgsfield_ai).
 
-[![The world through a fly's eyes](https://media.skillry.dev/fable-5-2/higgsfield-ai-496421/preview.d45d99b85f.webp)](https://media.skillry.dev/fable-5-2/higgsfield-ai-496421/video.e43242ac59.mp4)
+[![The world through a fly's eyes](../media/higgsfield-ai-496421/preview.d45d99b85f.webp)](../media/higgsfield-ai-496421/video.e43242ac59.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/higgsfield-ai-496421/video.e43242ac59.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119907841599496421) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-496421?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/higgsfield-ai-496421/video.e43242ac59.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119907841599496421) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-496421?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:20 (1920×1080)
@@ -17,3 +17,5 @@ A Fable 5.2 video by [@higgsfield_ai](https://x.com/higgsfield_ai).
 > Three.js videos are getting so good.
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Prompt not published

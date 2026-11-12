@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@higgsfield_ai](https://x.com/higgsfield_ai).
 
-[![3D models built from reference videos](https://media.skillry.dev/fable-5-2/higgsfield-ai-938248/preview.3bfa028748.webp)](https://media.skillry.dev/fable-5-2/higgsfield-ai-938248/video.04d8aa74ac.mp4)
+[![3D models built from reference videos](../media/higgsfield-ai-938248/preview.3bfa028748.webp)](../media/higgsfield-ai-938248/video.04d8aa74ac.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/higgsfield-ai-938248/video.04d8aa74ac.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119890046748938248) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-938248?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/higgsfield-ai-938248/video.04d8aa74ac.mp4) · [Original post](https://x.com/higgsfield_ai/status/2119890046748938248) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/higgsfield-ai-938248?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** 3D scenes
 - **Length:** 0:30 (1920×1080)
@@ -65,3 +65,5 @@ Shared in a [separate post](https://higgsfield.ai/zh/@higgsfield.studio/blogs/ho
 > It built, rigged and rendered this glass head in Blender. References made on Higgsfield.
 >
 > Full workflow below 👇
+
+**Tags:** Fable 5.2 · 3D Worlds & Simulations · Public prompt

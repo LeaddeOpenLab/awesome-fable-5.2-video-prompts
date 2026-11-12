@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@NFT_Chen](https://x.com/NFT_Chen).
 
-[![The pelican benchmark turned into a playable scene](https://media.skillry.dev/fable-5-2/nft-chen-609967/preview.abe55fdcd8.webp)](https://media.skillry.dev/fable-5-2/nft-chen-609967/video.c1ac3b7f85.mp4)
+[![The pelican benchmark turned into a playable scene](../media/nft-chen-609967/preview.abe55fdcd8.webp)](../media/nft-chen-609967/video.c1ac3b7f85.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/nft-chen-609967/video.c1ac3b7f85.mp4) · [Original post](https://x.com/NFT_Chen/status/2119897058597609967) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/nft-chen-609967?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/nft-chen-609967/video.c1ac3b7f85.mp4) · [Original post](https://x.com/NFT_Chen/status/2119897058597609967) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/nft-chen-609967?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 0:30 (1920×1440)
@@ -21,3 +21,5 @@ A Fable 5.2 video by [@NFT_Chen](https://x.com/NFT_Chen).
 > #Fable52 #鹈鹕骑单车 #Anthropic #Dario #Claude
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Prompt not published

@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@joshvlc](https://x.com/joshvlc).
 
-[![A one-shot basketball arena game](https://media.skillry.dev/fable-5-2/joshvlc-958575/preview.1050e0e89b.webp)](https://media.skillry.dev/fable-5-2/joshvlc-958575/video.d651899331.mp4)
+[![A one-shot basketball arena game](../media/joshvlc-958575/preview.1050e0e89b.webp)](../media/joshvlc-958575/video.d651899331.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/joshvlc-958575/video.d651899331.mp4) · [Original post](https://x.com/joshvlc/status/2119894656221958575) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/joshvlc-958575?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/joshvlc-958575/video.d651899331.mp4) · [Original post](https://x.com/joshvlc/status/2119894656221958575) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/joshvlc-958575?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 0:19 (1920×720)
@@ -31,3 +31,5 @@ Shared in a [separate post](https://x.com/joshvlc/status/2119894940595695756).
 > Claude Fable 5.2, one shot (prompt below)
 >
 > Now what do we do!?
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Public prompt

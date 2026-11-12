@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@N1njaCodex](https://x.com/N1njaCodex).
 
-[![A volume slider with an underwater world](https://media.skillry.dev/fable-5-2/n1njacodex-001387/preview.0fcde4f302.webp)](https://media.skillry.dev/fable-5-2/n1njacodex-001387/video.97987983c6.mp4)
+[![A volume slider with an underwater world](../media/n1njacodex-001387/preview.0fcde4f302.webp)](../media/n1njacodex-001387/video.97987983c6.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/n1njacodex-001387/video.97987983c6.mp4) · [Original post](https://x.com/N1njaCodex/status/2119883560937001387) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/n1njacodex-001387?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/n1njacodex-001387/video.97987983c6.mp4) · [Original post](https://x.com/N1njaCodex/status/2119883560937001387) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/n1njacodex-001387?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 0:11 (1920×1080)
@@ -114,3 +114,5 @@ Shared in a [separate post](https://x.com/N1njaCodex/status/2119884222475522068)
 > It put a whole underwater world in there, complete with a turtle
 >
 > $7.48. Now I keep sliding it just to see what’s down there
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Public prompt

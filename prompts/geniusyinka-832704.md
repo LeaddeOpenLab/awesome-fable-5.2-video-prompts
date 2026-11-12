@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@geniusyinka](https://x.com/geniusyinka).
 
-[![A launch film for refurbished Macs](https://media.skillry.dev/fable-5-2/geniusyinka-832704/preview.eed3ce61c8.webp)](https://media.skillry.dev/fable-5-2/geniusyinka-832704/video.4fcd35d163.mp4)
+[![A launch film for refurbished Macs](../media/geniusyinka-832704/preview.eed3ce61c8.webp)](../media/geniusyinka-832704/video.4fcd35d163.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/geniusyinka-832704/video.4fcd35d163.mp4) · [Original post](https://x.com/geniusyinka/status/2119906654149832704) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/geniusyinka-832704?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/geniusyinka-832704/video.4fcd35d163.mp4) · [Original post](https://x.com/geniusyinka/status/2119906654149832704) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/geniusyinka-832704?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Launch films
 - **Length:** 0:54 (1920×1080)
@@ -19,3 +19,5 @@ A Fable 5.2 video by [@geniusyinka](https://x.com/geniusyinka).
 > banger
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Product & Brand Videos · Prompt not published

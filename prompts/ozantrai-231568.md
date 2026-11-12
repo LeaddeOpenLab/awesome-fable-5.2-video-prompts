@@ -2,9 +2,9 @@
 
 A Fable 5.2 video by [@OzanTRAI](https://x.com/OzanTRAI).
 
-[![A day-and-night platformer](https://media.skillry.dev/fable-5-2/ozantrai-231568/preview.85842e1987.webp)](https://media.skillry.dev/fable-5-2/ozantrai-231568/video.d25d36ce14.mp4)
+[![A day-and-night platformer](../media/ozantrai-231568/preview.85842e1987.webp)](../media/ozantrai-231568/video.d25d36ce14.mp4)
 
-[▶ Watch the video](https://media.skillry.dev/fable-5-2/ozantrai-231568/video.d25d36ce14.mp4) · [Original post](https://x.com/OzanTRAI/status/2119893945895231568) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/ozantrai-231568?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
+[▶ Watch the video](../media/ozantrai-231568/video.d25d36ce14.mp4) · [Original post](https://x.com/OzanTRAI/status/2119893945895231568) · [On Skillry](https://skillry.dev/ai-videos/fable5-2/ozantrai-231568?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)
 
 - **Category:** Games & interactive
 - **Length:** 1:36 (1914×1080)
@@ -19,3 +19,5 @@ A Fable 5.2 video by [@OzanTRAI](https://x.com/OzanTRAI).
 > Which model should I put through this test next?
 
 _The author did not publish the exact prompt; the post above is what they shared._
+
+**Tags:** Fable 5.2 · Games & Interactive Experiences · Prompt not published
