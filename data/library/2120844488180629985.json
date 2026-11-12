@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-12T12:01:24.744Z",
+  "model": "fable5.2",
+  "prompt": "create a realistic GPU sandbox to simulate element interaction",
+  "promptTranslations": {
+    "en": "create a realistic GPU sandbox to simulate element interaction"
+  },
+  "summary": "Claude Fable 5.2 was tasked with creating a realistic GPU sandbox to simulate element interactions, demonstrated running locally in a browser with interactive scenarios such as nuclear bomb explosions, element physics, and boids.",
+  "summaryEn": "GPU Sandbox Simulation of Element Interaction",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120844488180629985",
+    "canonicalUrl": "https://x.com/v3xi0n/status/2120844488180629985",
+    "author": {
+      "username": "v3xi0n",
+      "displayName": "V3xi0n",
+      "profileUrl": "https://x.com/v3xi0n"
+    },
+    "publishedAt": "2026-11-12T11:41:44.000Z",
+    "collectedAt": "2026-11-12T11:47:20.166Z",
+    "language": "en",
+    "originalText": "Asked Fable 5.2 to create a realistic GPU sandbox to simulate element interaction and it one-shotted it to create a fun simulation box:\nCurrently I have added Boids (for simulating birds), various elements and electronics!  \nI wonder if I can create a simple computer within it!",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/v3xi0n/status/2120844488180629985",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120844200002625536/img/8pdONVdCqZTc8JyW.jpg",
+        "analysisUrl": "https://x.com/v3xi0n/status/2120844488180629985"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part2"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/v3xi0n/status/2120844488180629985",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120844200002625536/img/8pdONVdCqZTc8JyW.jpg",
+  "coverPath": "covers/2120844488180629985.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120844200002625536",
+    "x-post:2120844488180629985"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "GPU Sandbox Simulation of Element Interaction",
+      "summary": "Claude Fable 5.2 was tasked with creating a realistic GPU sandbox to simulate element interactions, demonstrated running locally in a browser with interactive scenarios such as nuclear bomb explosions, element physics, and boids.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Asked Fable 5.2 to create a realistic GPU sandbox to simulate element interaction and it one-shotted it to create a fun simulation box"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create a realistic GPU sandbox to simulate element interaction",
+        "englishText": "create a realistic GPU sandbox to simulate element interaction",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts",
+          "Full verbatim user prompt instructions and configuration details",
+          "Implementation details of element interaction rules"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a desktop web application running on localhost:5174 titled with simulation controls (Pressure, Charge, Energy, Territories, Scenarios) demonstrating a nuclear bomb detonation simulation with pressure/thermal waves and particle physics.",
+        "textualResultQuote": "Currently I have added Boids (for simulating birds), various elements and electronics! I wonder if I can create a simple computer within it!"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "GPU Web Sandbox / Browser Canvas",
+          "role": "Execution runtime and graphics renderer for particle and grid physics simulation",
+          "evidence": "Asked Fable 5.2 to create a realistic GPU sandbox to simulate element interaction",
+          "sourceUrl": "https://x.com/v3xi0n/status/2120844488180629985",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "GPU Sandbox Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "gpu-simulation",
+          "sandbox",
+          "element-interaction",
+          "physics",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Claude Fable 5.2 wrote the initial GPU-based particle sandbox simulation code.",
+      "outputSource": "Web application running in a local browser (localhost:5174) with GPU-accelerated canvas rendering.",
+      "divisionEvidence": "Asked Fable 5.2 to create a realistic GPU sandbox to simulate element interaction and it one-shotted it to create a fun simulation box: Currently I have added Boids (for simulating birds), various elements and electronics!",
+      "video": {
+        "shots": "Single screen recording capture showing scenario selection and triggering a nuclear detonation in the simulation sandbox",
+        "duration": "11s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The author documents asking Claude Fable 5.2 to create an interactive GPU-based sandbox element simulation, accompanied by a screen recording demonstrating the resulting interactive physics simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/v3xi0n/status/2120844488180629985",
+        "start": 19,
+        "end": 81
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/v3xi0n/status/2120844488180629985",
+        "author": "v3xi0n",
+        "postId": "2120844488180629985",
+        "publishedAt": "2026-11-12T11:41:44.000Z"
+      },
+      "checkedAt": "2026-11-12T11:54:40.975Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/v3xi0n/status/2120844488180629985",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Fable 5.2 was tasked with creating a realistic GPU sandbox to simulate element interactions, demonstrated running locally in a browser with interactive scenarios such as nuclear bomb explosions, element physics, and boids.",
+    "summaryEn": "GPU Sandbox Simulation of Element Interaction",
+    "originalPrompt": "create a realistic GPU sandbox to simulate element interaction",
+    "sourceRange": {
+      "start": 19,
+      "end": 81
+    },
+    "translations": {
+      "zh": "create a realistic GPU sandbox to simulate element interaction",
+      "en": "create a realistic GPU sandbox to simulate element interaction"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "GPU Sandbox Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts",
+        "Full verbatim user prompt instructions and configuration details",
+        "Implementation details of element interaction rules"
+      ],
+      "evidence": "The video shows a desktop web application running on localhost:5174 titled with simulation controls (Pressure, Charge, Energy, Territories, Scenarios) demonstrating a nuclear bomb detonation simulation with pressure/thermal waves and particle physics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

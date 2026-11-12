@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-12T12:01:25.109Z",
+  "model": "fable5.2",
+  "prompt": "I want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start.",
+  "promptTranslations": {
+    "en": "I want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start."
+  },
+  "summary": "Fable 5.2 coded an impasto brush engine from scratch, visually inspected its strokes, and recreated a portrait step-by-step.",
+  "summaryEn": "Autonomous Impasto Oil Brush Engine",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120824072817053913",
+    "canonicalUrl": "https://x.com/timedoctor_nft/status/2120824072817053913",
+    "author": {
+      "username": "timedoctor_nft",
+      "displayName": "timedoctor.eth",
+      "profileUrl": "https://x.com/timedoctor_nft"
+    },
+    "publishedAt": "2026-11-12T10:20:36.000Z",
+    "collectedAt": "2026-11-12T11:38:42.071Z",
+    "language": "en",
+    "originalText": "I asked Fable 5.2 to code its own brush engine from scratch and paint an image step by step in thick impasto oil. Before starting, it had to run test strokes on a blank canvas and inspect them itself to make sure the paint had real 3D ridges.\n\nHere's the result with a reference: https://t.co/RTuKbJTZNq",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/timedoctor_nft/status/2120824072817053913",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120823962993098752/img/JIDigYFkjWACcTN8.jpg",
+        "analysisUrl": "https://x.com/timedoctor_nft/status/2120824072817053913"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 28
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/timedoctor_nft/status/2120824075719217604",
+        "text": "Here is the prompt:\nI want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start.",
+        "author": "timedoctor_nft"
+      },
+      {
+        "url": "https://x.com/timedoctor_nft/status/2120824072817053913",
+        "text": "timedoctor.eth on X: \"I asked Fable 5.2 to code its own brush engine from scratch and paint an image step by step in thick impasto oil. Before starting, it had to run test strokes on a blank canvas and inspect them itself to make sure the paint had real 3D ridges.\n\nHere&#x27;s the result with a referenc… / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\ntimedoctor.eth on X: \"I asked Fable 5.2 to code its own brush engine from scratch and paint an image step by step in thick impasto oil. Before starting, it had to run test strokes on a blank canvas and inspect them itself to make sure the paint had real 3D ridges.\n\nHere&#x27;s the result with a reference:\"\nConversation\n\n\n\ntimedoctor.eth\n\n@timedoctor_nft\n\n\n\n\nI asked Fable 5.2 to code its own brush engine from scratch and paint an image step by step in thick impasto oil. Before starting, it had to run test strokes on a blank canvas and inspect them itself to make sure the paint had real 3D ridges.\n\nHere&#x27;s the result with a reference:\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n10:20 AM · Nov 12, 2026·30\nViews\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\ntimedoctor.eth@timedoctor_nftFollow\n· AI Time Bender · Multidisciplinary Digital Artist \n· Computer Engineer · Developing magic with AI\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\ntimedoctor.eth\n\n@timedoctor_nft\n\n\n\n\nI asked Fable 5.2 to code its own brush engine from scratch and paint an image step by step in thick impasto oil. Before starting, it had to run test strokes on a blank canvas and inspect them itself to make sure the paint had real 3D ridges.\n\nHere&#x27;s the result with a reference:\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n10:20 AM · Nov 12, 2026·30\nViews\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\ntimedoctor.eth\n\n@timedoctor_nft\n1h\n\n\nHere is the prompt:\nI want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it Show more\n\n\n\n\n\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "timedoctor_nft"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/timedoctor_nft/status/2120824072817053913",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120823962993098752/img/JIDigYFkjWACcTN8.jpg",
+  "coverPath": "covers/2120824072817053913.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120823962993098752",
+    "x-post:2120824072817053913"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Autonomous Impasto Oil Brush Engine",
+      "summary": "Fable 5.2 coded an impasto brush engine from scratch, visually inspected its strokes, and recreated a portrait step-by-step.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Fable 5.2 to code its own brush engine from scratch"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "I want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start.",
+        "englishText": "I want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Split-screen video displaying input reference on the left and dynamic layer-by-layer impasto brushstroke rendering on the right.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Source portrait of woman adorned with honey and bees.",
+          "available": true,
+          "evidence": "Left half of the generated video displays the reference image.",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Custom Impasto Brush Engine",
+          "role": "Procedural rendering engine handling 3D paint ridges, bristle textures, and lighting.",
+          "evidence": "code its own brush engine from scratch and paint an image step by step",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/timedoctor_nft/status/2120824072817053913"
+        }
+      ],
+      "purpose": {
+        "label": "Generative Impasto Painting Engine",
+        "topic": "games-interactive",
+        "tags": [
+          "creative-coding",
+          "canvas",
+          "impasto",
+          "digital-art"
+        ]
+      },
+      "targetModelRole": "Software architecture, brush engine programming, visual inspection, and stroke orchestration.",
+      "outputSource": "Custom software engine programmed by Fable 5.2",
+      "divisionEvidence": "I asked Fable 5.2 to code its own brush engine from scratch and paint an image step by step in thick impasto oil.",
+      "video": {
+        "shots": "Single continuous time-lapse",
+        "duration": "0:24",
+        "aspectRatio": "31:27",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete prompt and verified video demonstrate Fable 5.2 autonomously authoring code to simulate impasto painting.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/timedoctor_nft/status/2120824075719217604",
+        "start": 20,
+        "end": 1241
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/timedoctor_nft/status/2120824072817053913",
+        "author": "timedoctor_nft",
+        "postId": "2120824072817053913",
+        "publishedAt": "2026-11-12T10:20:36.000Z"
+      },
+      "checkedAt": "2026-11-12T11:47:54.065Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/timedoctor_nft/status/2120824075719217604",
+        "evidence": ""
+      }
+    },
+    "summary": "Fable 5.2 coded an impasto brush engine from scratch, visually inspected its strokes, and recreated a portrait step-by-step.",
+    "summaryEn": "Autonomous Impasto Oil Brush Engine",
+    "originalPrompt": "I want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start.",
+    "sourceRange": {
+      "start": 20,
+      "end": 1241
+    },
+    "translations": {
+      "zh": "I want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start.",
+      "en": "I want you to build an app that takes an image I give you as input and paints it step by step using thick impasto brushstrokes. Break this into two steps:\n\n1. Build yourself a minimal painting tool made up of only the parts needed for this job. Think of it like your own MS Paint or Photoshop brush engine, controlled directly through code, so you don't need to build toolbars or mouse controls for a human user. For real impasto, the brush needs physical depth: raised paint ridges that catch light and cast shadows, bristle marks, and color mixing where strokes overlap.\n2. Use the tool from the first step to paint the input image step by step until the oil painting is complete.\n\n- You can use any architecture, tool, or software you want for this.\n- After the first step, run a visual self-check before moving on. Render a test canvas with a few overlapping strokes to an image file and view it yourself. Check whether the strokes look like thick, raised oil paint, and whether this tool is enough to paint a full image. If the strokes look like flat 2D shapes, rework the brush engine and test again before starting the second step.\n\nAsk whatever questions you want if anything needs clarification before you start."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Generative Impasto Painting Engine",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Split-screen video displaying input reference on the left and dynamic layer-by-layer impasto brushstroke rendering on the right."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

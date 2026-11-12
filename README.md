@@ -6,9 +6,19 @@
 
 **☆ Star this repo to keep the prompts handy for your next project.**
 
-180 video examples · 5 categories. Videos, posters and animated previews are archived in `media/`.
+183 video examples · 5 categories. Videos, posters and animated previews are archived in `media/`.
 
 [Featured creations](#featured-creations) · [Start with a prompt](#start-here) · [Latest additions](#recently-added) · [Browse the full repository](#browse-the-full-library)
+
+<!-- fable-discoveries:start -->
+## Newly reviewed discoveries
+
+3 new examples, in addition to the 180 imported examples below.
+
+<table>
+<tr><td width="33%" valign="top"><a href="prompts/2120824072817053913.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2120823962993098752/img/JIDigYFkjWACcTN8.jpg" alt="Autonomous Impasto Oil Brush Engine" width="100%" /></a><br><strong>Autonomous Impasto Oil Brush Engine</strong><br><sub><a href="prompts/2120824072817053913.md">View details</a> · <a href="https://x.com/timedoctor_nft/status/2120824072817053913">@timedoctor_nft · Original post ↗</a></sub></td><td width="33%" valign="top"><a href="prompts/2120844488180629985.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2120844200002625536/img/8pdONVdCqZTc8JyW.jpg" alt="GPU Sandbox Simulation of Element Interaction" width="100%" /></a><br><strong>GPU Sandbox Simulation of Element Interaction</strong><br><sub><a href="prompts/2120844488180629985.md">View details</a> · <a href="https://x.com/v3xi0n/status/2120844488180629985">@v3xi0n · Original post ↗</a></sub></td><td width="33%" valign="top"><a href="prompts/2120791451458027749.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2120791336253034496/img/RaGhgKDJitk_h9Gb.jpg" alt="Escape the Rising Lava Roblox Tower Comparison" width="100%" /></a><br><strong>Escape the Rising Lava Roblox Tower Comparison</strong><br><sub><a href="prompts/2120791451458027749.md">View details</a> · <a href="https://x.com/DevNotorious_/status/2120791451458027749">@DevNotorious_ · Original post ↗</a></sub></td></tr>
+</table>
+<!-- fable-discoveries:end -->
 
 ## Featured creations
 
