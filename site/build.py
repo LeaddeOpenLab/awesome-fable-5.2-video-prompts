@@ -63,7 +63,7 @@ def write(path,html):
 
 if OUT.exists(): shutil.rmtree(OUT)
 shutil.copytree(SITE/'assets',OUT/'assets')
-shutil.copytree(SITE/'public',OUT,dirs_exist_ok=True)
+if (SITE/'public').exists(): shutil.copytree(SITE/'public',OUT,dirs_exist_ok=True)
 (OUT/'assets/source').mkdir(parents=True)
 for x in items:
     for key in ('poster','video'):
