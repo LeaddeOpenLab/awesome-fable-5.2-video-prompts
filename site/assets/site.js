@@ -125,7 +125,7 @@ if (dialog) {
       prompt.hidden = true;
       dialog.querySelector("[data-star-hint]").hidden = true;
       const copy = dialog.querySelector("[data-copy]");
-      if (copy) { copy.dataset.promptId = button.dataset.promptId; copy.textContent = t("Copy prompt"); }
+      if (copy) { copy.hidden = !prompt.textContent.trim(); copy.dataset.promptId = button.dataset.promptId; copy.textContent = t("Copy prompt"); }
       video.dataset.promptId = button.dataset.promptId;
       dialog.querySelector("[data-preview-link]").href = button.dataset.link;
       dialog.querySelector("[data-preview-repo-link]").href = button.dataset.repoLink;
