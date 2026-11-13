@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:46.156Z",
+  "model": "fable5.2",
+  "prompt": "a live 3D globe of sales lighting up around the world.",
+  "promptTranslations": {
+    "en": "a live 3D globe of sales lighting up around the world."
+  },
+  "summary": "Comparison of a 3D live sales globe animation generated from a single prompt across Opus 5.5, Opus 5.5 with Fable 5.2 advising, and standalone Fable 5.2.",
+  "summaryEn": "Live 3D Sales Globe Comparison Across Opus 5.5 and Fable 5.2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2121149538438393962",
+    "canonicalUrl": "https://x.com/Crystal_He4571/status/2121149538438393962",
+    "author": {
+      "username": "Crystal_He4571",
+      "displayName": "it_hUman",
+      "profileUrl": "https://x.com/Crystal_He4571"
+    },
+    "publishedAt": "2026-11-13T07:53:53.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "One prompt: a live 3D globe of sales lighting up around the world.\nOpus 5.5: $1.15\nOpus 5.5 with Fable 5.2 advising: $3.37\nFable 5.2: $3.40 https://t.co/fmFZfRvH0K",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Crystal_He4571/status/2121149538438393962",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2121149360864124928/img/RWv7fKYURoaceKXQ.jpg",
+        "analysisUrl": "https://x.com/Crystal_He4571/status/2121149538438393962"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Crystal_He4571/status/2121149538438393962",
+        "text": "it_hUman on X: \"One prompt: a live 3D globe of sales lighting up around the world.\nOpus 5.5: $1.15\nOpus 5.5 with Fable 5.2 advising: $3.37\nFable 5.2: $3.40\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nit_hUman on X: \"One prompt: a live 3D globe of sales lighting up around the world.\nOpus 5.5: $1.15\nOpus 5.5 with Fable 5.2 advising: $3.37\nFable 5.2: $3.40\"\nConversation\n\n\n\nit_hUman\n@Crystal_He4571\n\n\n\n\nOne prompt: a live 3D globe of sales lighting up around the world.\nOpus 5.5: $1.15\nOpus 5.5 with Fable 5.2 advising: $3.37\nFable 5.2: $3.40\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n7:53 AM · Nov 13, 2026·1\nView\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nit_hUman@Crystal_He4571Follow\nIT data center engineer,base in Coroco city\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nit_hUman\n@Crystal_He4571\n\n\n\n\nOne prompt: a live 3D globe of sales lighting up around the world.\nOpus 5.5: $1.15\nOpus 5.5 with Fable 5.2 advising: $3.37\nFable 5.2: $3.40\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n7:53 AM · Nov 13, 2026·1\nView\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Crystal_He4571"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Crystal_He4571/status/2121149538438393962",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2121149360864124928/img/RWv7fKYURoaceKXQ.jpg",
+  "coverPath": "covers/2121149538438393962.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2121149360864124928",
+    "x-post:2121149538438393962"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Live 3D Sales Globe Comparison Across Opus 5.5 and Fable 5.2",
+      "summary": "Comparison of a 3D live sales globe animation generated from a single prompt across Opus 5.5, Opus 5.5 with Fable 5.2 advising, and standalone Fable 5.2.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Fable 5.2: $3.40; Opus 5.5 with Fable 5.2 advising: $3.37"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "a live 3D globe of sales lighting up around the world.",
+        "englishText": "a live 3D globe of sales lighting up around the world.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Agent execution harness or system prompt",
+          "Exact front-end rendering framework / WebGL / Canvas setup code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows three interactive animated panels displaying a rotating 3D globe with glowing markers and metrics dashboards lighting up around the world.",
+        "textualResultQuote": "Opus 5.5 vs Fable 5.2 / One prompt: a live sales globe"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web / 3D Canvas Renderer",
+          "role": "Renders the interactive 3D globe visualization generated by the model",
+          "evidence": "Visible 3D rotating globe canvas with dynamic UI metrics and illuminated points",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Live Sales 3D Globe Visualization",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-globe",
+          "canvas",
+          "sales-dashboard",
+          "benchmark",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Code generation and orchestration for the interactive 3D globe visualization",
+      "outputSource": "Screen recording / rendered animation of code produced by Fable 5.2 and Opus 5.5",
+      "divisionEvidence": "Author contrasts generation and advisory costs across models: 'Opus 5.5: $1.15', 'Opus 5.5 with Fable 5.2 advising: $3.37', 'Fable 5.2: $3.40'",
+      "video": {
+        "shots": "1 continuous 3-panel split comparison",
+        "duration": "10s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly demonstrates video/interactive motion-graphics code production involving Fable 5.2 with original prompt and visual output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Crystal_He4571/status/2121149538438393962",
+        "start": 12,
+        "end": 66
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Crystal_He4571/status/2121149538438393962",
+        "author": "Crystal_He4571",
+        "postId": "2121149538438393962",
+        "publishedAt": "2026-11-13T07:53:53.000Z"
+      },
+      "checkedAt": "2026-11-13T09:31:07.267Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Crystal_He4571/status/2121149538438393962",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison of a 3D live sales globe animation generated from a single prompt across Opus 5.5, Opus 5.5 with Fable 5.2 advising, and standalone Fable 5.2.",
+    "summaryEn": "Live 3D Sales Globe Comparison Across Opus 5.5 and Fable 5.2",
+    "originalPrompt": "a live 3D globe of sales lighting up around the world.",
+    "sourceRange": {
+      "start": 12,
+      "end": 66
+    },
+    "translations": {
+      "zh": "a live 3D globe of sales lighting up around the world.",
+      "en": "a live 3D globe of sales lighting up around the world."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Live Sales 3D Globe Visualization",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Agent execution harness or system prompt",
+        "Exact front-end rendering framework / WebGL / Canvas setup code"
+      ],
+      "evidence": "The video shows three interactive animated panels displaying a rotating 3D globe with glowing markers and metrics dashboards lighting up around the world."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

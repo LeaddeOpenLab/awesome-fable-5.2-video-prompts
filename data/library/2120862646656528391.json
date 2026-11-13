@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:41.827Z",
+  "model": "fable5.2",
+  "prompt": "a scene of space, stars and planets, seen from space",
+  "promptTranslations": {
+    "en": "a scene of space, stars and planets, seen from space"
+  },
+  "summary": "A side-by-side comparison of 3D space animations generated from the prompt 'a scene of space, stars and planets, seen from space', highlighting the output from Claude Fable 5.2.",
+  "summaryEn": "Space Scene with Stars and Planets in Claude Fable 5.2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120862646656528391",
+    "canonicalUrl": "https://x.com/0x_snatch/status/2120862646656528391",
+    "author": {
+      "username": "0x_snatch",
+      "displayName": "Snatch | INK-SIDE",
+      "profileUrl": "https://x.com/0x_snatch"
+    },
+    "publishedAt": "2026-11-12T12:53:53.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "Same prompt: “a scene of space, stars and planets, seen from space”\n\nLeft: Claude Opus 5.5\nRight: Claude Fable 5.2 https://t.co/HRfmsap7MA",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0x_snatch/status/2120862646656528391",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120862523184558080/img/HQxHa432COrz7S-g.jpg",
+        "analysisUrl": "https://x.com/0x_snatch/status/2120862646656528391"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 574
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/0x_snatch/status/2120862646656528391",
+        "text": "Snatch | INK-SIDE on X: \"Same prompt: “a scene of space, stars and planets, seen from space”\n\nLeft: Claude Opus 5.5\nRight: Claude Fable 5.2\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nSnatch | INK-SIDE on X: \"Same prompt: “a scene of space, stars and planets, seen from space”\n\nLeft: Claude Opus 5.5\nRight: Claude Fable 5.2\"\nConversation\n\n\n\nSnatch | INK-SIDE\n\n@0x_snatch\n\n\n\n\nSame prompt: “a scene of space, stars and planets, seen from space”\n\nLeft: Claude Opus 5.5\nRight: Claude Fable 5.2\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n12:53 PM · Nov 12, 2026·574\nViews\n\n\n1\n\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSnatch | INK-SIDE@0x_snatchFollow\nsuper intelligence user\n🫟INK-SIDE/Verse : inkside.fun\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nSnatch | INK-SIDE\n\n@0x_snatch\n\n\n\n\nSame prompt: “a scene of space, stars and planets, seen from space”\n\nLeft: Claude Opus 5.5\nRight: Claude Fable 5.2\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n12:53 PM · Nov 12, 2026·574\nViews\n\n\n1\n\n7\n\n\n\n\n\n\n\n\n\n\nNi - lucky\n\n@ni_celeb\n21h\n\n\nfable’s got that cosmic glow up\n\n\n\n\n\n11\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "0x_snatch"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/0x_snatch/status/2120862646656528391",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120862523184558080/img/HQxHa432COrz7S-g.jpg",
+  "coverPath": "covers/2120862646656528391.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120862523184558080",
+    "x-post:2120862646656528391"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Space Scene with Stars and Planets in Claude Fable 5.2",
+      "summary": "A side-by-side comparison of 3D space animations generated from the prompt 'a scene of space, stars and planets, seen from space', highlighting the output from Claude Fable 5.2.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Right: Claude Fable 5.2"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "a scene of space, stars and planets, seen from space",
+        "englishText": "a scene of space, stars and planets, seen from space",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "underlying system prompt or runtime framework environment"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows animated 3D celestial bodies including a ringed planet, stars, orbital aurora, and lighting consistent with a view of space, stars, and planets from space.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Space Scene with Stars and Planets",
+        "topic": "3d-scenes",
+        "tags": [
+          "space",
+          "planets",
+          "stars",
+          "fable-5.2",
+          "comparison"
+        ]
+      },
+      "targetModelRole": "Generates scene code / animation logic for the space visualization",
+      "outputSource": "Web/code renderer running Claude Fable 5.2 output",
+      "divisionEvidence": "Left: Claude Opus 5.5\nRight: Claude Fable 5.2",
+      "video": {
+        "shots": "Single continuous camera view",
+        "duration": "20s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "The author shares a side-by-side video demonstrating Claude Fable 5.2 generating an animated space scene from a declared prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0x_snatch/status/2120862646656528391",
+        "start": 14,
+        "end": 66
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0x_snatch/status/2120862646656528391",
+        "author": "0x_snatch",
+        "postId": "2120862646656528391",
+        "publishedAt": "2026-11-12T12:53:53.000Z"
+      },
+      "checkedAt": "2026-11-13T10:27:28.631Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0x_snatch/status/2120862646656528391",
+        "evidence": ""
+      }
+    },
+    "summary": "A side-by-side comparison of 3D space animations generated from the prompt 'a scene of space, stars and planets, seen from space', highlighting the output from Claude Fable 5.2.",
+    "summaryEn": "Space Scene with Stars and Planets in Claude Fable 5.2",
+    "originalPrompt": "a scene of space, stars and planets, seen from space",
+    "sourceRange": {
+      "start": 14,
+      "end": 66
+    },
+    "translations": {
+      "zh": "a scene of space, stars and planets, seen from space",
+      "en": "a scene of space, stars and planets, seen from space"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Space Scene with Stars and Planets",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "underlying system prompt or runtime framework environment"
+      ],
+      "evidence": "The video shows animated 3D celestial bodies including a ringed planet, stars, orbital aurora, and lighting consistent with a view of space, stars, and planets from space."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

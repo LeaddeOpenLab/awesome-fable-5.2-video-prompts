@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:42.665Z",
+  "model": "fable5.2",
+  "prompt": "make it feel like a much bigger game",
+  "promptTranslations": {
+    "en": "make it feel like a much bigger game"
+  },
+  "summary": "Ibrahim Boona documents upgrading his Three.js web game 'Reef Dive' over one day using Claude Fable 5.2 to expand scope, visual fidelity, mechanics, and depth zones.",
+  "summaryEn": "Reef Dive 3D Underwater WebGL Game Enhancement with Claude Fable 5.2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120886837422195123",
+    "canonicalUrl": "https://x.com/boona11/status/2120886837422195123",
+    "author": {
+      "username": "boona11",
+      "displayName": "Ibrahim Boona",
+      "profileUrl": "https://x.com/boona11"
+    },
+    "publishedAt": "2026-11-12T14:30:00.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "Left: my @threejs game in October.\nRight: the same game after one day with Claude Fable 5.2.\n\nEveryone tests it from a blank page. I gave it a real project and one brief: make it feel like a much bigger game.\n\nPlay it free on @wavedash 🤿\nhttps://t.co/kxuujOpG7u https://t.co/VzscMErMZl",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/boona11/status/2120886837422195123",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120777513659957248/img/0p5pB02W4yeSfs5T.jpg",
+        "analysisUrl": "https://x.com/boona11/status/2120886837422195123"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 0,
+      "replyCount": 5,
+      "quoteCount": 3,
+      "viewCount": 873
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://wavedash.com/games/reef-dive",
+        "text": "\n\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t                      Reef Dive: Free Action-Adventure Game on Wavedash\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t      \n \n\n  \n Join Wavedash\n A free account unlocks cloud saves, achievements, and friends.\n svg]:px-3 w-full gap-2.5 rounded-xl border-border bg-card text-foreground shadow-none hover:border-input hover:bg-secondary dark:border-border dark:bg-card dark:hover:border-input dark:hover:bg-secondary h-9 justify-start pr-3 pl-3.5 text-xs\" data-slot=\"button\" data-variant=\"outline\" data-size=\"lg\" data-sveltekit-preload-data=\"off\" data-sveltekit-reload=\"false\">  Continue with Google svg]:px-3 w-full gap-2.5 rounded-xl border-border bg-card text-foreground shadow-none hover:border-input hover:bg-secondary dark:border-border dark:bg-card dark:hover:border-input dark:hover:bg-secondary h-9 justify-start pr-3 pl-3.5 text-xs\" data-slot=\"button\" data-variant=\"outline\" data-size=\"lg\" data-sveltekit-preload-data=\"off\" data-sveltekit-reload=\"false\">  Continue with Apple \n\n More sign-up options\n  Sign in\n\n  \n   \n\n\n  \n \n  Reef Dive\n \n    \n\n\n\n      Starting Reef Dive… Still Loading\n 0% \n\n\n\n\n \n \n  \n \n   Fullscreen\n\n \n   \n\n Reef Dive\n boona11\n button]:shrink-0\"> Favorite   Share   \n  \n One tank of air, one speargun, and a very deep hole in the sea floor.\n\nReef Dive is a 3D underwater action game. Spear fish for coins, recover lost relics from the deep, and get back to the boat before your air runs out. Blood in the water draws sharks: dash clear, or fight them off.\n\n\nTwo ways to dive: swim as a scuba diver with a spear, or pilot a research submarine with sonar and a tractor beam.\n\nA living reef: thousands of schooling fish, sharks, orcas, manta rays, sea turtles and blue whales.\n\nFour depth zones, from the sunlit coral shelf down through the glowing twilight to the abyss floor 140 m below.\n\nUpgrade your tank, suit, fins, spear and sub between dives, take on contracts, and find all 12 lost relics.\n\nSeven dive kits to wear, a photo mode with filters, and a Free Dive mode with endless air.\n\n\nPlays in your browser with keyboard and mouse, or touch. Your progress is saved to your Wavedash account.\n\n\n\n  UnderwaterAction-AdventureExplorationFishingAtmospheric\n\n  Game details\n   Released November 11, 2026\n Last Updated November 11, 2026\n Input Keyboard + MouseTouch\n Languages English\n \n \n More from boona11\n  \n Tiny Hamlet   \n Tiny Hamlet is a cozy village builder you shape by hand. Raise cottages, lay paths, and plant gardens while villagers wander the meadow. Plant a hamlet of your own, or share a village code and build it with a friend.\n Casual · Base Building · Sandbox\n\n\n \n Low Tide   \n Low Tide is a living impasto painting you can play. Every wave, sailboat and beachgoer is thick palette-knife paint, and you're the tiny beachcomber in the straw hat. Comb the wet sand for the shells, starfish and bottles the foam leaves behind, then carry them home to your camp to bank them. The f\n Arcade · Casual · Singleplayer\n\n\n\n More like this\n  \n Understory   \n The old forest is dreaming badly, and something at its heart has gone dark. You are the last seed of light: a tiny wanderer crossing a vast, painted world to the top of it. A living ink called the blight is draining the colour and memory out of everything it touches, and the seasons have stopped tu\n Action-Adventure · Exploration · Atmospheric\n\n\n \n The Masked Mage   \n No AI was used to create this game. An atmospheric 2D exploration adventure about discovery, solitude, and the lost origins of magic. Centuries ago, magic vanished from the world, leaving behind only faint, lingering traces. As one of the last remaining magicians, you wear the mask and journey int\n Metroidvania · Exploration · Atmospheric\n\n\n \n Time Knight Adventures   \n No AI was used to create this game. A classic retro-style sci-fi platformer featuring non-linear stage exploration, branching paths, and high-stakes, timed gameplay. As the last remaining Time Knight, you are tasked with recovering lost Time Spheres scattered across dangerous, non-linear locations\n 2D Platformer · Action-Adventure · Retro\n\n\n \n Bay Ride   \n A summer evening in a small painted seaside bay. Walk the timber pier and the beach, then take a wooden skiff out to the lighthouse island while the day runs from morning to a moonlit night. Nothing to win, just the ride. The sea, sky, town, trees, birds, every sound and the piano score are generate\n Exploration · Relaxing · Atmospheric\n\n\n\n\n\n \n\n\n        \n\t\t\t\n\t\t\t\n\t\t\n\n\t\n\n",
+        "kind": "linked_public_material",
+        "author": "boona11"
+      },
+      {
+        "url": "https://x.com/boona11/status/2120886837422195123",
+        "text": "Ibrahim Boona on X: \"Left: my @threejs game in October.\nRight: the same game after one day with Claude Fable 5.2.\n\nEveryone tests it from a blank page. I gave it a real project and one brief: make it feel like a much bigger game.\n\nPlay it free on @wavedash 🤿\nhttps://t.co/kxuujOpG7u\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nIbrahim Boona on X: \"Left: my @threejs game in October.\nRight: the same game after one day with Claude Fable 5.2.\n\nEveryone tests it from a blank page. I gave it a real project and one brief: make it feel like a much bigger game.\n\nPlay it free on @wavedash 🤿\nhttps://t.co/kxuujOpG7u\"\nConversation\n\n\n\nIbrahim Boona\n\n@boona11\n\n\n\n\nLeft: my @threejs game in October.\nRight: the same game after one day with Claude Fable 5.2.\n\nEveryone tests it from a blank page. I gave it a real project and one brief: make it feel like a much bigger game.\n\nPlay it free on @wavedash 🤿\nwavedash.com/games/reef-dive\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n2:30 PM · Nov 12, 2026·873\nViews\n\n\n5\n3\n10\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nIbrahim Boona@boona11Follow\nFounder of Codeon, Creative Technologist\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nIbrahim Boona\n\n@boona11\n\n\n\n\nLeft: my @threejs game in October.\nRight: the same game after one day with Claude Fable 5.2.\n\nEveryone tests it from a blank page. I gave it a real project and one brief: make it feel like a much bigger game.\n\nPlay it free on @wavedash 🤿\nwavedash.com/games/reef-dive\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n2:30 PM · Nov 12, 2026·873\nViews\n\n\n5\n3\n10\n3\n\n\n\n\n\n\n\n\n\nSamfa12\n\n@Samfa12\n14h\n\n\nWavedash is the home of surfing games and surfing adjacent games 🐟🏝️\n\n\n\n1\n1\n46\n\n\n\n\n\n\n\n\n\n\n\nPark 🇰🇷 solo iOS dev\n@park_ppuri\n19h\n\n\none day for that jump is a lot\n\n\n\n\n\n25\n\n\n\n\n\n\n\n\n\n\n\nNightShiftVibe | Tech · 3D · Improvement\n\n@NightShiftVibe\n18h\n\n\nmoving to Fable 5.2 now..\n\n\n\n\n\n31\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "boona11"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/boona11/status/2120886837422195123",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120777513659957248/img/0p5pB02W4yeSfs5T.jpg",
+  "coverPath": "covers/2120886837422195123.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120777513659957248",
+    "x-post:2120886837422195123"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Reef Dive 3D Underwater WebGL Game Enhancement with Claude Fable 5.2",
+      "summary": "Ibrahim Boona documents upgrading his Three.js web game 'Reef Dive' over one day using Claude Fable 5.2 to expand scope, visual fidelity, mechanics, and depth zones.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Right: the same game after one day with Claude Fable 5.2."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make it feel like a much bigger game",
+        "englishText": "make it feel like a much bigger game",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Original October Three.js game codebase and assets",
+          "Full interactive prompts and iterative technical instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Video showcases side-by-side comparisons of the October build versus the Fable 5.2 updated version, followed by gameplay footage highlighting schooling fish, depth zones, submarine piloting, and photo mode.",
+        "textualResultQuote": "Left: my @threejs game in October.\nRight: the same game after one day with Claude Fable 5.2."
+      },
+      "inputs": [
+        {
+          "kind": "codebase",
+          "description": "Pre-existing Three.js browser game project from October",
+          "available": false,
+          "evidence": "Left: my @threejs game in October... I gave it a real project",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL rendering engine running in the browser",
+          "evidence": "Left: my @threejs game in October... Same game · same swim · three.js in the browser",
+          "sourceUrl": "https://x.com/boona11/status/2120886837422195123",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Wavedash",
+          "role": "Web hosting and gameplay deployment platform",
+          "evidence": "Play it free on @wavedash 🤿",
+          "sourceUrl": "https://x.com/boona11/status/2120886837422195123",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D WebGL game enhancement and expansion",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "game-development",
+          "interactive-3d",
+          "fable-5-2"
+        ]
+      },
+      "targetModelRole": "Code development, architecture expansion, and feature addition agent",
+      "outputSource": "Three.js WebGL browser canvas",
+      "divisionEvidence": "Claude Fable 5.2 guided the code updates given a real project and brief, while Three.js renders the interactive game in the browser.",
+      "video": {
+        "shots": "Side-by-side before-and-after swim comparison followed by quick-cut gameplay demo highlighting diving, sharks, depth transitions, research submarine, and photo mode",
+        "duration": "0:45",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Fable 5.2 agent-driven code iteration on an interactive Three.js 3D game project with author-confirmed model attribution and accompanying video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/boona11/status/2120886837422195123",
+        "start": 171,
+        "end": 207
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/boona11/status/2120886837422195123",
+        "author": "boona11",
+        "postId": "2120886837422195123",
+        "publishedAt": "2026-11-12T14:30:00.000Z"
+      },
+      "checkedAt": "2026-11-13T10:37:31.493Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/boona11/status/2120886837422195123",
+        "evidence": ""
+      }
+    },
+    "summary": "Ibrahim Boona documents upgrading his Three.js web game 'Reef Dive' over one day using Claude Fable 5.2 to expand scope, visual fidelity, mechanics, and depth zones.",
+    "summaryEn": "Reef Dive 3D Underwater WebGL Game Enhancement with Claude Fable 5.2",
+    "originalPrompt": "make it feel like a much bigger game",
+    "sourceRange": {
+      "start": 171,
+      "end": 207
+    },
+    "translations": {
+      "zh": "make it feel like a much bigger game",
+      "en": "make it feel like a much bigger game"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D WebGL game enhancement and expansion",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Original October Three.js game codebase and assets",
+        "Full interactive prompts and iterative technical instructions"
+      ],
+      "evidence": "Video showcases side-by-side comparisons of the October build versus the Fable 5.2 updated version, followed by gameplay footage highlighting schooling fish, depth zones, submarine piloting, and photo mode."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

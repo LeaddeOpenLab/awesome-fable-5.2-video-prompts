@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:38.961Z",
+  "model": "fable5.2",
+  "prompt": "Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection.",
+  "promptTranslations": {
+    "en": "Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection."
+  },
+  "summary": "Claude Fable 5.2 acts as an autonomous hardware engineering and animation agent via the text-to-cad plugin, generating build123d CAD files, MuJoCo simulation configs, and a multi-shot product sizzle reel animated and rendered in Blender.",
+  "summaryEn": "Humanoid Robot Design and Sizzle Reel Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120247469900800316",
+    "canonicalUrl": "https://x.com/earthtojake/status/2120247469900800316",
+    "author": {
+      "username": "earthtojake",
+      "displayName": "Jake Fitzgerald",
+      "profileUrl": "https://x.com/earthtojake"
+    },
+    "publishedAt": "2026-11-10T20:09:23.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "I asked Claude Fable 5.2 to design a humanoid robot\n\nOvernight it generated a full set of CAD files with build123d, a mujoco simulation, and a sizzle reel with blender\n\nAgentic hardware design is the new frontier https://t.co/o3rYXvmuK4",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/earthtojake/status/2120247469900800316",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120247236609122304/img/YNcat5EKy6NqK9JC.jpg",
+        "analysisUrl": "https://x.com/earthtojake/status/2120247469900800316"
+      }
+    ],
+    "metrics": {
+      "likeCount": 586,
+      "repostCount": 43,
+      "replyCount": 64,
+      "quoteCount": 15,
+      "viewCount": 613860
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120680213470228960",
+        "text": "@AlexBartoletti1 \"Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection.\"",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120566142502867285",
+        "text": "Made with the text-to-cad plugin btw: https://t.co/PnAPZD4d3P",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120524465381720415",
+        "text": "@kforris_w You guys are the goats",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120518501698019344",
+        "text": "@TomPJacobs Yup the latest version of text-to-cad has a blender preview skill",
+        "author": "earthtojake"
+      },
+      {
+        "url": "https://x.com/earthtojake/status/2120326869220544578",
+        "text": "Jake Fitzgerald on X: \"@pggalaviz\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nJake Fitzgerald on X: \"@pggalaviz\"\nConversation\n\n\n\nJake Fitzgerald\n\n@earthtojake\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n\n\n1:24 AM · Nov 11, 2026·793\nViews\n\n\n1\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJake Fitzgerald@earthtojakeFollow\ncreator of text-to-cad, building robots // situated @spc // texttocad.dev\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nPedro G\n\n@pggalaviz\nNov 10\n\n\nThen the first printed joint doesn&#x27;t fit because the sim assumed zero tolerance, and you&#x27;re back to calipers haha\n\n\n2\n1\n18\n1K\n\n\n\n\n\n\n\n\n\n\nJake Fitzgerald\n\n@earthtojake\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n\n\n1:24 AM · Nov 11, 2026·793\nViews\n\n\n1\n\n5\n\n\n\n\n\n\n\n\n\n\nBroderick Higby\n\n@broderickhigby\nNov 11\n\n\nwow super impressive Jake! As a layman, what would it take to print and get all of these parts together. I get Pedro&#x27;s point about the sim&#x27;s tolerance assumption. Just curious\n\n\n\n\n\n14\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120325215054090373",
+        "text": "@TheJamieWooster The STEP files were created with build123d and opencascade (open source CAD kernel), the video was made in Blender by exporting the STEP files to GLBs and animating them!",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120298168688451946",
+        "text": "@Wzxrsn Yes, it tested balance on a few actions and iterated in a loop until it was stable https://t.co/tcW8eqha02",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120276120235053108",
+        "text": "@botincave Max effort",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120259390900932877",
+        "text": "@36x86 It used about half of my weekly sub",
+        "author": "earthtojake"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/earthtojake/status/2120257616006017300",
+        "text": "@hertazeta It does! I’m actually working on a mujoco integration for build123d atm",
+        "author": "earthtojake"
+      },
+      {
+        "url": "https://x.com/earthtojake/status/2120247469900800316",
+        "text": "Jake Fitzgerald on X: \"I asked Claude Fable 5.2 to design a humanoid robot\n\nOvernight it generated a full set of CAD files with build123d, a mujoco simulation, and a sizzle reel with blender\n\nAgentic hardware design is the new frontier\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nJake Fitzgerald on X: \"I asked Claude Fable 5.2 to design a humanoid robot\n\nOvernight it generated a full set of CAD files with build123d, a mujoco simulation, and a sizzle reel with blender\n\nAgentic hardware design is the new frontier\"\nConversation\n\n\n\nJake Fitzgerald\n\n@earthtojake\n\n\n\n\nI asked Claude Fable 5.2 to design a humanoid robot\n\nOvernight it generated a full set of CAD files with build123d, a mujoco simulation, and a sizzle reel with blender\n\nAgentic hardware design is the new frontier\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n8:09 PM · Nov 10, 2026·613.8K\nViews\n\n\n64\n58\n586\n296\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJake Fitzgerald@earthtojakeFollow\ncreator of text-to-cad, building robots // situated @spc // texttocad.dev\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nJake Fitzgerald\n\n@earthtojake\n\n\n\n\nI asked Claude Fable 5.2 to design a humanoid robot\n\nOvernight it generated a full set of CAD files with build123d, a mujoco simulation, and a sizzle reel with blender\n\nAgentic hardware design is the new frontier\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n8:09 PM · Nov 10, 2026·613.8K\nViews\n\n\n64\n58\n586\n296\n\n\n\n\n\n\n\n\n\nJake Fitzgerald\n\n@earthtojake\nNov 11\n\n\nMade with the text-to-cad plugin btw:\n\n\nGitHub - earthtojake/text-to-cad: Design physical products with AI\n\n\nFrom github.com\n\n\n\n\n\n6\n399\n\n\n\n\n\n\n\n\n\n\n\nPedro G\n\n@pggalaviz\nNov 10\n\n\nThen the first printed joint doesn&#x27;t fit because the sim assumed zero tolerance, and you&#x27;re back to calipers haha\n\n\n2\n1\n18\n1K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "earthtojake"
+      },
+      {
+        "url": "https://github.com/earthtojake/text-to-cad",
+        "text": "\n\n\n\n  \n\n\n\n\n\n\n\n  \n    \n  \n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n  \n\n  \n\n    \n    \n    \n    \n  \n\n\n  \n\n  \n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  GitHub - earthtojake/text-to-cad: Design physical products with AI · GitHub\n\n\n\n  \n  \n  \n  \n\n    \n  \n\n\n  \n\n\n    \n\n\n  \n  \n\n  \n  \n\n    \n\n\n\n\n\n\n\n  \n\n  \n\n\n\n\n    \n\n  \n\n    \n\n    \n\n      \n\n      \n\n    \n    \n    \n\n      \n  \n  \n\n\n\n      \n\n\n\n        \n\n\n  \n  \n  \n  \n\n  \n\n      \n\n    \n\n  \n\n  \n  \n\n\n\n    \n\n    \n  \n\n\n  \n\n\n  \n\n  \n  \n\n  \n  \n  \n\n\n\n\n\n  \n\n  \n\n  \n    \n      \n\n      \n\n    \n      Skip to content\n\n      \n    \n      \n      \n\n\n\n\n  \n  \n  \n\n\n\n\n\n\n\n      \n\n        \n            \n\n\n\n\n\n  \n  \n  \n\n\n\n\n            \n\n                \n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  Navigation Menu\n\n\nSign in\n\nSearch/\n\nSign in\nSign upAppearance settings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      \n        \n  \n          \n    \n\n          You signed in with another tab or window. Reload to refresh your session.\n          You signed out in another tab or window. Reload to refresh your session.\n          You switched accounts on another tab or window. Reload to refresh your session.\n\n      \n    \n\nDismiss alert\n\n\n  \n\n\n    \n\n\n  \n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n  \n    \n\n  \n    \n      \n    \n\n    \n    \n      \n      {{ message }}\n\n\n    \n\n  \n\n\n\n  \n\n\n\n\n    \n\n\n\n\n\n\n  \n        \n    \n      \n      \n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n\n\nRepository navigation\n\n\n\n\n\n\n  \n\n\n\n\n    \n    \n\n\n\n    \n      \n    \n\n\n\n\n\n\n\n\n\n  \n  \n     \ntext-to-cad\nPublic\n\n\nSponsor\nNotificationsYou must be signed in to change notification settings\nFork2.5k (2.5k)\nStar26.2k (26.2k)You must be signed in to star a repository\n\n\n\nAbout\nDesign physical products with AI\nwww.texttocad.dev\nTopics\nagentsai-agentscadmechanical-engineeringroboticsstepstlstptext-to-cad\nResources\nReadme\nMIT license\nContributing\nContributing\nSecurity policy\nSecurity policy\nActivity\n\nStars\n26.2k stars\nWatchers\n109 watching\nForks\n2.5k forks\n\n\nReport repository\n\n\n\n\n\nmain\n\n\n\nBranchesTags\n\n\n\n\n\nGo to file\n\nCodeOpen more actions menu\n\n\n\nLatest commit\n \n\nHistory\n1,510 Commits\n1,510 Commits\n\n\n\n\nFolders and files\nNameNameLast commit message\nLast commit date\n.claude-plugin\n\n\n\n.claude-plugin\n\n\n\n \n \n\n.codex-plugin\n\n\n\n.codex-plugin\n\n\n\n \n \n\n.cursor-plugin\n\n\n\n.cursor-plugin\n\n\n\n \n \n\n.githooks\n\n\n\n.githooks\n\n\n\n \n \n\n.github\n\n\n\n.github\n\n\n\n \n \n\n.grok-plugin\n\n\n\n.grok-plugin\n\n\n\n \n \n\napps\n\n\n\napps\n\n\n\n \n \n\ndocs\n\n\n\ndocs\n\n\n\n \n \n\nmodels\n\n\n\nmodels\n\n\n\n \n \n\npackages\n\n\n\npackages\n\n\n\n \n \n\nscripts\n\n\n\nscripts\n\n\n\n \n \n\nskills\n\n\n\nskills\n\n\n\n \n \n\ntests\n\n\n\ntests\n\n\n\n \n \n\n.gitignore\n\n\n\n.gitignore\n\n\n\n \n \n\nAGENTS.md\n\n\n\nAGENTS.md\n\n\n\n \n \n\nCONTRIBUTING.md\n\n\n\nCONTRIBUTING.md\n\n\n\n \n \n\nLICENSE\n\n\n\nLICENSE\n\n\n\n \n \n\nREADME.md\n\n\n\nREADME.md\n\n\n\n \n \n\nSECURITY.md\n\n\n\nSECURITY.md\n\n\n\n \n \n\nVERSION\n\n\n\nVERSION\n\n\n\n \n \n\nclaude.mcp.json\n\n\n\nclaude.mcp.json\n\n\n\n \n \n\ncodex.mcp.json\n\n\n\ncodex.mcp.json\n\n\n\n \n \n\ncursor.mcp.json\n\n\n\ncursor.mcp.json\n\n\n\n \n \n\ngemini-extension.json\n\n\n\ngemini-extension.json\n\n\n\n \n \n\nmcp.json\n\n\n\nmcp.json\n\n\n\n \n \n\npackage-lock.json\n\n\n\npackage-lock.json\n\n\n\n \n \n\npackage.json\n\n\n\npackage.json\n\n\n\n \n \n\nplugin.json\n\n\n\nplugin.json\n\n\n\n \n \n\nrequirements-dev.txt\n\n\n\nrequirements-dev.txt\n\n\n\n \n \n\nskills.sh.json\n\n\n\nskills.sh.json\n\n\n\n \n \n\nView all files\n\n\nRepository files navigation\n\n\n\n\nDesign physical products with AI.\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\ntext-to-cad\n\n\n🚀 Quickstart\n\n\nmacOS and Linux:\n\ncurl -fsSL https://texttocad.dev/install.sh | sh\n\n\nWindows, in PowerShell:\n\nirm https://www.texttocad.dev/install.ps1 | iex\n\n\nIt installs uv if it is missing, then sets up text-to-cad in every agent app on\nyour computer with each app's own commands (the plugin, which brings the skills\nand CAD's MCP server, or for an agent without a plugin the skills alone; Claude\nCode gets the skills, and Claude Desktop the server, for its Chat and Code tabs),\nregisters the cad command, and moves CAD's server to the new release. Run\nit again to update everything, or click CAD's update button when it shows one; it\nlists the apps to restart.\n\nThen ask your agent for a part or an assembly: it writes the model as a Python\nscript, runs it to build the model and shows it in the CAD viewer.\n\nInstalling by hand, app by app, and updates: docs/install.md\n\n✨ Features\n\n\nThe text-to-cad plugin gives your agent local workflows to generate 3D models as STEP, GLB, STL or 3MF files, check them for manufacturing, draw them, and connect to 3D printing, sheet metal and CNC services. It works with any agent that supports plugins or skills.\n\n\nParts and assemblies: Models written as Python scripts with build123d and OpenCASCADE, exported as STEP, STL, 3MF or GLB, and as DXF profiles and flat patterns for laser and waterjet cutting, with joints and animations for mechanisms, and shown live in the CAD viewer.\n\nCircuit boards: KiCad schematics and boards, placed and routed, checked with ERC and DRC, reviewed before you order, and exported as fabrication files.\n\nManufacturing checks: Whether a part can be machined, cut and bent, molded or 3D printed, measured against the process's rules, and what to change where it cannot.\n\nStress checks: Whether a part or an assembly of bonded parts holds under its loads, solved with CalculiX: each part's peak stress, safety factor and how far it moves, drawn on the model.\n\nEngineering drawings: Dimensioned PDF sheets projected from the part's geometry: views, hidden lines, centre marks, hole callouts and a title block.\n\nRenders: Photoreal stills, turntables and films of a model with Blender, lit and framed in a Python script and run on the GPU, with a quick draft before each final.\n\nFabrication services: Checks DXF and STEP files against SendCutSend's guide before you upload them, and slices 3D prints with OrcaSlicer and sends them to Bambu Connect or Bambu Studio.\n\nRobotics and simulation: Robot and world descriptions for simulation and motion planning: URDF for ROS, SRDF for MoveIt and MJCF for MuJoCo.\n\n\n🛠️ Contributing\n\n\ntext-to-cad is MIT-licensed and built in the open.\n\n\nBugs and plugin requests: open an issue.\nA bug report with the model script and the output of cad doctor --check is the\nfastest to fix, and an agent app without a plugin gets one on request. A\nsecurity problem is reported privately, as SECURITY.md says.\n\nQuestions, ideas and what you made: the Discord.\nSay what the skills got wrong, too: that is what improves them.\n\nCode, skills and models: a new skill (a fabrication service, a printer, a\nCAD workflow) goes in skills/, an example model in models/, and fixes\nanywhere. CONTRIBUTING.md has the local setup and how to\ntest in the agent apps; an agent working in the repository starts at\nAGENTS.md.\n\n\nBy default, text-to-cad sends usage stats and crash reports, tagged with a random\nID and never including your files, paths or prompts. The\nprivacy policy says what is sent and\nhow to turn it off.\n\n\n\n\n\n\n\n\n\n\n\nAbout\nDesign physical products with AI\nwww.texttocad.dev\nTopics\nagentsai-agentscadmechanical-engineeringroboticsstepstlstptext-to-cad\nResources\nReadme\nMIT license\nContributing\nContributing\nSecurity policy\nSecurity policy\nActivity\n\nStars\n26.2k stars\nWatchers\n109 watching\nForks\n2.5k forks\n\n\nReport repository\n\nReleases\n\n\n\nSponsor this project\n\n\nPackages\n\n\nContributors\n\n\nLanguages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   \n\n\n\n\n\n\n  \n\n\n\n\n    \n  \n\n\n  \n\n\n  \n            \n  Footer\n\n\n  \n\n\n  \n    \n      \n        \n    \n\n\n      \n        &copy; 2026 GitHub, Inc.\n      \n    \n\n\n    \n  \n\n\n\n\n\n    \n\n\n\n\n  \n    \n    \n\n    \n      \n    \n\n    \n    You can’t perform that action at this time.\n  \n\n\n    \n  \n    \n    \n      \n        \n    \n\n      \n      \n\n    \n  \n\n\n    \n  \n  \n\n\n\n\n    \n  \n    \n      \n    \n\n      \n    \n\n    \n  \n\n\n\n  \n    \n      \n    \n\n      \n    \n\n    \n  \n\n\n\n\n\n\n    \n\n    \n\n    \n\n  \n\n\n",
+        "kind": "linked_public_material",
+        "author": "earthtojake"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/earthtojake/status/2120247469900800316",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120247236609122304/img/YNcat5EKy6NqK9JC.jpg",
+  "coverPath": "covers/2120247469900800316.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120247236609122304",
+    "x-post:2120247469900800316"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Humanoid Robot Design and Sizzle Reel Animation",
+      "summary": "Claude Fable 5.2 acts as an autonomous hardware engineering and animation agent via the text-to-cad plugin, generating build123d CAD files, MuJoCo simulation configs, and a multi-shot product sizzle reel animated and rendered in Blender.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Claude Code / text-to-cad",
+        "authorUseConfirmed": true,
+        "evidence": "\"I asked Claude Fable 5.2 to design a humanoid robot\n\nOvernight it generated a full set of CAD files with build123d, a mujoco simulation, and a sizzle reel with blender\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection.",
+        "englishText": "Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 38-second cinematic sizzle reel of the humanoid robot 'Galatea', including lighting reveals, full-body turnarounds, exploded view animations showing internal linkages and 689 modeled parts, close-ups of mechanical joints (knee pushrod, ankle drive, hip, waist, hand), a walking cycle animation, CAD wireframe views, and physics simulation stability checks in MuJoCo.",
+        "textualResultQuote": "Overnight it generated a full set of CAD files with build123d, a mujoco simulation, and a sizzle reel with blender"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D scene renderer and animator used to create the video showcase from exported GLBs",
+          "evidence": "the video was made in Blender by exporting the STEP files to GLBs and animating them!",
+          "sourceUrl": "https://x.com/earthtojake/status/2120325215054090373",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "build123d",
+          "role": "Parametric Python CAD library for generating STEP geometry",
+          "evidence": "The STEP files were created with build123d and opencascade (open source CAD kernel)",
+          "sourceUrl": "https://x.com/earthtojake/status/2120325215054090373",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "MuJoCo",
+          "role": "Physics engine used to simulate and verify balance and locomotion stability",
+          "evidence": "Yes, it tested balance on a few actions and iterated in a loop until it was stable",
+          "sourceUrl": "https://x.com/earthtojake/status/2120298168688451946",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "text-to-cad",
+          "role": "Agent plugin and skills framework providing CAD generation and export tools",
+          "evidence": "Made with the text-to-cad plugin btw: https://t.co/PnAPZD4d3P",
+          "sourceUrl": "https://x.com/earthtojake/status/2120566142502867285",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Humanoid Robot Hardware Design & Blender Showcase",
+        "topic": "3d-scenes",
+        "tags": [
+          "robotics",
+          "blender",
+          "cad",
+          "hardware-design",
+          "build123d",
+          "mujoco",
+          "animation"
+        ]
+      },
+      "targetModelRole": "Autonomous agent responsible for mechanical planning, Python CAD scripting with build123d, kinematic iteration, and writing Blender animation/rendering scripts.",
+      "outputSource": "Blender, MuJoCo, and OpenCASCADE/build123d viewer rendered frames compiled into a video.",
+      "divisionEvidence": "\"The STEP files were created with build123d and opencascade (open source CAD kernel), the video was made in Blender by exporting the STEP files to GLBs and animating them!\"",
+      "video": {
+        "shots": "Multiple dynamic shots: silhouette reveal, exploded mechanical assembly, joint mechanism closeups (knee, ankle, hip, waist, arm, hand, neck), walking gait cycle, CAD viewer drawing layers, and MuJoCo simulation run.",
+        "duration": "00:38",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Direct author disclosure of Claude Fable 5.2 orchestrating CAD creation and rendering a complete 3D mechanical sizzle reel via Blender and text-to-cad, accompanied by the verbatim original prompt and complete video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/earthtojake/status/2120680213470228960",
+        "start": 18,
+        "end": 372
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/earthtojake/status/2120247469900800316",
+        "author": "earthtojake",
+        "postId": "2120247469900800316",
+        "publishedAt": "2026-11-10T20:09:23.000Z"
+      },
+      "checkedAt": "2026-11-13T09:41:50.969Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/earthtojake/status/2120680213470228960",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Fable 5.2 acts as an autonomous hardware engineering and animation agent via the text-to-cad plugin, generating build123d CAD files, MuJoCo simulation configs, and a multi-shot product sizzle reel animated and rendered in Blender.",
+    "summaryEn": "Humanoid Robot Design and Sizzle Reel Animation",
+    "originalPrompt": "Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection.",
+    "sourceRange": {
+      "start": 18,
+      "end": 372
+    },
+    "translations": {
+      "zh": "Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection.",
+      "en": "Design and model a visually stunning humanoid robot with exceptional attention to detail. Choose your own aesthetic and mechanical architecture. Its structure, joints, and assembly should make physical sense, with careful thought about how it would actually move. It doesn’t need to be production-ready, but the design should hold up to close inspection."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "blender",
+    "useCase": "Humanoid Robot Hardware Design & Blender Showcase",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a 38-second cinematic sizzle reel of the humanoid robot 'Galatea', including lighting reveals, full-body turnarounds, exploded view animations showing internal linkages and 689 modeled parts, close-ups of mechanical joints (knee pushrod, ankle drive, hip, waist, hand), a walking cycle animation, CAD wireframe views, and physics simulation stability checks in MuJoCo."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

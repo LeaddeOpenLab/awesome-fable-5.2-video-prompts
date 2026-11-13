@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:43.528Z",
+  "model": "fable5.2",
+  "prompt": "a 3D jelly-like flower you can rotate, with a control panel",
+  "promptTranslations": {
+    "en": "a 3D jelly-like flower you can rotate, with a control panel"
+  },
+  "summary": "Comparison demonstration showing a 3D jelly-like flower with interactive rotation and a control panel created using Claude Fable 5.2 compared against Opus 5.5.",
+  "summaryEn": "Interactive 3D Jelly Flower with Control Panel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120893943164399881",
+    "canonicalUrl": "https://x.com/olezhavich/status/2120893943164399881",
+    "author": {
+      "username": "olezhavich",
+      "displayName": "Olezhka",
+      "profileUrl": "https://x.com/olezhavich"
+    },
+    "publishedAt": "2026-11-12T14:58:15.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "Fable 5.2 made the most jelly-like flower I've ever seen 🌸\n\nSame prompt, one try each: a 3D jelly-like flower you can rotate, with a control panel\n\n• Fable 5.2: brighter, glossier pink, with thinner petals that twist and tilt as it moves\n\n• Opus 5.5: deeper red and a sturdier bloom, but on a few frames the petals twist into a glitch and overall wuality is not that good\n\nWhich one would you put on your desk?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/olezhavich/status/2120893943164399881",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120893798767079424/img/O-VDqwKspKjky9AL.jpg",
+        "analysisUrl": "https://x.com/olezhavich/status/2120893943164399881"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 106
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/olezhavich/status/2120893943164399881",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120893798767079424/img/O-VDqwKspKjky9AL.jpg",
+  "coverPath": "covers/2120893943164399881.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120893798767079424",
+    "x-post:2120893943164399881"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Jelly Flower with Control Panel",
+      "summary": "Comparison demonstration showing a 3D jelly-like flower with interactive rotation and a control panel created using Claude Fable 5.2 compared against Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Fable 5.2 made the most jelly-like flower I've ever seen 🌸\n\nSame prompt, one try each: a 3D jelly-like flower you can rotate, with a control panel\n\n• Fable 5.2: brighter, glossier pink, with thinner petals that twist and tilt as it moves"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "a 3D jelly-like flower you can rotate, with a control panel",
+        "englishText": "a 3D jelly-like flower you can rotate, with a control panel",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows side-by-side screen recordings of the interactive 3D jelly-like rotating flowers with UI sliders and control panels labeled for Fable 5.2 and Opus 5.5.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Three.js Canvas",
+          "role": "3D graphics rendering and interactive viewport",
+          "evidence": "a 3D jelly-like flower you can rotate, with a control panel",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/olezhavich/status/2120893943164399881"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Jelly Flower",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgl",
+          "threejs",
+          "interactive",
+          "flower",
+          "3d",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive 3D web application with shader materials and control UI",
+      "outputSource": "Web browser canvas rendering interactive 3D model",
+      "divisionEvidence": "Fable 5.2 generated the interactive code and application UI while the browser renders the 3D animation and responds to rotation controls.",
+      "video": {
+        "shots": "Single split-screen comparison recording showing both model outputs rotating and responding",
+        "duration": "0:23",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicitly compares Claude Fable 5.2 generating an interactive 3D WebGL flower with control panel from a disclosed prompt, with full video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/olezhavich/status/2120893943164399881",
+        "start": 88,
+        "end": 147
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/olezhavich/status/2120893943164399881",
+        "author": "olezhavich",
+        "postId": "2120893943164399881",
+        "publishedAt": "2026-11-12T14:58:15.000Z"
+      },
+      "checkedAt": "2026-11-13T10:30:58.430Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/olezhavich/status/2120893943164399881",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison demonstration showing a 3D jelly-like flower with interactive rotation and a control panel created using Claude Fable 5.2 compared against Opus 5.5.",
+    "summaryEn": "Interactive 3D Jelly Flower with Control Panel",
+    "originalPrompt": "a 3D jelly-like flower you can rotate, with a control panel",
+    "sourceRange": {
+      "start": 88,
+      "end": 147
+    },
+    "translations": {
+      "zh": "a 3D jelly-like flower you can rotate, with a control panel",
+      "en": "a 3D jelly-like flower you can rotate, with a control panel"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Jelly Flower",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows side-by-side screen recordings of the interactive 3D jelly-like rotating flowers with UI sliders and control panels labeled for Fable 5.2 and Opus 5.5."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

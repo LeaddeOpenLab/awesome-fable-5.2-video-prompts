@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:40.576Z",
+  "model": "fable5.2",
+  "prompt": "make a game mode selection experience as if it were done by a prime john romero after releasing doom 2",
+  "promptTranslations": {
+    "en": "make a game mode selection experience as if it were done by a prime john romero after releasing doom 2"
+  },
+  "summary": "An interactive 3D game mode selection screen inspired by John Romero's post-Doom II style, featuring floating skulls, smoke effects, and mode titles inside a grim elevator.",
+  "summaryEn": "Retro Doom-Style Game Mode Selection Experience",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120778873495531968",
+    "canonicalUrl": "https://x.com/gutterbt/status/2120778873495531968",
+    "author": {
+      "username": "gutterbt",
+      "displayName": "BT !",
+      "profileUrl": "https://x.com/gutterbt"
+    },
+    "publishedAt": "2026-11-12T07:21:00.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "I told fable 5.2 to make a game mode selection experience as if it were done by a prime john romero after releasing doom 2 https://t.co/feVrQlDNx5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/gutterbt/status/2120778873495531968",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120771739173154816/img/49emH27KEePj6koz.jpg",
+        "analysisUrl": "https://x.com/gutterbt/status/2120778873495531968"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 129
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/gutterbt/status/2120778873495531968",
+        "text": "BT ! on X: \"I told fable 5.2 to make a game mode selection experience as if it were done by a prime john romero after releasing doom 2\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nBT ! on X: \"I told fable 5.2 to make a game mode selection experience as if it were done by a prime john romero after releasing doom 2\"\nConversation\n\n\n\nBT !\n\n@gutterbt\n\n\n\n\nI told fable 5.2 to make a game mode selection experience as if it were done by a prime john romero after releasing doom 2\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\nLast edited 7:21 AM · Nov 12, 2026Opens edit history·129\nViews\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nBT !@gutterbtFollow\ninto everything underground\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nBT !\n\n@gutterbt\n\n\n\n\nI told fable 5.2 to make a game mode selection experience as if it were done by a prime john romero after releasing doom 2\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\nLast edited 7:21 AM · Nov 12, 2026Opens edit history·129\nViews\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "gutterbt"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/gutterbt/status/2120778873495531968",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120771739173154816/img/49emH27KEePj6koz.jpg",
+  "coverPath": "covers/2120778873495531968.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120771739173154816",
+    "x-post:2120778873495531968"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Retro Doom-Style Game Mode Selection Experience",
+      "summary": "An interactive 3D game mode selection screen inspired by John Romero's post-Doom II style, featuring floating skulls, smoke effects, and mode titles inside a grim elevator.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I told fable 5.2 to make a game mode selection experience as if it were done by a prime john romero after releasing doom 2"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a game mode selection experience as if it were done by a prime john romero after releasing doom 2",
+        "englishText": "make a game mode selection experience as if it were done by a prime john romero after releasing doom 2",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt and generation instructions",
+          "Interactive logic and rendering implementation details",
+          "Asset and shader configurations"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a dark 3D elevator interior with floating illuminated skulls, particulate smoke, and retro game mode titles ('THE 7 FLOORS', 'THE JOB', 'THE ETERNAL TOWER', 'PICK A WAY DOWN'), consistent with a John Romero/Doom II aesthetic.",
+        "textualResultQuote": "THE 7 FLOORS / PICK A WAY DOWN / THE JOB / THE ETERNAL TOWER"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Canvas / WebGL renderer",
+          "role": "Renders the interactive 3D scene and graphical elements generated by Claude Fable 5.2",
+          "evidence": "Visible in the video showing real-time 3D rendered skulls, volumetric smoke, and lighting effects",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Game Mode Menu",
+        "topic": "games-interactive",
+        "tags": [
+          "game-menu",
+          "doom",
+          "interactive",
+          "threejs",
+          "canvas",
+          "retro-fps"
+        ]
+      },
+      "targetModelRole": "Generates the code or scene structure for the interactive game selection experience based on the natural language prompt.",
+      "outputSource": "Inferred WebGL / interactive canvas rendering",
+      "divisionEvidence": "Author states 'I told fable 5.2 to make a game mode selection experience', indicating Fable 5.2 produced the implementation which is executed in a graphics environment.",
+      "video": {
+        "shots": "Single continuous interactive camera view of the elevator selection screen",
+        "duration": "00:10",
+        "aspectRatio": "2:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly demonstrates a Claude Fable 5.2-generated interactive 3D video/scene with author confirmation of model and version.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/gutterbt/status/2120778873495531968",
+        "start": 20,
+        "end": 122
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/gutterbt/status/2120778873495531968",
+        "author": "gutterbt",
+        "postId": "2120778873495531968",
+        "publishedAt": "2026-11-12T07:21:00.000Z"
+      },
+      "checkedAt": "2026-11-13T10:50:57.566Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/gutterbt/status/2120778873495531968",
+        "evidence": ""
+      }
+    },
+    "summary": "An interactive 3D game mode selection screen inspired by John Romero's post-Doom II style, featuring floating skulls, smoke effects, and mode titles inside a grim elevator.",
+    "summaryEn": "Retro Doom-Style Game Mode Selection Experience",
+    "originalPrompt": "make a game mode selection experience as if it were done by a prime john romero after releasing doom 2",
+    "sourceRange": {
+      "start": 20,
+      "end": 122
+    },
+    "translations": {
+      "zh": "make a game mode selection experience as if it were done by a prime john romero after releasing doom 2",
+      "en": "make a game mode selection experience as if it were done by a prime john romero after releasing doom 2"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Game Mode Menu",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt and generation instructions",
+        "Interactive logic and rendering implementation details",
+        "Asset and shader configurations"
+      ],
+      "evidence": "The video shows a dark 3D elevator interior with floating illuminated skulls, particulate smoke, and retro game mode titles ('THE 7 FLOORS', 'THE JOB', 'THE ETERNAL TOWER', 'PICK A WAY DOWN'), consistent with a John Romero/Doom II aesthetic."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

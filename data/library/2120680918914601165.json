@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:40.175Z",
+  "model": "fable5.2",
+  "prompt": "i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering",
+  "promptTranslations": {
+    "en": "i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering"
+  },
+  "summary": "Caleb used Fable 5.2 orchestrated through ultracode with subagents to model an intricate two-story suburban house inspired by Call of Duty: Nuketown, rendered via headless Blender on Hugging Face Jobs.",
+  "summaryEn": "Fable 5.2 Nuketown House 3D Architecture and Walkthrough",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120680918914601165",
+    "canonicalUrl": "https://x.com/calebfahlgren/status/2120680918914601165",
+    "author": {
+      "username": "calebfahlgren",
+      "displayName": "Caleb",
+      "profileUrl": "https://x.com/calebfahlgren"
+    },
+    "publishedAt": "2026-11-12T00:51:46.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "Fable 5.2 is pretty unreal at 3D 😵‍💫\n\nI gave it one prompt to build a house. A few hours later, it made this masterpiece\n\nthe prompt was surprisingly simple: https://t.co/VqBC28pRSJ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/calebfahlgren/status/2120680918914601165",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120675630282911744/img/d6Rr6cTMgBcahkqR.jpg",
+        "analysisUrl": "https://x.com/calebfahlgren/status/2120680918914601165"
+      }
+    ],
+    "metrics": {
+      "likeCount": 950,
+      "repostCount": 61,
+      "replyCount": 89,
+      "quoteCount": 9,
+      "viewCount": 76300
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2121022479720194225",
+        "text": "@SudJourney thanks! I was super surprised since i didn't do any follow up from the messy prompt above lol",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2121018778280468708",
+        "text": "@flipkeygg yeah prompt was to make it like it was in nuketown haha",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2121013159368729027",
+        "text": "@Jeeyum you need 9 As for this level quality :)",
+        "author": "calebfahlgren"
+      },
+      {
+        "url": "https://x.com/calebfahlgren/status/2120983042147881271",
+        "text": "Caleb on X: \"@victormustar @grok ahh yes it should be parent if general subagent. here&#x27;s what claude said\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nCaleb on X: \"@victormustar @grok ahh yes it should be parent if general subagent. here&#x27;s what claude said\"\nConversation\n\n\n\nCaleb\n\n@calebfahlgren\n\n\n\n\nahh yes it should be parent if general subagent. here&#x27;s what claude said\n\n\n\n\n\n\n\n8:52 PM · Nov 12, 2026·47\nViews\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nCaleb@calebfahlgrenFollow\noptimist / software + product @huggingface\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nVictor M\n\n@victormustar\n12h\n\n\nah yes then idk in my time it was using default subagent but i’ll check later @grok maybe\n\n\n2\n\n1\n80\n\n\n\n\n\n\n\n\n\n\nCaleb\n\n@calebfahlgren\n\n\n\n\nahh yes it should be parent if general subagent. here&#x27;s what claude said\n\n\n\n\n\n\n\n8:52 PM · Nov 12, 2026·47\nViews\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nVictor M\n\n@victormustar\n12h\n\n\nyep I have the subagent var set since forever I’m curious how it would perform with sonnet (or even better deepseek)\n\n\n\n\n1\n60\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120982087251484720",
+        "text": "@victormustar hahaha. I don't think it should change anything though, it just uses claude code under the hood.",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120981398739894675",
+        "text": "@victormustar i never have to ask. usually when subagent is spawned in my usage it's the same model as the parent thread.\n\nmust be one of:\n\n1. parent agent decides the model\n2. default is to use parent thread model in workflows\n3. something in t3code with how it handles triggering workflows\n\nbut yeah I never ask it to use certain models most times🤷‍♂️",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120980395319779360",
+        "text": "@victormustar i'm sure opus 5.5 would be totally fine for a lot of it too, but just fired off the prompt and it picked fable",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120980182970278148",
+        "text": "@victormustar no, all fable. i don't think i can trust sonnet haha",
+        "author": "calebfahlgren"
+      },
+      {
+        "url": "https://x.com/calebfahlgren/status/2120979355853640148",
+        "text": "Caleb on X: \"@victormustar yeah I typically don&#x27;t much, but think in this instance helped with having the verifier / fixer in a workflow so orchestrator has to do less managing.\n\nEnded up looking something like this\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nCaleb on X: \"@victormustar yeah I typically don&#x27;t much, but think in this instance helped with having the verifier / fixer in a workflow so orchestrator has to do less managing.\n\nEnded up looking something like this\"\nConversation\n\n\n\nCaleb\n\n@calebfahlgren\n\n\n\n\nyeah I typically don&#x27;t much, but think in this instance helped with having the verifier / fixer in a workflow so orchestrator has to do less managing.\n\nEnded up looking something like this\n\n\n\n\n\n\n\n8:37 PM · Nov 12, 2026·157\nViews\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nCaleb@calebfahlgrenFollow\noptimist / software + product @huggingface\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nVictor M\n\n@victormustar\n13h\n\n\ninteresting I dropped ultracode use a bit since maybe too long we&#x27;ll try to get back to it\n\n\n1\n\n1\n102\n\n\n\n\n\n\n\n\n\n\nCaleb\n\n@calebfahlgren\n\n\n\n\nyeah I typically don&#x27;t much, but think in this instance helped with having the verifier / fixer in a workflow so orchestrator has to do less managing.\n\nEnded up looking something like this\n\n\n\n\n\n\n\n8:37 PM · Nov 12, 2026·157\nViews\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\nVictor M\n\n@victormustar\n13h\n\n\nsubagents are sonnet?\n\n\n1\n\n\n74\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120975810035364055",
+        "text": "@victormustar a few hours. used ultracode and it chose to split out each room into its own subagent which I think helped with the detail a bunch\n\nit used all my usage for the day so had to resume it later. Would only be like ~$315 in real API prices. Which feels cheap too me imo",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120961225945489902",
+        "text": "@StevenWoo4 just drop that prompt in and let it rip :)",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120925126933790876",
+        "text": "@pvbtab asked opus to give me a drone walkthrough and it rendered it on hf jobs",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120900123232256155",
+        "text": "@loki60542 yes, it’s all in https://t.co/fECwpu38Pk",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120884101783928845",
+        "text": "@techforgooduse yeah i'm sure",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120877373075620332",
+        "text": "@TheExopAI yup python and headless blender",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120867706396094578",
+        "text": "@SaidAitmbarek yup",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120867651933393087",
+        "text": "@SloydAi indeed",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120817702642364446",
+        "text": "@Scobleizer thanks!",
+        "author": "calebfahlgren"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/calebfahlgren/status/2120817669813547296",
+        "text": "@HamidoFx1 thanks ser",
+        "author": "calebfahlgren"
+      },
+      {
+        "url": "https://x.com/calebfahlgren/status/2120680918914601165",
+        "text": "Caleb on X: \"Fable 5.2 is pretty unreal at 3D 😵‍💫\n\nI gave it one prompt to build a house. A few hours later, it made this masterpiece\n\nthe prompt was surprisingly simple:\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nCaleb on X: \"Fable 5.2 is pretty unreal at 3D 😵‍💫\n\nI gave it one prompt to build a house. A few hours later, it made this masterpiece\n\nthe prompt was surprisingly simple:\"\nConversation\n\n\n\nCaleb\n\n@calebfahlgren\n\n\n\n\nFable 5.2 is pretty unreal at 3D 😵‍💫\n\nI gave it one prompt to build a house. A few hours later, it made this masterpiece\n\nthe prompt was surprisingly simple:\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n12:51 AM · Nov 12, 2026·76.3K\nViews\n\n\n89\n70\n951\n655\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nCaleb@calebfahlgrenFollow\noptimist / software + product @huggingface\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nCaleb\n\n@calebfahlgren\n\n\n\n\nFable 5.2 is pretty unreal at 3D 😵‍💫\n\nI gave it one prompt to build a house. A few hours later, it made this masterpiece\n\nthe prompt was surprisingly simple:\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n12:51 AM · Nov 12, 2026·76.3K\nViews\n\n\n89\n70\n951\n655\n\n\n\n\n\n\n\n\n\nCaleb\n\n@calebfahlgren\nNov 12\n\n\nPrompt: \n\n\"i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering\"\n\n\n8\n5\n84\n6.8K\n\n\n\n\n\n\n\n\n\n\n\nPedro Mesa\n\n@PedroMesa0\nNov 12\n\n\nFallout vibes.\n\n\n1\n\n5\n2.7K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "calebfahlgren"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/calebfahlgren/status/2120680918914601165",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120675630282911744/img/d6Rr6cTMgBcahkqR.jpg",
+  "coverPath": "covers/2120680918914601165.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120675630282911744",
+    "x-post:2120680918914601165"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Fable 5.2 Nuketown House 3D Architecture and Walkthrough",
+      "summary": "Caleb used Fable 5.2 orchestrated through ultracode with subagents to model an intricate two-story suburban house inspired by Call of Duty: Nuketown, rendered via headless Blender on Hugging Face Jobs.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "ultracode",
+        "authorUseConfirmed": true,
+        "evidence": "\"Fable 5.2 is pretty unreal at 3D\" and \"no, all fable. i don't think i can trust sonnet haha\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering",
+        "englishText": "i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Follow-up prompt requesting drone walkthrough camera path",
+          "Subagent execution traces and intermediate Blender Python scripts"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video presents a smooth first-person drone walkthrough through the exterior and furnished interior rooms of a detailed 1950s two-story suburban home matching the Nuketown theme.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D scene building, procedural asset generation, and headless video rendering",
+          "evidence": "yup python and headless blender",
+          "sourceUrl": "https://x.com/calebfahlgren/status/2120877373075620332",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Hugging Face Jobs",
+          "role": "Cloud GPU infrastructure executing rendering tasks",
+          "evidence": "asked opus to give me a drone walkthrough and it rendered it on hf jobs",
+          "sourceUrl": "https://x.com/calebfahlgren/status/2120925126933790876",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "ultracode",
+          "role": "Subagent orchestration framework dividing tasks across rooms and verifiers",
+          "evidence": "used ultracode and it chose to split out each room into its own subagent which I think helped with the detail a bunch",
+          "sourceUrl": "https://x.com/calebfahlgren/status/2120975810035364055",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Call of Duty Nuketown 3D House Walkthrough",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "3d-scenes",
+          "fable-5-2",
+          "python-scripting",
+          "nuketown"
+        ]
+      },
+      "targetModelRole": "High-level architectural planner and Python script generator managing multi-agent subtasks",
+      "outputSource": "Headless Blender rendered on Hugging Face Jobs",
+      "divisionEvidence": "\"yup python and headless blender\" and \"asked opus to give me a drone walkthrough and it rendered it on hf jobs\"",
+      "video": {
+        "shots": "Single continuous first-person drone tour flying into front entrance, navigating interior ground and upper floors, and looking out windows",
+        "duration": "0:44",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Demonstrates Claude Fable 5.2 orchestrating 3D model generation and scripting a headless Blender drone flythrough video from a natural language prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/calebfahlgren/status/2120680918914601165",
+        "start": 1331,
+        "end": 1618
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/calebfahlgren/status/2120680918914601165",
+        "author": "calebfahlgren",
+        "postId": "2120680918914601165",
+        "publishedAt": "2026-11-12T00:51:46.000Z"
+      },
+      "checkedAt": "2026-11-13T09:48:00.746Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/calebfahlgren/status/2120680918914601165",
+        "evidence": ""
+      }
+    },
+    "summary": "Caleb used Fable 5.2 orchestrated through ultracode with subagents to model an intricate two-story suburban house inspired by Call of Duty: Nuketown, rendered via headless Blender on Hugging Face Jobs.",
+    "summaryEn": "Fable 5.2 Nuketown House 3D Architecture and Walkthrough",
+    "originalPrompt": "i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering",
+    "sourceRange": {
+      "start": 1331,
+      "end": 1618
+    },
+    "translations": {
+      "zh": "i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering",
+      "en": "i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "blender",
+    "useCase": "Call of Duty Nuketown 3D House Walkthrough",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Follow-up prompt requesting drone walkthrough camera path",
+        "Subagent execution traces and intermediate Blender Python scripts"
+      ],
+      "evidence": "The video presents a smooth first-person drone walkthrough through the exterior and furnished interior rooms of a detailed 1950s two-story suburban home matching the Nuketown theme."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

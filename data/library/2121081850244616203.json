@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:45.302Z",
+  "model": "fable5.2",
+  "prompt": "Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in.",
+  "promptTranslations": {
+    "en": "Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in."
+  },
+  "summary": "Claude Fable 5.2 was tasked via Claude Code with generating a full browser-based first-person voxel sandbox game using Three.js, resulting in 'Tessel Isle' featuring terrain meshing, custom shaders, mining, and block building.",
+  "summaryEn": "Tessel Isle: First-Person Browser Voxel Sandbox Game",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2121081850244616203",
+    "canonicalUrl": "https://x.com/JaanusBuilds/status/2121081850244616203",
+    "author": {
+      "username": "JaanusBuilds",
+      "displayName": "Jaanus L.",
+      "profileUrl": "https://x.com/JaanusBuilds"
+    },
+    "publishedAt": "2026-11-13T03:24:55.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "You can literally test and play Voxel sandbox on browser made by Fable 5.2, GPT 6.1 Sol and Opus 5.5 https://t.co/n8eLoGqHIj https://t.co/QLlMBpuRI5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/JaanusBuilds/status/2121081850244616203",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2121081785215844352/img/wPyUa9VH_48K-AmR.jpg",
+        "analysisUrl": "https://x.com/JaanusBuilds/status/2121081850244616203"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://cmdbench.com/one-prompt/voxel-sandbox/",
+        "text": " Voxel sandbox game: one prompt, three games | CmdBench  Skip to content     >_ CmdBenchby CmdBrief        \n   Menu   \n \n   \n    Voxel sandbox game\n One prompt, three games. Claude Fable 5.2, Claude Opus 5.5 and GPT-6.1 Sol on high effort.\n Claude Fable 5.2 and Claude Opus 5.5 in Claude Code and GPT-6.1 Sol in Codex CLI each built a first-person voxel sandbox game from the same prompt and no picture: a generated block world to walk through, mine and build in. One run each on high effort, with no human edits.\n  This is not a CmdBench benchmark run: no checks, scores or verdicts.\n     The three games\n One run per model. Each game is served exactly as the agent wrote it, with no human edits, and opens full screen in this tab.\n \n        Claude Fable 5.2\n Tessel Isle: an island of 192 × 192 blocks, drawn with Three.js and its own shaders, with nine blocks to build with.\n  Built byClaude Fable 5.2·, high effort\nAgentClaude Code 2.1.322\n Time37 min 49 s\n Output tokens226,931\n Cost estimate$13.81\n Files writtenindex.html, style.css, js/config.js, js/main.js, js/mesher.js, js/noise.js, js/shaders.js, js/textures.js, js/world.js\n  Play the game by Claude Fable 5.2\n Click the game to look around; each game shows its own controls. Made for a mouse and keyboard. Opens full screen in this tab.\n \n  The same scripted minute of play, in four frames\n     0:02Before the first click  \n   0:19Mining  \n   0:33Building  \n   0:59The sky, later  \n  \n  \n      Claude Opus 5.5\n Voxel Valley: 160 × 160 blocks, drawn with Three.js and its own shaders, with ten blocks to build with.\n  Built byClaude Opus 5.5·, high effort\nAgentClaude Code 2.1.322\n Time18 min 42 s\n Output tokens115,281\n Cost estimate$3.61\n Files writtenindex.html, style.css, blocks.js, main.js, mesher.js, noise.js, shaders.js, world.js\n  Play the game by Claude Opus 5.5\n Click the game to look around; each game shows its own controls. Made for a mouse and keyboard. Opens full screen in this tab.\n \n  The same scripted minute of play, in four frames\n     0:02Before the first click  \n   0:19Mining  \n   0:33Building  \n   0:59The sky, later  \n  \n  \n      GPT-6.1 Sol\n Wildfield: 96 × 96 blocks, drawn with Three.js in one script, with five blocks to build with.\n  Built byGPT-6.1 Sol·, high effort\nAgentCodex CLI 0.167.1\n Time13 min 5 s\n Output tokens32,105\n Cost estimate$0.37\n Files writtenindex.html, style.css, game.js\n  Play the game by GPT-6.1 Sol\n Click the game to look around; each game shows its own controls. Made for a mouse and keyboard. Opens full screen in this tab.\n \n  The same scripted minute of play, in four frames\n     0:02Before the first click  \n   0:19Mining  \n   0:33Building  \n   0:59The sky, later  \n  \n  \n  In the same scripted minute of play, all three games took the mouse and keys: each one locks the mouse to look around, walks, jumps, mines the block its highlight marks, picks a block by number key and by mouse wheel, places blocks, and changes its sky as the minute passes.\nOne difference between the runs: Codex CLI can't be limited to file tools, so the GPT-6.1 Sol run could also run commands in a sandbox (its own folder, no network, no browser). Its log shows it ran none; it only wrote files.\nCosts are estimates at API list prices. For Claude Fable 5.2 and Claude Opus 5.5 they are Claude Code's own. Codex CLI reports no cost, so GPT-6.1 Sol's is computed from the run's own token counts at OpenAI's list prices of 09.11.2026.\n One run per model: exploratory, not a ranking.\n   The prompt\n  Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in.\n The task from the prompt every run got, with no picture. Read the full prompt (TASK.md)    How it was made\n    PromptThe same for every run, with no picture: read the prompt (TASK.md)\n ModelsClaude Fable 5.2 (claude-fable-5-2), Claude Opus 5.5 (claude-opus-5-5), GPT-6.1 Sol (gpt-6.1-sol)\n AgentsClaude Code 2.1.322 (Claude Fable 5.2 and Claude Opus 5.5); Codex CLI 0.167.1 (GPT-6.1 Sol)\n Efforthigh, one run per model\n ToolsClaude Code had file tools only (Read, Write, Edit, Glob, Grep): no browser, no shell, no web. Codex CLI can't be limited to file tools, so the GPT-6.1 Sol run could also run commands in a sandbox: its own folder only, no network, no browser. Its log shows it ran none; it only wrote files. No model saw its game running.\n Time limit60 minutes per run\n Three.js0.187.0, in the build folder: the only library the prompt allowed\n Human editsNone. Each game is served exactly as the agent wrote it.\n Run date11.11.2026\n  \n \n  \n       >_CmdBench Independent, made by CmdBrief. Operated by J&L Serverid OÜ.\n \n  \n © J&L Serverid OÜ · Registry code 11478495 · [email&#160;protected]\n\n \n  \n ",
+        "kind": "linked_public_material",
+        "author": "JaanusBuilds"
+      },
+      {
+        "url": "https://x.com/JaanusBuilds/status/2121081850244616203",
+        "text": "Jaanus L. on X: \"You can literally test and play Voxel sandbox on browser made by Fable 5.2, GPT 6.1 Sol and Opus 5.5 https://t.co/n8eLoGqHIj\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nJaanus L. on X: \"You can literally test and play Voxel sandbox on browser made by Fable 5.2, GPT 6.1 Sol and Opus 5.5 https://t.co/n8eLoGqHIj\"\nConversation\n\n\n\nJaanus L.\n\n@JaanusBuilds\n\n\n\n\nYou can literally test and play Voxel sandbox on browser made by Fable 5.2, GPT 6.1 Sol and Opus 5.5 cmdbench.com/one-prompt/vox…\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n3:24 AM · Nov 13, 2026·16\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJaanus L.@JaanusBuildsFollow\nAI Developer & CTO. 15+ years building teams, platforms and products from zero—Rust, C++, Go, React Native, IoT, automation, LLM agents & Web3.\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nJaanus L.\n\n@JaanusBuilds\n\n\n\n\nYou can literally test and play Voxel sandbox on browser made by Fable 5.2, GPT 6.1 Sol and Opus 5.5 cmdbench.com/one-prompt/vox…\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n3:24 AM · Nov 13, 2026·16\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "JaanusBuilds"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/JaanusBuilds/status/2121081850244616203",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2121081785215844352/img/wPyUa9VH_48K-AmR.jpg",
+  "coverPath": "covers/2121081850244616203.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2121081785215844352",
+    "x-post:2121081850244616203"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Tessel Isle: First-Person Browser Voxel Sandbox Game",
+      "summary": "Claude Fable 5.2 was tasked via Claude Code with generating a full browser-based first-person voxel sandbox game using Three.js, resulting in 'Tessel Isle' featuring terrain meshing, custom shaders, mining, and block building.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable 5.2",
+        "version": "5.2",
+        "platform": "Claude Code 2.1.322",
+        "authorUseConfirmed": true,
+        "evidence": "Built by Claude Fable 5.2 ·, high effort Agent Claude Code 2.1.322"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in.",
+        "englishText": "Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full specifications and constraints from TASK.md"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates gameplay of Tessel Isle, walking through procedural voxel terrain, mining blocks, and building with placed blocks in browser.",
+        "textualResultQuote": "Tessel Isle: an island of 192 × 192 blocks, drawn with Three.js and its own shaders, with nine blocks to build with."
+      },
+      "inputs": [
+        {
+          "kind": "document",
+          "description": "TASK.md prompt document containing the complete specification for the voxel sandbox game",
+          "available": false,
+          "evidence": "The task from the prompt every run got, with no picture. Read the full prompt (TASK.md)",
+          "sourceUrl": "https://cmdbench.com/one-prompt/voxel-sandbox/",
+          "origin": "user"
+        },
+        {
+          "kind": "code_library",
+          "description": "Three.js 0.187.0 in the build directory",
+          "available": true,
+          "evidence": "Three.js 0.187.0, in the build folder: the only library the prompt allowed",
+          "sourceUrl": "https://cmdbench.com/one-prompt/voxel-sandbox/",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent CLI tool with file operations used by Claude Fable 5.2 to write project source files",
+          "evidence": "Agent Claude Code 2.1.322... Tools Claude Code had file tools only (Read, Write, Edit, Glob, Grep)",
+          "sourceUrl": "https://cmdbench.com/one-prompt/voxel-sandbox/",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D WebGL graphics library used to render the procedural voxel blocks and custom shaders",
+          "evidence": "Tessel Isle: an island of 192 × 192 blocks, drawn with Three.js and its own shaders",
+          "sourceUrl": "https://cmdbench.com/one-prompt/voxel-sandbox/",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Browser Voxel Sandbox Game",
+        "topic": "games-interactive",
+        "tags": [
+          "voxel",
+          "threejs",
+          "interactive",
+          "3d-scene",
+          "procedural-generation"
+        ]
+      },
+      "targetModelRole": "Claude Fable 5.2 acted as the autonomous agent that authored all HTML, CSS, JavaScript, shaders, meshing, and noise code files without human edits.",
+      "outputSource": "Desktop web browser rendering Three.js and WebGL canvas code written by the agent.",
+      "divisionEvidence": "Claude Fable 5.2 and Claude Opus 5.5 in Claude Code and GPT-6.1 Sol in Codex CLI each built a first-person voxel sandbox game from the same prompt and no picture: a generated block world to walk through, mine and build in. One run each on high effort, with no human edits.",
+      "video": {
+        "shots": "Single continuous gameplay take showcasing walking, mining, placing blocks, and looking around the generated voxel island.",
+        "duration": "0:19",
+        "aspectRatio": "1.37:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an authentic Claude Fable 5.2 code-generation case producing an interactive 3D browser scene/game with Three.js accompanied by clear author confirmation and screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://cmdbench.com/one-prompt/voxel-sandbox/",
+        "start": 3502,
+        "end": 3648
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/JaanusBuilds/status/2121081850244616203",
+        "author": "JaanusBuilds",
+        "postId": "2121081850244616203",
+        "publishedAt": "2026-11-13T03:24:55.000Z"
+      },
+      "checkedAt": "2026-11-13T09:26:20.422Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://cmdbench.com/one-prompt/voxel-sandbox/",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Fable 5.2 was tasked via Claude Code with generating a full browser-based first-person voxel sandbox game using Three.js, resulting in 'Tessel Isle' featuring terrain meshing, custom shaders, mining, and block building.",
+    "summaryEn": "Tessel Isle: First-Person Browser Voxel Sandbox Game",
+    "originalPrompt": "Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in.",
+    "sourceRange": {
+      "start": 3502,
+      "end": 3648
+    },
+    "translations": {
+      "zh": "Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in.",
+      "en": "Build a first-person voxel sandbox game that runs in a desktop browser: a world made of blocks that the player walks through, mines and builds in."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Browser Voxel Sandbox Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full specifications and constraints from TASK.md"
+      ],
+      "evidence": "The screen recording demonstrates gameplay of Tessel Isle, walking through procedural voxel terrain, mining blocks, and building with placed blocks in browser."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

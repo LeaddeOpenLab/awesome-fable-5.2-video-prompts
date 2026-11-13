@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:45.726Z",
+  "model": "fable5.2",
+  "prompt": "ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)",
+  "promptTranslations": {
+    "en": "ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)"
+  },
+  "summary": "Author chained Fable 5.2 through Carbon and Grok to generate a 30-second sci-fi film.",
+  "summaryEn": "Fable 5.2 Multi-Agent Sci-Fi Video Production",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2121131029113225403",
+    "canonicalUrl": "https://x.com/hive_echo/status/2121131029113225403",
+    "author": {
+      "username": "hive_echo",
+      "displayName": "echo.hive",
+      "profileUrl": "https://x.com/hive_echo"
+    },
+    "publishedAt": "2026-11-13T06:40:20.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "I asked Fable 5.2 to ask Carbon to use Grok to make the best 30 second sci-fi film (no other input) https://t.co/ZrlAK8rjLG",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/hive_echo/status/2121131029113225403",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2121130745322479616/img/jpRI9rBhyedO2lWo.jpg",
+        "analysisUrl": "https://x.com/hive_echo/status/2121131029113225403"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 524
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/hive_echo/status/2121131029113225403",
+        "text": "echo.hive on X: \"I asked Fable 5.2 to ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\necho.hive on X: \"I asked Fable 5.2 to ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)\"\nConversation\n\n\n\necho.hive\n\n@hive_echo\n\n\n\n\nI asked Fable 5.2 to ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\nLast edited 6:40 AM · Nov 13, 2026Opens edit history·529\nViews\n\n\n1\n1\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\necho.hive@hive_echoFollow\nself & singularity & markets & mind\n\n🟣 Maximize: echohive.ai/get-amplified \n🔴Consulting: echohive.ai/consulting\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\necho.hive\n\n@hive_echo\n\n\n\n\nI asked Fable 5.2 to ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\nLast edited 6:40 AM · Nov 13, 2026Opens edit history·529\nViews\n\n\n1\n1\n5\n\n\n\n\n\n\n\n\n\n\nE1ev3n.\n\n@harden_369741\n2h\n\n\nI ran a two-model handoff once and the second model quietly rewrote the brief, so watching Fable 5.2 ask Carbon to ask Grok and still land a coherent 30-second film impresses me.\n\n\n\n\n1\n20\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "hive_echo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/hive_echo/status/2121131029113225403",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2121130745322479616/img/jpRI9rBhyedO2lWo.jpg",
+  "coverPath": "covers/2121131029113225403.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2121130745322479616",
+    "x-post:2121131029113225403"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Fable 5.2 Multi-Agent Sci-Fi Video Production",
+      "summary": "Author chained Fable 5.2 through Carbon and Grok to generate a 30-second sci-fi film.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Fable 5.2 to ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)",
+        "englishText": "ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full initial orchestration prompt",
+          "intermediate tool handoff instructions",
+          "model parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video depicts an astronaut awakening from cryostasis, unlocking a hatch, and seeing an overgrown rocket launchpad in ruined wetlands.",
+        "textualResultQuote": "Atmosphere breathable. Exterior hatch unlocked... We made it... Launch hold in effect. T-minus 10 minutes, and holding."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Carbon",
+          "role": "Intermediary AI agent",
+          "evidence": "I asked Fable 5.2 to ask Carbon to use Grok",
+          "sourceUrl": "https://x.com/hive_echo/status/2121131029113225403",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Grok",
+          "role": "Video and dialogue generation model",
+          "evidence": "to use Grok to make the best 30 second sci-fi film",
+          "sourceUrl": "https://x.com/hive_echo/status/2121131029113225403",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Cinematic Sci-Fi Narrative",
+        "topic": "3d-scenes",
+        "tags": [
+          "sci-fi",
+          "multi-agent",
+          "cinematic",
+          "video-production"
+        ]
+      },
+      "targetModelRole": "High-level prompt orchestrator initiating multi-agent delegation.",
+      "outputSource": "Grok video generation engine",
+      "divisionEvidence": "I asked Fable 5.2 to ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)",
+      "video": {
+        "shots": "Multiple cinematic cuts including cryo-chamber close-up, corridor run, hatch reveal, character portrait, and panoramic exterior.",
+        "duration": "30s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Demonstrates verified Claude Fable 5.2 orchestrating external video generation models to produce a full 30-second film.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/hive_echo/status/2121131029113225403",
+        "start": 21,
+        "end": 99
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/hive_echo/status/2121131029113225403",
+        "author": "hive_echo",
+        "postId": "2121131029113225403",
+        "publishedAt": "2026-11-13T06:40:20.000Z"
+      },
+      "checkedAt": "2026-11-13T09:18:09.637Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/hive_echo/status/2121131029113225403",
+        "evidence": ""
+      }
+    },
+    "summary": "Author chained Fable 5.2 through Carbon and Grok to generate a 30-second sci-fi film.",
+    "summaryEn": "Fable 5.2 Multi-Agent Sci-Fi Video Production",
+    "originalPrompt": "ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)",
+    "sourceRange": {
+      "start": 21,
+      "end": 99
+    },
+    "translations": {
+      "zh": "ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)",
+      "en": "ask Carbon to use Grok to make the best 30 second sci-fi film (no other input)"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "external-video-model",
+    "useCase": "Cinematic Sci-Fi Narrative",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full initial orchestration prompt",
+        "intermediate tool handoff instructions",
+        "model parameters"
+      ],
+      "evidence": "Video depicts an astronaut awakening from cryostasis, unlocking a hatch, and seeing an overgrown rocket launchpad in ruined wetlands."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

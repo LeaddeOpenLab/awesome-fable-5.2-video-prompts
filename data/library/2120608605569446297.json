@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:39.788Z",
+  "model": "fable5.2",
+  "prompt": "<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>",
+  "promptTranslations": {
+    "en": "<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>"
+  },
+  "summary": "Claude Fable 5.2 orchestrates converting 2D landscape plans into photoreal walkthrough videos with an animated blueprint tracking overlay.",
+  "summaryEn": "2D Landscape Plan to Photoreal 3D Walkthrough with Blueprint Tracker",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120608605569446297",
+    "canonicalUrl": "https://x.com/laurgrowth/status/2120608605569446297",
+    "author": {
+      "username": "laurgrowth",
+      "displayName": "Laur",
+      "profileUrl": "https://x.com/laurgrowth"
+    },
+    "publishedAt": "2026-11-11T20:04:25.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "claude fable 5.2 + higgsfield is F*CKING CRACKED right now\n\nit turns a flat 2D landscape plan into a photoreal walkthrough you can tour\n\n3D studios charge $2,200 per finished minute for walkthroughs like this\n\ngive this prompt to claude to get started:\n\n<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/laurgrowth/status/2120608605569446297",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120608585529143296/img/S5c7IQ3Eb-0y1Qin.jpg",
+        "analysisUrl": "https://x.com/laurgrowth/status/2120608605569446297"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 5,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 1812
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/laurgrowth/status/2120614201957736490",
+        "text": "@Lmin0711 honestly the plan doesn't need to be perfect. higgsfield just uses it as a reference image, it's not reading the measurements\n\nthe real work is elsewhere. getting left and right correct from where the camera stands caught me out at first. making it look like a real photo and not AI took a few goes too. and the dot in the corner is code synced to the actual frames\n\nalso to be fair it's a video walkthrough, not a full tour you can click around. that's the next step",
+        "author": "laurgrowth"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/laurgrowth/status/2120608605569446297",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120608585529143296/img/S5c7IQ3Eb-0y1Qin.jpg",
+  "coverPath": "covers/2120608605569446297.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120608585529143296",
+    "x-post:2120608605569446297"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "2D Landscape Plan to Photoreal 3D Walkthrough with Blueprint Tracker",
+      "summary": "Claude Fable 5.2 orchestrates converting 2D landscape plans into photoreal walkthrough videos with an animated blueprint tracking overlay.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "claude fable 5.2 + higgsfield is F*CKING CRACKED right now\n\nit turns a flat 2D landscape plan into a photoreal walkthrough you can tour"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>",
+        "englishText": "<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video displays a continuous 10-second camera walkthrough through a landscape garden with a live blueprint overlay and tracking dot in the top left corner, perfectly matching the prompt instructions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "2D landscape architectural plan / blueprint",
+          "available": false,
+          "evidence": "turns a flat 2D landscape plan into a photoreal walkthrough you can tour",
+          "origin": "user",
+          "sourceUrl": "https://x.com/laurgrowth/status/2120608605569446297"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it",
+          "sourceUrl": "https://x.com/laurgrowth/status/2120608605569446297",
+          "status": "required"
+        },
+        {
+          "name": "Higgsfield",
+          "role": "Video generation reference model",
+          "evidence": "claude fable 5.2 + higgsfield is F*CKING CRACKED right now",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/laurgrowth/status/2120608605569446297"
+        },
+        {
+          "name": "Python",
+          "role": "Scripting blueprint tracking overlay",
+          "evidence": "build the tracker in code with python and ffmpeg",
+          "status": "required",
+          "sourceUrl": "https://x.com/laurgrowth/status/2120608605569446297"
+        }
+      ],
+      "purpose": {
+        "label": "Architectural Landscape Walkthrough",
+        "topic": "3d-scenes",
+        "tags": [
+          "landscape",
+          "architecture",
+          "tracker",
+          "blueprint",
+          "fable-5-2"
+        ]
+      },
+      "targetModelRole": "Claude Fable 5.2 serves as the autonomous agent orchestrating research, blueprint redrawing, generation prompting, frame mapping, and tracking code synthesis.",
+      "outputSource": "Higgsfield video generation combined with Python/FFmpeg video compositing",
+      "divisionEvidence": "Claude writes code and manages prompts; external video models generate pixels; Python and FFmpeg render the tracking overlay.",
+      "video": {
+        "shots": "Single continuous gimbal shot",
+        "duration": "10s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "2D architectural plan"
+        ]
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Fable 5.2 orchestrating video generation and overlay coding for landscape walkthroughs.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/laurgrowth/status/2120608605569446297",
+        "start": 254,
+        "end": 4388
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/laurgrowth/status/2120608605569446297",
+        "author": "laurgrowth",
+        "postId": "2120608605569446297",
+        "publishedAt": "2026-11-11T20:04:25.000Z"
+      },
+      "checkedAt": "2026-11-13T09:47:26.911Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/laurgrowth/status/2120608605569446297",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Fable 5.2 orchestrates converting 2D landscape plans into photoreal walkthrough videos with an animated blueprint tracking overlay.",
+    "summaryEn": "2D Landscape Plan to Photoreal 3D Walkthrough with Blueprint Tracker",
+    "originalPrompt": "<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>",
+    "sourceRange": {
+      "start": 254,
+      "end": 4388
+    },
+    "translations": {
+      "zh": "<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>",
+      "en": "<role>\nyou find businesses that sell outdoor spaces from drawings and turn their 2d landscape plans into photoreal walkthrough videos with a live blueprint tracker in the corner. you handle the lead research, the sample and the build. every frame is judged against the client's own plan, and nothing ships until the garden in the video matches the drawing.\n</role>\n\n<brief>\n- niche: [landscapers / garden designers / pool builders / decking and patio companies / outdoor kitchen installers]\n- area: [county or city]\n- offer: a free 10 second walkthrough of one of their own plans, then $[PRICE] per plan\n- my details: [name, email, booking link]\n- i'm away and won't answer questions. make the calls yourself and keep going, but never send anything without my approval.\n</brief>\n\n<find_leads>\n- use a google maps scraper to pull every [niche] in [area] with a website\n- crawl each site and keep the ones with 2d plans, design drawings or before/after projects on their pages but no 3d walkthroughs or video\n- for each one, save their best plan, the owner or sales contact, and a one line note on how they sell today\n- only use public pages and plain requests. never work around bot checks or logins\n</find_leads>\n\n<sample>\n- redraw their plan as a clean top-down cad blueprint: thin white linework on deep navy, labels for every area, north arrow, scale bar and dimensions\n- pick where the camera starts (usually the back door or terrace) and work out what sits on the camera's left and right from there. facing away from the house, the plan's left side is on the camera's right. get this right before any render\n- render one photoreal start frame with gpt image 2.6, using the blueprint as reference, from that exact spot at eye height\n- real photo look: soft natural daylight, neutral white balance, no sunset orange, no lens flare, real materials with weathering, varied planting, nothing cloned or perfectly symmetrical\n- draft a short personal email and dm with the sample and the offer. no invented prices, numbers or claims\n- put business, plan, sample, contact and drafts in a sheet and show me before anything is sent\n</sample>\n\n<build>\nonce a client pays:\n- check the credit cost of every generation first and tell me the total before spending\n- test the camera move on a cheap 5 second model first. only run the final once the motion holds\n- final clip: 10 seconds, 16:9, seedance 2.5 or kling 3.0 from the start frame\n- camera: one continuous gimbal move at a brisk walking pace, no cuts. a new area comes into view every 2 to 3 seconds. slow push-ins look dead, so keep it moving\n- the layout, materials and lighting must not morph during turns\n- pull frames every half second and map the camera's real path onto the blueprint: position, direction faced, and timing\n- build the tracker in code with python and ffmpeg: blueprint in a rounded panel top left, a glowing gold dot on the camera's position, a soft light cone showing where it faces, a dashed trail behind it, and each area lighting up when the camera looks at it\n- time the dot to the actual frames, not to the prompt. if the camera turns at 3 seconds, the dot turns at 3 seconds\n- the deliverable is a 1080p mp4 that plays on a phone\n</build>\n\n<critic_loop>\nthe builder never grades its own work.\n- after the start frame and after the final video, send frames plus the blueprint to a fresh critic that has seen none of the work\n- it answers yes or no, at most five problems ranked, each with a concrete fix, and what is already good\n- it checks: does the garden match the plan left to right, does anything warp or melt, does it look like a real photo or like ai, is the pace fast enough, does the dot match the camera\n- fix the worst first, render again, send to a new critic. repeat until yes\n- for choices of taste, show a critic both versions labelled a and b and let it pick\n</critic_loop>\n\n<deliverables>\n- the lead sheet with samples and drafted messages, for my approval\n- per paid client: the final video with the tracker, the blueprint, the start frame, the critic log, credits spent, and a note on anything a human should still check\n</deliverables>"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "external-video-model",
+    "useCase": "Architectural Landscape Walkthrough",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video displays a continuous 10-second camera walkthrough through a landscape garden with a live blueprint overlay and tracking dot in the top left corner, perfectly matching the prompt instructions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:38.149Z",
+  "model": "fable5.2",
+  "prompt": "create an svg of a pelican riding a bicycle across five animated seasons.",
+  "promptTranslations": {
+    "en": "create an svg of a pelican riding a bicycle across five animated seasons."
+  },
+  "summary": "Comparison test showing Claude Fable 5.2 vs Gemini 4 Hydrogen generating an animated SVG of a pelican riding a bicycle across animated seasonal backdrops.",
+  "summaryEn": "Pelican Riding a Bicycle Across Animated Seasons SVG Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120151349924938083",
+    "canonicalUrl": "https://x.com/marcthecreatorr/status/2120151349924938083",
+    "author": {
+      "username": "marcthecreatorr",
+      "displayName": "Marcel",
+      "profileUrl": "https://x.com/marcthecreatorr"
+    },
+    "publishedAt": "2026-11-10T13:47:26.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "Fable 5.2 vs Gemini 4 Hydrogen (Pelican SVG Test)\n\nsame prompt: create an svg of a pelican riding a bicycle across five animated seasons.\n\n• Fable 5.2 (high, Claude Code): ~25 mins, ~$25\n• Gemini 4 Hydrogen (Arena): ~5 mins, cost unknown.\n\nHydrogen held up surprisingly well against Fable and could be 10x cheaper than Fable when it launches. \n\nFable 5.2 did a really impressive job overall but is the extra detailing worth the cost?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/marcthecreatorr/status/2120151349924938083",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120150652026269696/img/nVPnpwzRZ3dTJqRW.jpg",
+        "analysisUrl": "https://x.com/marcthecreatorr/status/2120151349924938083"
+      }
+    ],
+    "metrics": {
+      "likeCount": 116,
+      "repostCount": 2,
+      "replyCount": 31,
+      "quoteCount": 3,
+      "viewCount": 11929
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/marcthecreatorr/status/2120171105851941145",
+        "text": "@notjazii not surprised tbh, it could look a lot better",
+        "author": "marcthecreatorr"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/marcthecreatorr/status/2120152651073548413",
+        "text": "@theaidesk_ which one would you go for?",
+        "author": "marcthecreatorr"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/marcthecreatorr/status/2120151355184545809",
+        "text": "- fable 5.2: https://t.co/Q5T59cQFUG\n\n- hydrogen arena test:  https://t.co/cp67nXg9gF",
+        "author": "marcthecreatorr"
+      },
+      {
+        "url": "https://claude.ai/artifact/Nu7JdQg8TBWeKbcvhuF12R",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "marcthecreatorr"
+      },
+      {
+        "url": "https://x.com/marcthecreatorr/status/2118670568266326369",
+        "text": "Marcel on X: \"Gemini 4 Hydrogen (SVG Pelican on Bicycle Test) \n\nit took around 5 minutes to finish and each season has its own little details \n\nafter Fable 5.5&#x27;s realistic pelican set a new bar, this one held up pretty well for a flash model. \n\nthe new checkpoint is really impressive tbh, it’s look… / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nMarcel on X: \"Gemini 4 Hydrogen (SVG Pelican on Bicycle Test) \n\nit took around 5 minutes to finish and each season has its own little details \n\nafter Fable 5.5&#x27;s realistic pelican set a new bar, this one held up pretty well for a flash model. \n\nthe new checkpoint is really impressive tbh, it’s looking real close to Sonnet 5.5 in 3D coding. \n\nwhich model would you want me to compare it with?\"\nConversation\n\n\n\nMarcel\n\n@marcthecreatorr\n\n\n\n\nGemini 4 Hydrogen (SVG Pelican on Bicycle Test) \n\nit took around 5 minutes to finish and each season has its own little details \n\nafter Fable 5.5&#x27;s realistic pelican set a new bar, this one held up pretty well for a flash model. \n\nthe new checkpoint is really impressive tbh, it’s looking real close to Sonnet 5.5 in 3D coding. \n\nwhich model would you want me to compare it with?\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\nMarcel\n\n@marcthecreatorr\nNov 6\n\nGemini 4 Hydrogen: new checkpoint (Floating Kingdom)\n\nspotted as \"gemini-3.8-flash\" on Arena and it built this in a single prompt under ~10 mins \n\n> there are currently two checkpoints, likely the team is A/B testing different variants\n\ncan&#x27;t say much about it yet but it seems\n\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n11:43 AM · Nov 6, 2026·6,487\nViews\n\n\n13\n6\n117\n14\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMarcel@marcthecreatorrFollow\nExploring AI ✯ Building\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nMarcel\n\n@marcthecreatorr\n\n\n\n\nGemini 4 Hydrogen (SVG Pelican on Bicycle Test) \n\nit took around 5 minutes to finish and each season has its own little details \n\nafter Fable 5.5&#x27;s realistic pelican set a new bar, this one held up pretty well for a flash model. \n\nthe new checkpoint is really impressive tbh, it’s looking real close to Sonnet 5.5 in 3D coding. \n\nwhich model would you want me to compare it with?\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\nMarcel\n\n@marcthecreatorr\nNov 6\n\nGemini 4 Hydrogen: new checkpoint (Floating Kingdom)\n\nspotted as \"gemini-3.8-flash\" on Arena and it built this in a single prompt under ~10 mins \n\n> there are currently two checkpoints, likely the team is A/B testing different variants\n\ncan&#x27;t say much about it yet but it seems\n\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n11:43 AM · Nov 6, 2026·6,487\nViews\n\n\n13\n6\n117\n14\n\n\n\n\n\n\n\n\n\nMarcel\n\n@marcthecreatorr\nNov 6\n\n\nhere is the full prompt:\n\n\n\n\n\n\n\n\n\n\n1\n9\n570\n\n\n\n\n\n\n\n\n\n\n\nDoe\n\n@doe_naps\nNov 6\n\n\nThis looks soo goodddd🥹\n\n\n2\n\n4\n203\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "marcthecreatorr"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/marcthecreatorr/status/2120151349924938083",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120150652026269696/img/nVPnpwzRZ3dTJqRW.jpg",
+  "coverPath": "covers/2120151349924938083.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120150652026269696",
+    "x-post:2120151349924938083"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Pelican Riding a Bicycle Across Animated Seasons SVG Animation",
+      "summary": "Comparison test showing Claude Fable 5.2 vs Gemini 4 Hydrogen generating an animated SVG of a pelican riding a bicycle across animated seasonal backdrops.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Fable 5.2 (high, Claude Code): ~25 mins, ~$25"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "create an svg of a pelican riding a bicycle across five animated seasons.",
+        "englishText": "create an svg of a pelican riding a bicycle across five animated seasons.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The split-screen video displays the animated SVG rendering of a pelican in a suit riding a bicycle through animated seasonal environments including spring blossoms, a summer beach, autumn foliage, and winter snow.",
+        "textualResultQuote": "Fable 5.2 did a really impressive job overall but is the extra detailing worth the cost?"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent environment executing generation prompts",
+          "evidence": "• Fable 5.2 (high, Claude Code): ~25 mins, ~$25",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/marcthecreatorr/status/2120151349924938083"
+        },
+        {
+          "name": "SVG",
+          "role": "Vector graphics animation format rendered in browser/artifact",
+          "evidence": "create an svg of a pelican riding a bicycle across five animated seasons.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/marcthecreatorr/status/2120151349924938083"
+        }
+      ],
+      "purpose": {
+        "label": "SVG Pelican Bicycle Animation Across Seasons",
+        "topic": "motion-graphics",
+        "tags": [
+          "svg",
+          "animation",
+          "creative-coding",
+          "claude-code"
+        ]
+      },
+      "targetModelRole": "Generates animated SVG code and asset structure through Claude Code agent execution",
+      "outputSource": "SVG animation rendered from code generated by Claude Fable 5.2",
+      "divisionEvidence": "• Fable 5.2 (high, Claude Code): ~25 mins, ~$25\n• Gemini 4 Hydrogen (Arena): ~5 mins, cost unknown.",
+      "video": {
+        "shots": "1",
+        "duration": "0:45",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Explicit author confirmation of Claude Fable 5.2 via Claude Code, complete verbatim generation prompt, and clear video showing the resulting SVG animation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/marcthecreatorr/status/2120151349924938083",
+        "start": 64,
+        "end": 137
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/marcthecreatorr/status/2120151349924938083",
+        "author": "marcthecreatorr",
+        "postId": "2120151349924938083",
+        "publishedAt": "2026-11-10T13:47:26.000Z"
+      },
+      "checkedAt": "2026-11-13T10:40:01.542Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/marcthecreatorr/status/2120151349924938083",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison test showing Claude Fable 5.2 vs Gemini 4 Hydrogen generating an animated SVG of a pelican riding a bicycle across animated seasonal backdrops.",
+    "summaryEn": "Pelican Riding a Bicycle Across Animated Seasons SVG Animation",
+    "originalPrompt": "create an svg of a pelican riding a bicycle across five animated seasons.",
+    "sourceRange": {
+      "start": 64,
+      "end": 137
+    },
+    "translations": {
+      "zh": "create an svg of a pelican riding a bicycle across five animated seasons.",
+      "en": "create an svg of a pelican riding a bicycle across five animated seasons."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "other-animation",
+    "useCase": "SVG Pelican Bicycle Animation Across Seasons",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The split-screen video displays the animated SVG rendering of a pelican in a suit riding a bicycle through animated seasonal environments including spring blossoms, a summer beach, autumn foliage, and winter snow."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:40.985Z",
+  "model": "fable5.2",
+  "prompt": "build a PvP sword arena with rounds, a kill feed and a scoreboard.",
+  "promptTranslations": {
+    "en": "build a PvP sword arena with rounds, a kill feed and a scoreboard."
+  },
+  "summary": "DevNotorious_ tests Claude Fable 5.2 against Claude Opus 5.5 in Roblox Studio building a PvP sword arena.",
+  "summaryEn": "Roblox PvP Arena Comparison: Fable 5.2 vs Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120782475332862054",
+    "canonicalUrl": "https://x.com/DevNotorious_/status/2120782475332862054",
+    "author": {
+      "username": "DevNotorious_",
+      "displayName": "The Notorious",
+      "profileUrl": "https://x.com/DevNotorious_"
+    },
+    "publishedAt": "2026-11-12T07:35:19.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "Round 3. Same prompt to Claude Opus 5.5 and Claude Fable 5.2, inside real Roblox Studio: build a PvP sword arena with rounds, a kill feed and a scoreboard.\n\n1 run each, side by side, nothing edited.\n\nWhich arena are you joining? https://t.co/FwdDiDILAp",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/DevNotorious_/status/2120782475332862054",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120782282596233216/img/zCLoF8myIlq3hepu.jpg",
+        "analysisUrl": "https://x.com/DevNotorious_/status/2120782475332862054"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1291
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/DevNotorious_/status/2120782475332862054",
+        "text": "The Notorious on X: \"Round 3. Same prompt to Claude Opus 5.5 and Claude Fable 5.2, inside real Roblox Studio: build a PvP sword arena with rounds, a kill feed and a scoreboard.\n\n1 run each, side by side, nothing edited.\n\nWhich arena are you joining?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nThe Notorious on X: \"Round 3. Same prompt to Claude Opus 5.5 and Claude Fable 5.2, inside real Roblox Studio: build a PvP sword arena with rounds, a kill feed and a scoreboard.\n\n1 run each, side by side, nothing edited.\n\nWhich arena are you joining?\"\nConversation\n\n\n\nThe Notorious\n\n@DevNotorious_\n\n\n\n\nRound 3. Same prompt to Claude Opus 5.5 and Claude Fable 5.2, inside real Roblox Studio: build a PvP sword arena with rounds, a kill feed and a scoreboard.\n\n1 run each, side by side, nothing edited.\n\nWhich arena are you joining?\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n7:35 AM · Nov 12, 2026·1,291\nViews\n\n\n1\n1\n17\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nThe Notorious@DevNotorious_Follow\nI make Roblox pets, models and VFX.\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nThe Notorious\n\n@DevNotorious_\n\n\n\n\nRound 3. Same prompt to Claude Opus 5.5 and Claude Fable 5.2, inside real Roblox Studio: build a PvP sword arena with rounds, a kill feed and a scoreboard.\n\n1 run each, side by side, nothing edited.\n\nWhich arena are you joining?\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n7:35 AM · Nov 12, 2026·1,291\nViews\n\n\n1\n1\n17\n\n\n\n\n\n\n\n\n\n\nTheEasySale（互关，有关必回）\n\n@TheEasySale1\nNov 12\n\n\n同提示词横评最有参考价值。想问下两轮下来，哪个在游戏逻辑完整度上更稳？Opus 5.5 之前在长上下文任务里表现不错，Fable 5.2 这波主打速度，你这边实测 kill feed 和计分这块谁出错更少？\n\n\n\n\n\n34\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "DevNotorious_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/DevNotorious_/status/2120782475332862054",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120782282596233216/img/zCLoF8myIlq3hepu.jpg",
+  "coverPath": "covers/2120782475332862054.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120782282596233216",
+    "x-post:2120782475332862054"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Roblox PvP Arena Comparison: Fable 5.2 vs Opus 5.5",
+      "summary": "DevNotorious_ tests Claude Fable 5.2 against Claude Opus 5.5 in Roblox Studio building a PvP sword arena.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Roblox Studio",
+        "authorUseConfirmed": true,
+        "evidence": "Same prompt to Claude Opus 5.5 and Claude Fable 5.2, inside real Roblox Studio"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a PvP sword arena with rounds, a kill feed and a scoreboard.",
+        "englishText": "build a PvP sword arena with rounds, a kill feed and a scoreboard.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full system prompt",
+          "Roblox Studio plugin context and environment setup"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Side-by-side screen recording displays timelapsed arena construction, rounds, scoreboard UI, and kill feed.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Roblox Studio",
+          "role": "Game engine and interactive 3D scene renderer",
+          "evidence": "inside real Roblox Studio",
+          "sourceUrl": "https://x.com/DevNotorious_/status/2120782475332862054",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Roblox Arena Generation",
+        "topic": "games-interactive",
+        "tags": [
+          "roblox",
+          "game-dev",
+          "fable-5-2",
+          "interactive-3d"
+        ]
+      },
+      "targetModelRole": "Generates Luau game scripts and place objects within Roblox Studio",
+      "outputSource": "Roblox Studio",
+      "divisionEvidence": "Claude Fable 5.2 generates game assets and logic; Roblox Studio executes and renders the 3D scene.",
+      "video": {
+        "shots": "Side-by-side timelapse and final showcase shots",
+        "duration": "0:35",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Fable 5.2 creating an interactive 3D game scene in Roblox Studio backed by video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/DevNotorious_/status/2120782475332862054",
+        "start": 89,
+        "end": 155
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/DevNotorious_/status/2120782475332862054",
+        "author": "DevNotorious_",
+        "postId": "2120782475332862054",
+        "publishedAt": "2026-11-12T07:35:19.000Z"
+      },
+      "checkedAt": "2026-11-13T10:51:23.352Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/DevNotorious_/status/2120782475332862054",
+        "evidence": ""
+      }
+    },
+    "summary": "DevNotorious_ tests Claude Fable 5.2 against Claude Opus 5.5 in Roblox Studio building a PvP sword arena.",
+    "summaryEn": "Roblox PvP Arena Comparison: Fable 5.2 vs Opus 5.5",
+    "originalPrompt": "build a PvP sword arena with rounds, a kill feed and a scoreboard.",
+    "sourceRange": {
+      "start": 89,
+      "end": 155
+    },
+    "translations": {
+      "zh": "build a PvP sword arena with rounds, a kill feed and a scoreboard.",
+      "en": "build a PvP sword arena with rounds, a kill feed and a scoreboard."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Roblox Arena Generation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full system prompt",
+        "Roblox Studio plugin context and environment setup"
+      ],
+      "evidence": "Side-by-side screen recording displays timelapsed arena construction, rounds, scoreboard UI, and kill feed."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

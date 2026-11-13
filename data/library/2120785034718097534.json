@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T10:52:41.419Z",
+  "model": "fable5.2",
+  "prompt": "build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible.",
+  "promptTranslations": {
+    "en": "build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible."
+  },
+  "summary": "Simonas compares Claude Fable 5.2 and Gemini 4 Carbon generating a 2.5D Snake game in a single HTML file with a token-saving planning instruction, recording side-by-side gameplay and token limit benchmarks.",
+  "summaryEn": "2.5D Snake Game Comparison: Claude Fable 5.2 vs Gemini 4 Carbon",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120785034718097534",
+    "canonicalUrl": "https://x.com/SimonasLTU1/status/2120785034718097534",
+    "author": {
+      "username": "SimonasLTU1",
+      "displayName": "Simonas",
+      "profileUrl": "https://x.com/SimonasLTU1"
+    },
+    "publishedAt": "2026-11-12T07:45:29.000Z",
+    "collectedAt": "2026-11-13T09:15:20.172Z",
+    "language": "en",
+    "originalText": "Claude Fable 5.2 vs Gemini 4 Carbon, same prompt: build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible.\n\nMy take: Carbon's game looks and feels significantly better. Fable was faster. Numbers below.\n\nBoth ran on High. Before writing any code, each had to plan how to get the job done with minimal usage, so this tests efficiency as much as output.\n\nClaude Fable 5.2 ($100 plan)\n• 22 min\n• 8% of the 5-hour limit\n• 1% of the weekly limit, 2% of the Fable weekly limit\n\nGemini 4 Carbon (Google AI Ultra, $200 plan)\n• 34 min\n• 1% of the 5-hour limit\n• 0-1% of the weekly limit\n\nGameplay from both is in the video.\n\nComing soon: this \"plan first to save tokens\" approach vs a standard build, to see what the planning step actually changes.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SimonasLTU1/status/2120785034718097534",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120784939104784384/img/Hxdgyfdb3AOf0HmU.jpg",
+        "analysisUrl": "https://x.com/SimonasLTU1/status/2120785034718097534"
+      }
+    ],
+    "metrics": {
+      "likeCount": 39,
+      "repostCount": 2,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 3588
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SimonasLTU1/status/2120791419778424950",
+        "text": "@shipwithstef I will upload it soon :)",
+        "author": "SimonasLTU1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SimonasLTU1/status/2120789693881016635",
+        "text": "@shipwithstef Thank you Stef! And actually it allowed Carbon to actually do the damn job 😅 Because now I'm trying to see how much time & limits the same task will take without planning it to take less tokens and guess what... Fable 5.2 used out way more limits & took ~45 minutes, meanwhile... Carbon is still in it's initial thinking phase, I feel like it's going to just crash once again after an hour of thinking... 😂",
+        "author": "SimonasLTU1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SimonasLTU1/status/2120785034718097534",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120784939104784384/img/Hxdgyfdb3AOf0HmU.jpg",
+  "coverPath": "covers/2120785034718097534.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120784939104784384",
+    "x-post:2120785034718097534"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "2.5D Snake Game Comparison: Claude Fable 5.2 vs Gemini 4 Carbon",
+      "summary": "Simonas compares Claude Fable 5.2 and Gemini 4 Carbon generating a 2.5D Snake game in a single HTML file with a token-saving planning instruction, recording side-by-side gameplay and token limit benchmarks.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Claude ($100 plan)",
+        "authorUseConfirmed": true,
+        "evidence": "\"Claude Fable 5.2 vs Gemini 4 Carbon, same prompt... Claude Fable 5.2 ($100 plan)\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible.",
+        "englishText": "build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full system prompt and chat instructions given prior to code generation"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows actual browser gameplay of 'Lumina', the 2.5D Snake game coded by Claude Fable 5.2, followed by Gemini 4 Carbon's 'Ouroboros' and side-by-side execution metrics.",
+        "textualResultQuote": "Gameplay from both is in the video."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / WebGL",
+          "role": "Runtime environment rendering the 2.5D Snake game in browser",
+          "evidence": "build a visually impressive 2.5D Snake game in one HTML file",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/SimonasLTU1/status/2120785034718097534"
+        }
+      ],
+      "purpose": {
+        "label": "2.5D Snake Web Game Benchmark",
+        "topic": "games-interactive",
+        "tags": [
+          "snake",
+          "2.5d",
+          "html-game",
+          "webgl",
+          "gameplay",
+          "benchmark"
+        ]
+      },
+      "targetModelRole": "Generates the single-file HTML/JS game codebase according to the visual and token-budget planning prompt",
+      "outputSource": "In-browser screen recording of the generated HTML game file executed locally",
+      "divisionEvidence": "\"build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible.\"",
+      "video": {
+        "shots": "Single multi-segment comparison screen recording featuring title card, Lumina gameplay, Ouroboros gameplay, and side-by-side benchmark comparison",
+        "duration": "00:57",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct author demonstration comparing Claude Fable 5.2 code-generated 2.5D interactive browser game footage with exact model attribution, prompt quote, and screen-recorded gameplay.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SimonasLTU1/status/2120785034718097534",
+        "start": 50,
+        "end": 180
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SimonasLTU1/status/2120785034718097534",
+        "author": "SimonasLTU1",
+        "postId": "2120785034718097534",
+        "publishedAt": "2026-11-12T07:45:29.000Z"
+      },
+      "checkedAt": "2026-11-13T10:51:43.944Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SimonasLTU1/status/2120785034718097534",
+        "evidence": ""
+      }
+    },
+    "summary": "Simonas compares Claude Fable 5.2 and Gemini 4 Carbon generating a 2.5D Snake game in a single HTML file with a token-saving planning instruction, recording side-by-side gameplay and token limit benchmarks.",
+    "summaryEn": "2.5D Snake Game Comparison: Claude Fable 5.2 vs Gemini 4 Carbon",
+    "originalPrompt": "build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible.",
+    "sourceRange": {
+      "start": 50,
+      "end": 180
+    },
+    "translations": {
+      "zh": "build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible.",
+      "en": "build a visually impressive 2.5D Snake game in one HTML file, but plan first so it burns as little of the usage limit as possible."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "2.5D Snake Web Game Benchmark",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full system prompt and chat instructions given prior to code generation"
+      ],
+      "evidence": "The video shows actual browser gameplay of 'Lumina', the 2.5D Snake game coded by Claude Fable 5.2, followed by Gemini 4 Carbon's 'Ouroboros' and side-by-side execution metrics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
