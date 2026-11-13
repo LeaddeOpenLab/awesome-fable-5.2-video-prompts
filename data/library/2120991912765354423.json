@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:51.482Z",
+  "model": "fable5.2",
+  "prompt": "Create a game, where you use animals, insects, etc to solve problems and collect items.",
+  "promptTranslations": {
+    "en": "Create a game, where you use animals, insects, etc to solve problems and collect items."
+  },
+  "summary": "Shawn Ramey demonstrates a 3D interactive game created with Fable 5.2 in one shot, where players morph into different animals and insects (squirrel, frog, ant, bird) to collect sun-seeds and solve environment puzzles.",
+  "summaryEn": "Interactive 3D Animal Transformation Game Generated in Fable 5.2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120991912765354423",
+    "canonicalUrl": "https://x.com/theshawnramey/status/2120991912765354423",
+    "author": {
+      "username": "theshawnramey",
+      "displayName": "Shawn Ramey",
+      "profileUrl": "https://x.com/theshawnramey"
+    },
+    "publishedAt": "2026-11-12T21:27:32.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "Fable 5.2\n\nCreate a game, where you use animals, insects, etc to solve problems and collect items.\n\nThis is wild. One shot, 15 minutes. https://t.co/bfL9vIR2zm",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/theshawnramey/status/2120991912765354423",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120991760163749889/img/eVQkqLLQgXpe5-ay.jpg",
+        "analysisUrl": "https://x.com/theshawnramey/status/2120991912765354423"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/theshawnramey/status/2120991912765354423",
+        "text": "Shawn Ramey on X: \"Fable 5.2\n\nCreate a game, where you use animals, insects, etc to solve problems and collect items.\n\nThis is wild. One shot, 15 minutes.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nShawn Ramey on X: \"Fable 5.2\n\nCreate a game, where you use animals, insects, etc to solve problems and collect items.\n\nThis is wild. One shot, 15 minutes.\"\nConversation\n\n\n\nShawn Ramey\n@theshawnramey\n\n\n\n\nFable 5.2\n\nCreate a game, where you use animals, insects, etc to solve problems and collect items.\n\nThis is wild. One shot, 15 minutes.\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n9:27 PM · Nov 12, 2026·7\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nShawn Ramey@theshawnrameyFollow\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nShawn Ramey\n@theshawnramey\n\n\n\n\nFable 5.2\n\nCreate a game, where you use animals, insects, etc to solve problems and collect items.\n\nThis is wild. One shot, 15 minutes.\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n9:27 PM · Nov 12, 2026·7\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "theshawnramey"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/theshawnramey/status/2120991912765354423",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120991760163749889/img/eVQkqLLQgXpe5-ay.jpg",
+  "coverPath": "covers/2120991912765354423.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120991760163749889",
+    "x-post:2120991912765354423"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Animal Transformation Game Generated in Fable 5.2",
+      "summary": "Shawn Ramey demonstrates a 3D interactive game created with Fable 5.2 in one shot, where players morph into different animals and insects (squirrel, frog, ant, bird) to collect sun-seeds and solve environment puzzles.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Fable",
+        "authorUseConfirmed": true,
+        "evidence": "\"Fable 5.2\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a game, where you use animals, insects, etc to solve problems and collect items.",
+        "englishText": "Create a game, where you use animals, insects, etc to solve problems and collect items.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording shows gameplay of 'The Wishing Sprout', where the player controls a character shifting into a squirrel climbing trees, a frog hopping across lily pads, an ant slipping through cracks, and finally a bird flying across the garden.",
+        "textualResultQuote": "The Wishing Sprout\nFind three sun-seeds.\n1 Wisp  2 Squirrel  3 Frog  4 Ant  5 Bird"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / 3D Canvas",
+          "role": "Real-time 3D rendering and interactive game environment execution",
+          "evidence": "Visual screen recording demonstrates real-time 3D character movement, camera rotation, and UI interaction.",
+          "sourceUrl": "https://x.com/theshawnramey/status/2120991912765354423",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "3D Animal Puzzle Adventure Game",
+        "topic": "games-interactive",
+        "tags": [
+          "fable-5-2",
+          "interactive-game",
+          "3d",
+          "game-dev",
+          "animals"
+        ]
+      },
+      "targetModelRole": "Generated the interactive 3D game code, mechanics, environment logic, and character state machines from the single prompt.",
+      "outputSource": "Web browser / interactive canvas screen recording",
+      "divisionEvidence": "\"Fable 5.2\\n\\nCreate a game, where you use animals, insects, etc to solve problems and collect items.\\n\\nThis is wild. One shot, 15 minutes.\"",
+      "video": {
+        "shots": "1",
+        "duration": "01:04",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The author provides the exact model name/version (Fable 5.2), the complete verbatim one-shot prompt, and a direct screen recording demonstrating gameplay execution consistent with the prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/theshawnramey/status/2120991912765354423",
+        "start": 11,
+        "end": 98
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/theshawnramey/status/2120991912765354423",
+        "author": "theshawnramey",
+        "postId": "2120991912765354423",
+        "publishedAt": "2026-11-12T21:27:32.000Z"
+      },
+      "checkedAt": "2026-11-13T03:07:58.296Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/theshawnramey/status/2120991912765354423",
+        "evidence": ""
+      }
+    },
+    "summary": "Shawn Ramey demonstrates a 3D interactive game created with Fable 5.2 in one shot, where players morph into different animals and insects (squirrel, frog, ant, bird) to collect sun-seeds and solve environment puzzles.",
+    "summaryEn": "Interactive 3D Animal Transformation Game Generated in Fable 5.2",
+    "originalPrompt": "Create a game, where you use animals, insects, etc to solve problems and collect items.",
+    "sourceRange": {
+      "start": 11,
+      "end": 98
+    },
+    "translations": {
+      "zh": "Create a game, where you use animals, insects, etc to solve problems and collect items.",
+      "en": "Create a game, where you use animals, insects, etc to solve problems and collect items."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Animal Puzzle Adventure Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording shows gameplay of 'The Wishing Sprout', where the player controls a character shifting into a squirrel climbing trees, a frog hopping across lily pads, an ant slipping through cracks, and finally a bird flying across the garden."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

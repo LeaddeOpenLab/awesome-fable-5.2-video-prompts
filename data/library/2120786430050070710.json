@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:48.926Z",
+  "model": "fable5.2",
+  "prompt": "reflective interaction nets",
+  "promptTranslations": {
+    "en": "reflective interaction nets"
+  },
+  "summary": "Zyan prompts Claude Fable 5.2 to formulate reflective interaction nets with introspection capabilities, demonstrating the resulting agent reduction behavior through an interactive web viewer screen recording.",
+  "summaryEn": "Reflective Interaction Nets Graph Reduction Visualization",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120786430050070710",
+    "canonicalUrl": "https://x.com/zyansheep/status/2120786430050070710",
+    "author": {
+      "username": "zyansheep",
+      "displayName": "Zyan🔸",
+      "profileUrl": "https://x.com/zyansheep"
+    },
+    "publishedAt": "2026-11-12T07:51:01.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "Welp, I asked Fable 5.2 for reflective interaction nets, and I suppose it did give me what I asked for but it did it kinda ugly. Looks like it arrived on a solution that has this special \"reader\" agent that when applied converts a whole subtree into lambda-encoding of that subtree... this is NOT what I signed up for! In tree calculus all lambdas are encoded as trees and binders are encoded as like sequences of S/K combinators that wrap a given subtree (much overhead, not ideal) but at least you can have a single primitive rule (emulated by a sequence of ic reduction steps) that can implement introspection on a sub tree. It seems to be a much harder problem when the association between binder and variable is done via edge in a graph—as how does one case-analysis on a graph via local rewrite rules exactly? It's even more weird when everything needs to be linear by default. I was somehow able to get linear to work in like a version of the tree calculus that had 9 rules but it was still kinda weird, and obv had tc bracket abstraction overhead. I think I'm going to just keep prompting here and see if I can either get it to strait up solve the problem of introspection overhead (it tried with a \"table\" node, I vetoed this as well) or perhaps switch to a version of interaction nets where signal can flow along the wires themselves to be like closer to an FPGA spiritually🤔",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/zyansheep/status/2120786430050070710",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120785976666849280/img/11cK4ebk0wFWHRoX.jpg",
+        "analysisUrl": "https://x.com/zyansheep/status/2120786430050070710"
+      }
+    ],
+    "metrics": {
+      "likeCount": 355,
+      "repostCount": 25,
+      "replyCount": 19,
+      "quoteCount": 2,
+      "viewCount": 12089
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120955566541652307",
+        "text": "@maksymbandurko Are you working on a similar thing? Would love to exchange design ideas :)",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120954311593414729",
+        "text": "@maksymbandurko hehe, that's the plan :)",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120924149535363479",
+        "text": "@Aron_Adler @nascentwisp @Jay59009444 yeah that's the issue (〒﹏〒)\ni thought it found one with no encoding and wanted it with no encoding... but alas!",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120918077709934693",
+        "text": "@dogecahedron for the videos? its various encodings of two input numbers (unary, binary list, binary tree-encoding) and the output is the same recursive structure",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120917817218544088",
+        "text": "@dogecahedron what do you mean by example input output? like the rewrite rule set? the result and input of a given application? (should be viewable from the other videos i uploaded)",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120913168306503994",
+        "text": "@dogecahedron debruijn is an encoding of a graph using relative positions (and is kinda inelegant), HOAS is an encoding of a graph using the metalanguage's encoding of graphs, I intend to encode this graph on a cellular automata where connections between nodes take up physical space through cells :)\n(although maybe i misunderstood the question)",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120904871851565154",
+        "text": "@dogecahedron I think ideally it just stays encoded in graphs 🤔 The idea is you don't need any kind of external representation to do parsing or type checking if you have a self-reflective calculus that allows you to just work in the native encoding",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120904156529766594",
+        "text": "@_cmd8 ikr???\nreminds me of @bzogrammer's chip layouts :)",
+        "author": "zyansheep"
+      },
+      {
+        "url": "https://x.com/zyansheep/status/2120903520463581623",
+        "text": "Zyan🔸 on X: \"and best of all, parallel binary tree addition!\nedit: also here&#x27;s the link to the viewer for anyone interested :)\nhttps://t.co/fHr2mjdjXE\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nZyan🔸 on X: \"and best of all, parallel binary tree addition!\nedit: also here&#x27;s the link to the viewer for anyone interested :)\nhttps://t.co/fHr2mjdjXE\"\nConversation\n\n\n\nZyan🔸\n\n@zyansheep\n\n\n\n\nand best of all, parallel binary tree addition!\nedit: also here&#x27;s the link to the viewer for anyone interested :)\ndisp-lang.net/repo/research/…\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n3:36 PM · Nov 12, 2026·166\nViews\n\n\n1\n1\n5\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nZyan🔸@zyansheepFollow\nDECENTRALIZE THE INTERNET WITH THE POWER OF TYPES AND FRIENDSHIP\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n19h\n\n\nWelp, I asked Fable 5.2 for reflective interaction nets, and I suppose it did give me what I asked for but it did it kinda ugly. Looks like it arrived on a solution that has this special \"reader\" agent that when applied converts a whole subtree into lambda-encoding of that Show more\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n19\n27\n355\n12K\n\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n19h\n\n\nIt&#x27;s still absolutely gorgeous tho to see it work with unary, binary, and binary tree add functions :D\nUnary:\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2\n\n23\n510\n\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n19h\n\n\nBinary list:\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n17\n369\n\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n\n\n\n\nand best of all, parallel binary tree addition!\nedit: also here&#x27;s the link to the viewer for anyone interested :)\ndisp-lang.net/repo/research/…\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n3:36 PM · Nov 12, 2026·166\nViews\n\n\n1\n1\n5\n4\n\n\n\n\n\n\n\n\n\nDoug Lance\n\n@Douglance\n6h\n\n\n```\n/goal hillclimb to target 120fps for increasingly complex systems\n```\n\n\n\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120796989340487814",
+        "text": "@lukalotl funny enough i think it mentioned that while going over alternatives 🤔",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120789448535490964",
+        "text": "@dogecahedron afaict its a somewhat standard interaction net encoding, so ig just regular lambda calculus?",
+        "author": "zyansheep"
+      },
+      {
+        "url": "https://x.com/zyansheep/status/2120788903003361576",
+        "text": "Zyan🔸 on X: \"Binary list:\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nZyan🔸 on X: \"Binary list:\"\nConversation\n\n\n\nZyan🔸\n\n@zyansheep\n\n\n\n\nBinary list:\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n8:00 AM · Nov 12, 2026·369\nViews\n\n\n1\n\n17\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nZyan🔸@zyansheepFollow\nDECENTRALIZE THE INTERNET WITH THE POWER OF TYPES AND FRIENDSHIP\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n19h\n\n\nWelp, I asked Fable 5.2 for reflective interaction nets, and I suppose it did give me what I asked for but it did it kinda ugly. Looks like it arrived on a solution that has this special \"reader\" agent that when applied converts a whole subtree into lambda-encoding of that Show more\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n19\n27\n355\n12K\n\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n19h\n\n\nIt&#x27;s still absolutely gorgeous tho to see it work with unary, binary, and binary tree add functions :D\nUnary:\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2\n\n23\n510\n\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n\n\n\n\nBinary list:\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n8:00 AM · Nov 12, 2026·369\nViews\n\n\n1\n\n17\n6\n\n\n\n\n\n\n\n\n\nZyan🔸\n\n@zyansheep\n11h\n\n\nand best of all, parallel binary tree addition!\nedit: also here&#x27;s the link to the viewer for anyone interested :)\ndisp-lang.net/repo/research/…\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n1\n5\n166\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "zyansheep"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zyansheep/status/2120788768382923176",
+        "text": "It's still absolutely gorgeous tho to see it work with unary, binary, and binary tree add functions :D\nUnary: https://t.co/0fzMC3MlMo",
+        "author": "zyansheep"
+      },
+      {
+        "url": "https://disp-lang.net/repo/research/linear-ic-net/player/index.html",
+        "text": "\n\nReflective nets, reducing\n\n\n\n  \n    \n    \nloading…\n\n\n\n    \n      \n        \n\n      \n      \n        ⏮\n        ◀◀\n        ◀\n        ▶\n        ▶▶\n        ⏭\n        \n         a round at a time\n      \n\n      \n        order\n          all at once, in roundsnewest pair firstrandom\n         variable wires\n         fold named parts\n         subnets\n         physical\n         motion\n         follow\n      \n\n    \n\n  \n\n  \n    Reflective nets, reducing\n\n    Click a bright wire, or either agent on it, to fire that pair. ▶ steps in the order chosen\n      under the bar. Drag the bar to scrub through the run, either way. Hold Shift to light up the\n      whole subnet under the pointer.\n\n    Pointed at\n\n    point at an agent\n\n    The net as a term, now\n\n    \n\n    The rule\n\n    point at a bright wire, or follow a link above\n\n    Now\n\n    \n\n    Try\n\n    \n\n    The adds\n\n    Every add in the prelude, named for the kind of program it is, the shape of its numbers and the way\n      it adds. Click one to play it.\n\n    linear uses every variable, so no eraser ever appears, and copies\n      only where a variable is used twice. ordinary is the usual way: a\n      fixpoint or a test, and what is not picked is erased. reversible\n      is linear and also hands the first number back, so a subtract can undo the add: an add alone\n      forgets, since 1 + 2 and 2 + 1 give one sum.\n\n    \n\n    What you are looking at\n\n    A λ-calculus run as an interaction net. Each shape is an agent, each line a wire. Two agents\n      joined by their main ports (a bright wire, in the colour of what the rewrite will do) are about\n      to rewrite; nothing else can happen. The program hangs from the root (the ring at the top), and its\n      answer ends up there.\n\n    Structures. Code that hangs together sits on one faint band: one value, or one stretch of\n      code. Bands keep apart, and what is running, copying or erasing stands between them. A band's label\n      is the name of the definition it comes from, or else the start of its term. A number carries\n      a green tag that says which number it is, wherever it is and however it was built; its bits are\n      the parts named b0 and b1.\n\n    Terms. Point at an agent to read the subnet under it as a term, and see the whole net as one\n      above. A name stands for a definition that is whole. In a term, ▸c is a thaw on code c,\n      f @ a an application that is running, ‹v› a value a variable holds,\n      ⧉n⟨v⟩ a side of copy n that has still to pass through v, and ρ⟨v⟩ a read\n      under way.\n\n    Physical. Tick it and play: the two agents of every pair that can fire are drawn together,\n      and the pair rewrites when its main pins touch. What is close goes first, and what must cross the\n      net goes later. The answer and the number of rewrites are the same as in any other order.\n\n    Ports. Every port is a pin on its own side of the icon, and wires join pin tips. The main\n      port's pin ends in a white dot. Only main ports meet: a rewrite happens where two main ports\n      are wired together, and it rewires what was on the side ports. An icon turns, and flips left\n      for right, to face its pins toward what they are wired to; its letter stays upright.\n\n    Named parts. The code of a definition (suc, size, …) that nothing is acting on is\n      drawn as its name on a pill. Click a pill to open it, and the tag of an opened part to fold it\n      again. A part opens by itself when a thaw, a copier or an eraser reaches it, and its copies fold\n      when they are whole.\n\n    Drag an agent to move it; the layout gives way around it and settles again when you let go.\n      Drag empty space to move the view, and scroll to zoom.\n\n    Code is frozen. The grey shapes are code: functions (λ on a tile), applications (small disks) and\n      uses of variables (dots). Code does nothing by itself. A thaw (green arrow) walks down it and\n      turns each application into a running one (pink @). A thaw stops at a function: the body stays\n      frozen until the function is called, so nothing inside a body ever moves early.\n\n    A call is a running application meeting a function. The argument is wired to the uses of the\n      variable (the thin violet wires), and a thaw starts on the body.\n\n    Copying happens only where a variable is used twice: a split (thin violet Y) sits on its wire.\n      When a value arrives, copiers (thick Y, one colour per copy) walk through it one agent at a\n      time, and cancel where the two ends of one copy meet. Two copies under way at once keep their\n      own colours: watch that a cancel always joins one colour.\n\n    Erasing happens only where a variable is not used: an eraser (red ×) walks through the value.\n\n    Reading: ρ v makes a reader (ρ on a cyan disk). It builds a function of five arms and\n      hands the value's parts to the arm for its kind: function, opened function, application, captured\n      value, or ρ. Reading a function opens it (Λ on an open tile): applied, an opened function hands\n      back its body as code instead of running it. Reading it again closes it.\n\n    The shapes named here are the suggested icons; others can be chosen.\n\n    Linear programs (linear_unary_add, linear_list_add) use every variable,\n      so no eraser ever appears, and the only copies are the ones the program asks for: a number is its own\n      loop, each successor copies the step once, and zero hands the last copy back. Try\n      linear_unary_add 40u 2u or linear_list_add 1000 2000, with numbers of any size: the\n      answer holds the sum first, then what is handed back.\n\n    Numbers as trees. 1014t is a tree of bits: pairs of pairs with a bit at each leaf,\n      the low half on the left, and beside it the depth as a loop. linear_tree_add 1014t 2413t\n      adds two of them with nothing erased, and hands back a tree: the adder for a tree is two adders for\n      its halves, and the depth says how often to halve. ordinary_tree_add adds the same trees\n      the usual way, testing each bit and dropping the arm not taken. linear_tree_add_parallel\n      adds them in parallel and still erases nothing: every part of a tree works out its carry out for\n      both carries in at once, and the carry then goes down. Played a round at a time, it takes 85 more\n      rounds for each doubling of the trees, where linear_tree_add takes twice the rounds. A\n      number that is folded opens when you click it; &open=1 in the link starts with the\n      numbers open.\n\n    Reversible. A linear add erases nothing and still forgets: many pairs of numbers give one\n      sum. reversible_tree_add a b hands back a and the sum, and\n      reversible_tree_sub a s hands back a and s − a, so each undoes the\n      other: reversible_tree_add 1014t 2413t reversible_tree_sub ends with 1014 and 2413 again.\n      Only the answers can be had back this way. A rewrite of the net cannot be undone: the ◀ buttons go\n      back to moments the page kept.\n\n    Order does not matter. Fire pairs in any order you like, or pick another order under the bar:\n      the answer is the same, and so is the number of rewrites. A pair you fire replaces what was\n      planned from that moment; the rest of the run is planned again, and its length does not change.\n\n    Rewrites\n\n    \n\n    Agents\n\n    \n\n    Choose other icons: four ways to draw each agent, and what each agent really does.\n\n    Writing programs\n\n    \\x y. body is a function, ^x. body an opened one (so (^d. p) u is the code\n      of p), f a applies, ρ reads. Every name must be bound by a function or\n      defined: name := term; … defines names first. A number is written with its form after its digits. The linear ones:\n      5u is unary, 5 a list of bits and 5t a tree of bits. The ordinary\n      ones: 5s is unary and 5c a list of bits. For the add whose two numbers have\n      different shapes, 5a is a number whose cells pick an arm and 5p a chain of\n      pairs. Every list of bits in a program gets one bit more than the largest needs, so a sum of two\n      fits, and every tree number the fewest levels that hold as much. A value that is such a number is\n      shown as one, and a tree of bits with no depth beside it as {n|leaves}. These are defined\n      already:\n\n    zero, suc, add, true, false, Z, kindOf, size, no, err, close, open, interp, and the adds:\n      linear_unary_add, ordinary_unary_add, linear_list_add, linear_list_add_two_shapes, ordinary_list_add,\n      linear_tree_add, ordinary_tree_add, linear_tree_add_parallel, ordinary_tree_add_parallel,\n      reversible_tree_add, reversible_tree_sub, reversible_tree_add_parallel, reversible_tree_sub_parallel,\n      with their parts\n\n    The design: DESIGN.md; its theorems: PATHWAY.md.\n      The engine here is engine.js, held to the Python nets by check.mjs.\n\n  \n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "zyansheep"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/zyansheep/status/2120786430050070710",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120785976666849280/img/11cK4ebk0wFWHRoX.jpg",
+  "coverPath": "covers/2120786430050070710.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120785976666849280",
+    "x-post:2120786430050070710"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Reflective Interaction Nets Graph Reduction Visualization",
+      "summary": "Zyan prompts Claude Fable 5.2 to formulate reflective interaction nets with introspection capabilities, demonstrating the resulting agent reduction behavior through an interactive web viewer screen recording.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Welp, I asked Fable 5.2 for reflective interaction nets, and I suppose it did give me what I asked for but it did it kinda ugly."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "reflective interaction nets",
+        "englishText": "reflective interaction nets",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full conversation context",
+          "Exact system instructions or multi-turn prompt sequence",
+          "Explicit specification for interaction net agent rules"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays an interaction net graph evaluating lambda terms and rewrite steps with reader agents, matching the author's description of subtree reduction.",
+        "textualResultQuote": "Looks like it arrived on a solution that has this special \"reader\" agent that when applied converts a whole subtree into lambda-encoding of that subtree... this is NOT what I signed up for!"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "disp-lang interactive net viewer",
+          "role": "Interactive web canvas and simulation engine executing and rendering graph rewrite rounds",
+          "evidence": "edit: also here's the link to the viewer for anyone interested :) disp-lang.net/repo/research/…",
+          "sourceUrl": "https://disp-lang.net/repo/research/linear-ic-net/player/index.html",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Reflective Interaction Net Visualizer",
+        "topic": "explainers",
+        "tags": [
+          "interaction-nets",
+          "graph-reduction",
+          "lambda-calculus",
+          "interactive-visualization"
+        ]
+      },
+      "targetModelRole": "Designing the reflective interaction net calculus rewrite rules and reader agent semantics.",
+      "outputSource": "In-browser graph reduction viewer engine (disp-lang.net).",
+      "divisionEvidence": "The author specifies asking Fable 5.2 for the formal interaction net rules ('I asked Fable 5.2 for reflective interaction nets') and demonstrates the execution using their dedicated disp-lang interactive net player.",
+      "video": {
+        "shots": "1",
+        "duration": "00:31",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic creator case documenting Claude Fable 5.2 producing reflective interaction nets shown via interactive canvas recording and viewer link, qualifying under the reference-case policy despite incomplete prompt disclosure.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/zyansheep/status/2120786430050070710",
+        "start": 28,
+        "end": 55
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/zyansheep/status/2120786430050070710",
+        "author": "zyansheep",
+        "postId": "2120786430050070710",
+        "publishedAt": "2026-11-12T07:51:01.000Z"
+      },
+      "checkedAt": "2026-11-13T03:19:36.681Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zyansheep/status/2120786430050070710",
+        "evidence": ""
+      }
+    },
+    "summary": "Zyan prompts Claude Fable 5.2 to formulate reflective interaction nets with introspection capabilities, demonstrating the resulting agent reduction behavior through an interactive web viewer screen recording.",
+    "summaryEn": "Reflective Interaction Nets Graph Reduction Visualization",
+    "originalPrompt": "reflective interaction nets",
+    "sourceRange": {
+      "start": 28,
+      "end": 55
+    },
+    "translations": {
+      "zh": "reflective interaction nets",
+      "en": "reflective interaction nets"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Reflective Interaction Net Visualizer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full conversation context",
+        "Exact system instructions or multi-turn prompt sequence",
+        "Explicit specification for interaction net agent rules"
+      ],
+      "evidence": "The screen recording displays an interaction net graph evaluating lambda terms and rewrite steps with reader agents, matching the author's description of subtree reduction."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

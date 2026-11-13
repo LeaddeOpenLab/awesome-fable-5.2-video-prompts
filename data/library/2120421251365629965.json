@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:48.589Z",
+  "model": "fable5.2",
+  "prompt": "tell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports",
+  "promptTranslations": {
+    "en": "tell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports"
+  },
+  "summary": "RealMarvelX demonstrates turning 2D architectural blueprints into photorealistic 3D interactive walkthroughs using Claude Fable 5.2 to orchestrate data structuring, Blender Python, and Three.js.",
+  "summaryEn": "Architectural Blueprint to Interactive 3D Walkthrough with Claude Fable 5.2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120421251365629965",
+    "canonicalUrl": "https://x.com/RealMarvelX/status/2120421251365629965",
+    "author": {
+      "username": "RealMarvelX",
+      "displayName": "MAIL",
+      "profileUrl": "https://x.com/RealMarvelX"
+    },
+    "publishedAt": "2026-11-11T07:39:56.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "claude fable 5.2 is f*cking insane.\n\nyou can turn a 2D architectural blueprint into a photorealistic 3D walkthrough that clients can actually explore.\n\nand there’s a business opportunity hiding inside this.\n\narchitectural visualization projects can command $5K–$10K per plan, and there are businesses that need this every day.\n\nhere are 5 potential customers:\n\n→ home builders selling properties before construction\n→ architects presenting designs to clients\n→ interior designers pitching renovations\n→ property developers selling apartments off-plan\n→ kitchen and bathroom remodelers selling upgrades\n\nhere’s how to turn this into a business:\n\n1. pick a niche\n\nstart with one category and one location. find businesses that already publish floor plans and architectural renders but don’t offer interactive 3D walkthroughs.\n\n2. create a sample\n\nuse Fable to turn one of their published blueprints into a visual preview.\n\nyou can generate three sample rooms with GPT Image 2.5 or create a short walkthrough clip using Seedance.\n\n3. pitch before they ask\n\nsend the business a sample made from its own floor plan.\n\nshow them what their property could look like as an interactive experience and offer to build the complete walkthrough.\n\n4. get paid per project\n\nonce they accept, build the full experience and charge per plan. you can also offer to convert the rest of their property catalog.\n\nbut here’s where it gets interesting.\n\nyou can give Fable this prompt to handle the entire workflow:\n\nTHE BUSINESS-BUILDING PROMPT\n\ntell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports\n\nthe smartest part of this business model is that you’re not selling AI.\n\nyou’re selling builders and developers a better way to show customers what they’re buying before it’s even built.\n\nand you can start by creating one sample from a publicly available floor plan.\n\nsave this idea. there’s a serious business opportunity worth exploring here.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RealMarvelX/status/2120421251365629965",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120421194373505024/img/QG6EAJLRTAmaSqhU.jpg",
+        "analysisUrl": "https://x.com/RealMarvelX/status/2120421251365629965"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 2,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 695
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/RealMarvelX/status/2120421251365629965",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120421194373505024/img/QG6EAJLRTAmaSqhU.jpg",
+  "coverPath": "covers/2120421251365629965.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120421194373505024",
+    "x-post:2120421251365629965"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Architectural Blueprint to Interactive 3D Walkthrough with Claude Fable 5.2",
+      "summary": "RealMarvelX demonstrates turning 2D architectural blueprints into photorealistic 3D interactive walkthroughs using Claude Fable 5.2 to orchestrate data structuring, Blender Python, and Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "claude fable 5.2 is f*cking insane.\n\nyou can turn a 2D architectural blueprint into a photorealistic 3D walkthrough that clients can actually explore."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "tell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports",
+        "englishText": "tell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "source 2D blueprint image asset",
+          "executable Blender Python scripts",
+          "Three.js browser application source code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 3D architectural walkthrough of an open-concept living area and kitchen with an inset floor plan tracking camera orientation in real time.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "2D architectural blueprint / floor plan",
+          "available": false,
+          "evidence": "turn a 2D architectural blueprint into a photorealistic 3D walkthrough",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/RealMarvelX/status/2120421251365629965"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Apify Google Maps Scraper",
+          "role": "Lead generation scraping for architectural prospects",
+          "evidence": "use Apify Google Maps Scraper to find businesses in your chosen niche.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/RealMarvelX/status/2120421251365629965"
+        },
+        {
+          "name": "Blender",
+          "role": "3D creation / rendering",
+          "evidence": "* use Blender Python to build the 3D environment.",
+          "sourceUrl": "https://x.com/RealMarvelX/status/2120421251365629965",
+          "status": "required"
+        },
+        {
+          "name": "Blender Python",
+          "role": "Build 3D environment geometry from structured blueprint data",
+          "evidence": "use Blender Python to build the 3D environment.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/RealMarvelX/status/2120421251365629965"
+        },
+        {
+          "name": "Three.js",
+          "role": "Render and host the interactive 3D walkthrough in the browser",
+          "evidence": "use Three.js to create the interactive browser experience.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/RealMarvelX/status/2120421251365629965"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "* use Three.js to create the interactive browser experience.",
+          "sourceUrl": "https://x.com/RealMarvelX/status/2120421251365629965",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Architectural 3D Walkthrough",
+        "topic": "3d-scenes",
+        "tags": [
+          "architectural-visualization",
+          "threejs",
+          "blender",
+          "fable-5-2",
+          "walkthrough"
+        ]
+      },
+      "targetModelRole": "Agent orchestrating blueprint parsing, Blender Python geometry generation, and Three.js frontend code synthesis.",
+      "outputSource": "Blender and Three.js rendering engines",
+      "divisionEvidence": "convert the floor plan into structured data for walls, rooms, doors, and windows. use Blender Python to build the 3D environment. use Three.js to create the interactive browser experience.",
+      "video": {
+        "shots": "Single continuous panning camera move through a luxury living room, kitchen, and patio vista",
+        "duration": "10s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Explicitly showcases Claude Fable 5.2 orchestrating 3D scene construction via Blender and Three.js with a corresponding video walkthrough demonstration.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/RealMarvelX/status/2120421251365629965",
+        "start": 1522,
+        "end": 3267
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/RealMarvelX/status/2120421251365629965",
+        "author": "RealMarvelX",
+        "postId": "2120421251365629965",
+        "publishedAt": "2026-11-11T07:39:56.000Z"
+      },
+      "checkedAt": "2026-11-13T02:53:14.269Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RealMarvelX/status/2120421251365629965",
+        "evidence": ""
+      }
+    },
+    "summary": "RealMarvelX demonstrates turning 2D architectural blueprints into photorealistic 3D interactive walkthroughs using Claude Fable 5.2 to orchestrate data structuring, Blender Python, and Three.js.",
+    "summaryEn": "Architectural Blueprint to Interactive 3D Walkthrough with Claude Fable 5.2",
+    "originalPrompt": "tell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports",
+    "sourceRange": {
+      "start": 1522,
+      "end": 3267
+    },
+    "translations": {
+      "zh": "tell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports",
+      "en": "tell it to act as an architectural visualization agency that handles lead generation, sample creation, outreach preparation, and 3D production.\n\ngive it these instructions:\n\nlead generation\n\n* use Apify Google Maps Scraper to find businesses in your chosen niche.\n* crawl their websites for floor plans and architectural renders.\n* identify businesses without interactive 3D tours.\n* collect their plans, photos, and public business contacts.\n* organize everything in a spreadsheet.\n\nsample creation\n\n* select the best floor plan from each business.\n* generate three photorealistic room samples using GPT Image 2.5 or a short Seedance walkthrough.\n* compare the results against the business’s existing property photos.\n* prepare a personalized outreach email for each prospect.\n* show you the samples and drafted emails for approval before sending anything.\n\n3D production\n\nonce a client pays:\n\n* convert the floor plan into structured data for walls, rooms, doors, and windows.\n* use Blender Python to build the 3D environment.\n* use Three.js to create the interactive browser experience.\n* add furniture, textures, lighting, and realistic materials.\n* include upgrade options buyers can explore inside each room.\n* add pricing and lead capture to the experience.\n* optimize the final walkthrough for mobile.\n\nquality control\n\nuse a separate AI critic to inspect every room against the client’s original photos.\n\nit identifies problems, suggests measurable fixes, and reviews the updated renders until they meet the required standard.\n\nyour final deliverables:\n\n→ a spreadsheet of qualified leads\n→ personalized samples and drafted emails\n→ a hosted, interactive 3D walkthrough for every paying client\n→ room-by-room renders and quality reports"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Architectural 3D Walkthrough",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "source 2D blueprint image asset",
+        "executable Blender Python scripts",
+        "Three.js browser application source code"
+      ],
+      "evidence": "The video shows a 3D architectural walkthrough of an open-concept living area and kitchen with an inset floor plan tracking camera orientation in real time."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

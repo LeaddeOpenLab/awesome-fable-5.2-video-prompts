@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:49.630Z",
+  "model": "fable5.2",
+  "prompt": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state.",
+  "promptTranslations": {
+    "en": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state."
+  },
+  "summary": "Fable 5.2 creates dev-only lookbook pages cataloging an app's visual parts and assets.",
+  "summaryEn": "Dev-Only UI Lookbook Pages",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120926345131704632",
+    "canonicalUrl": "https://x.com/jrya7/status/2120926345131704632",
+    "author": {
+      "username": "jrya7",
+      "displayName": "Ryan",
+      "profileUrl": "https://x.com/jrya7"
+    },
+    "publishedAt": "2026-11-12T17:07:00.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "Had Fable 5.2 wire a new template mockup into the backend, and it also created lookbook pages without me asking\n\nLiked it so much, got a prompt for other projects 👇 https://t.co/zHGKjSe1Np",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jrya7/status/2120926345131704632",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120911280987099136/img/nhHM4C2gTJxP7nKu.jpg",
+        "analysisUrl": "https://x.com/jrya7/status/2120926345131704632"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 5,
+      "quoteCount": 0,
+      "viewCount": 206
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jrya7/status/2121069636636782953",
+        "text": "@ManjuH9955 For sure! Helps me nail down the design too",
+        "author": "jrya7"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jrya7/status/2121069236277981459",
+        "text": "@roach998664 For sure! Will come in handy for future projects",
+        "author": "jrya7"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jrya7/status/2121020672919097705",
+        "text": "@DrewWakefield5 Ah shucks thanks ☺️",
+        "author": "jrya7"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jrya7/status/2120926346478039469",
+        "text": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state.",
+        "author": "jrya7"
+      },
+      {
+        "url": "https://x.com/jrya7/status/2120926345131704632",
+        "text": "Ryan on X: \"Had Fable 5.2 wire a new template mockup into the backend, and it also created lookbook pages without me asking\n\nLiked it so much, got a prompt for other projects 👇\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nRyan on X: \"Had Fable 5.2 wire a new template mockup into the backend, and it also created lookbook pages without me asking\n\nLiked it so much, got a prompt for other projects 👇\"\nConversation\n\n\n\nRyan\n\n@jrya7\n\n\n\n\nHad Fable 5.2 wire a new template mockup into the backend, and it also created lookbook pages without me asking\n\nLiked it so much, got a prompt for other projects 👇\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n5:07 PM · Nov 12, 2026·206\nViews\n\n\n5\n1\n11\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRyan@jrya7Follow\n🏔✌️\n☀️ daylight.ad free ads\n📈 kestrel.host simple web stats\n🐍 outsnake.lol sneaky snek\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nRyan\n\n@jrya7\n\n\n\n\nHad Fable 5.2 wire a new template mockup into the backend, and it also created lookbook pages without me asking\n\nLiked it so much, got a prompt for other projects 👇\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n5:07 PM · Nov 12, 2026·206\nViews\n\n\n5\n1\n11\n1\n\n\n\n\n\n\n\n\n\nRyan\n\n@jrya7\n10h\n\n\nBuild two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, Show more\n\n\n\n\n\n39\n\n\n\n\n\n\n\n\n\n\n\nDrew Wakefield-Pearce\n\n@DrewWakefield5\n4h\n\n\nyou blow my mind. I need to up my game\n\n\n1\n\n1\n22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "jrya7"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/jrya7/status/2120926345131704632",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120911280987099136/img/nhHM4C2gTJxP7nKu.jpg",
+  "coverPath": "covers/2120926345131704632.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120911280987099136",
+    "x-post:2120926345131704632"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dev-Only UI Lookbook Pages",
+      "summary": "Fable 5.2 creates dev-only lookbook pages cataloging an app's visual parts and assets.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Had Fable 5.2 wire a new template mockup into the backend"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state.",
+        "englishText": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "target application codebase"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates scrolling through the generated /lookbook/parts and /lookbook/art web pages.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Web Component Lookbook",
+        "topic": "games-interactive",
+        "tags": [
+          "web-development",
+          "design-system",
+          "lookbook"
+        ]
+      },
+      "targetModelRole": "Code generation of local web pages and component displays.",
+      "outputSource": "Web browser rendering local dev server.",
+      "divisionEvidence": "Screen recording captures browser window on localhost:8888.",
+      "video": {
+        "shots": "Single screen recording scrolling through browser pages",
+        "duration": "38s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": false,
+      "reason": "The task is web application design-system lookbook development rather than video, animation, or motion-graphics production.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jrya7/status/2120926346478039469",
+        "start": 0,
+        "end": 2643
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jrya7/status/2120926345131704632",
+        "author": "jrya7",
+        "postId": "2120926345131704632",
+        "publishedAt": "2026-11-12T17:07:00.000Z"
+      },
+      "checkedAt": "2026-11-13T03:24:16.355Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified",
+          "outside_repository_scope"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jrya7/status/2120926346478039469",
+        "evidence": ""
+      }
+    },
+    "summary": "Fable 5.2 creates dev-only lookbook pages cataloging an app's visual parts and assets.",
+    "summaryEn": "Dev-Only UI Lookbook Pages",
+    "originalPrompt": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state.",
+    "sourceRange": {
+      "start": 0,
+      "end": 2643
+    },
+    "translations": {
+      "zh": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state.",
+      "en": "Build two dev-only \"lookbook\" pages for this app, made from its real code, that show its whole visual language:\n\n1. /lookbook/parts: every shared UI part, in every variant and state, on every surface it can sit on.\n2. /lookbook/art: every visual asset (icons, illustrations, logos, images, patterns), with each theme's version side by side.\n\nFirst scan the repo and list what you find: the stack and routing, how styling works (CSS, Tailwind, tokens, CSS-in-JS), any themes (light/dark, brands) and how they switch, the shared components, and where assets live (icon packages and inline SVGs too). Then build. Only ask if you can't tell how pages are routed or themed.\n\nParts\n- Render the real components or classes, inside the app's own layout, with stand-in data. Recreate and restyle nothing.\n- Cover surfaces (page, cards, panels, dark insets), headings and text, buttons (every variant, size and state), links, form fields (with help text, with an error, disabled), checkboxes and radios, alerts, badges, cards, menus, tabs, pagination, tables, empty states, avatars, code, rendered markdown, loaders, and anything else shared.\n- Show the states markup can express (disabled, invalid, selected, open, loading); leave hover and focus live. Render overlays (modals, toasts, tooltips) open, in the page's flow.\n- Label each section with the component's name and file.\n- Stand-in data stays in the page: nothing saved, no requests, forms don't submit.\n- Follow the current theme, with the app's theme switch on the page if it has one.\n\nArt\n- One row per asset: its name, then each theme's version on a checkerboard so edges show, with file sizes.\n- Flag versions missing from a theme and files nothing uses. Assemble multi-piece assets as the app shows them; let animated ones animate.\n\nRules\n- Register both routes for local development only, the framework's usual way, so they never ship. Don't link them from the app.\n- Put new files in one place. Touch existing files only to add the routes, and delete nothing. Show what exists rather than designing new parts; anything that can't be shown as it is goes in the report.\n\nCheck: run the app, open both pages in every theme at phone and desktop widths, and fix console errors, missing assets, sideways scrolling and unstyled parts. If the repo has tests, add one that the pages render in development and 404 in production.\n\nFinish with a short report: the URLs, counts per group, and what you noticed: near-duplicate components, one-off colours or sizes that skip the tokens, text below WCAG AA contrast, assets missing from a theme, unused files, and parts with no error or disabled state."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Web Component Lookbook",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "target application codebase"
+      ],
+      "evidence": "Screen recording demonstrates scrolling through the generated /lookbook/parts and /lookbook/art web pages."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:47.535Z",
+  "model": "fable5.2",
+  "prompt": "After each system, play it yourself, screenshot it and fix what looks wrong",
+  "promptTranslations": {
+    "en": "After each system, play it yourself, screenshot it and fix what looks wrong"
+  },
+  "summary": "A 3D Miami crime game running in browser, generated via Fable 5.2 with iterative self-critique.",
+  "summaryEn": "GTA-Style Browser Game in Fable 5.2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120991524515446976",
+    "canonicalUrl": "https://x.com/lorden_eth/status/2120991524515446976",
+    "author": {
+      "username": "lorden_eth",
+      "displayName": "Lorden",
+      "profileUrl": "https://x.com/lorden_eth"
+    },
+    "publishedAt": "2026-11-12T21:26:00.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "Damn... Fable 5.2 just re-created a GTA-style game in one prompt\n\nIt took 2h 14min to make a Miami crime game playable in the browser\n\nDriving, police chases, missions, a garage, day into night\nEven the sounds are generated in code\n\nThe secret is the last line of the prompt:\n“After each system, play it yourself, screenshot it and fix what looks wrong”\n\nRockstar: thousands of devs and over a decade\nFable 5.2: one prompt and a time",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/lorden_eth/status/2120991524515446976",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120976645683032064/img/zx0LnISVygFMx70j.jpg",
+        "analysisUrl": "https://x.com/lorden_eth/status/2120991524515446976"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 346
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1",
+      "group:opus:en:Latest:part2"
+    ]
+  },
+  "xUrl": "https://x.com/lorden_eth/status/2120991524515446976",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120976645683032064/img/zx0LnISVygFMx70j.jpg",
+  "coverPath": "covers/2120991524515446976.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120976645683032064",
+    "x-post:2120991524515446976"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "GTA-Style Browser Game in Fable 5.2",
+      "summary": "A 3D Miami crime game running in browser, generated via Fable 5.2 with iterative self-critique.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Fable 5.2 just re-created a GTA-style game in one prompt"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "After each system, play it yourself, screenshot it and fix what looks wrong",
+        "englishText": "After each system, play it yourself, screenshot it and fix what looks wrong",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full system specifications",
+          "Asset pipelines",
+          "Physics and driving mechanics setup"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Video showcases third-person gameplay with driving, shooting, police chases, garage tuning, and mission completion.",
+        "textualResultQuote": "It took 2h 14min to make a Miami crime game playable in the browser\n\nDriving, police chases, missions, a garage, day into night\nEven the sounds are generated in code"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Browser WebGL Engine",
+          "role": "Game rendering and execution runtime",
+          "evidence": "playable in the browser",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/lorden_eth/status/2120991524515446976"
+        }
+      ],
+      "purpose": {
+        "label": "Browser 3D Game",
+        "topic": "games-interactive",
+        "tags": [
+          "gta",
+          "browser-game",
+          "webgl",
+          "interactive-3d"
+        ]
+      },
+      "targetModelRole": "Generated complete game code and sound synthesis logic via iterative self-testing.",
+      "outputSource": "Browser game canvas executed from model-written code",
+      "divisionEvidence": "Fable generated the code ('Even the sounds are generated in code') which executed live in browser.",
+      "video": {
+        "shots": "Montaged gameplay recording",
+        "duration": "02:14",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic video recording demonstrating interactive 3D gameplay generated using Fable 5.2.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/lorden_eth/status/2120991524515446976",
+        "start": 277,
+        "end": 352
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/lorden_eth/status/2120991524515446976",
+        "author": "lorden_eth",
+        "postId": "2120991524515446976",
+        "publishedAt": "2026-11-12T21:26:00.000Z"
+      },
+      "checkedAt": "2026-11-13T02:32:17.748Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/lorden_eth/status/2120991524515446976",
+        "evidence": ""
+      }
+    },
+    "summary": "A 3D Miami crime game running in browser, generated via Fable 5.2 with iterative self-critique.",
+    "summaryEn": "GTA-Style Browser Game in Fable 5.2",
+    "originalPrompt": "After each system, play it yourself, screenshot it and fix what looks wrong",
+    "sourceRange": {
+      "start": 277,
+      "end": 352
+    },
+    "translations": {
+      "zh": "After each system, play it yourself, screenshot it and fix what looks wrong",
+      "en": "After each system, play it yourself, screenshot it and fix what looks wrong"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Browser 3D Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full system specifications",
+        "Asset pipelines",
+        "Physics and driving mechanics setup"
+      ],
+      "evidence": "Video showcases third-person gameplay with driving, shooting, police chases, garage tuning, and mission completion."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

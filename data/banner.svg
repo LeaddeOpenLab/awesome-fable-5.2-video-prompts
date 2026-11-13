@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-<title id="title">Fable 5.2 — 183 video examples · 3 recently added</title><desc id="desc">All video examples count equally. Updated 2026-11-12.</desc>
+<title id="title">Fable 5.2 — 203 video examples · 20 recently added</title><desc id="desc">All video examples count equally. Updated 2026-11-13.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121a36"/><stop offset="1" stop-color="#272057"/></linearGradient><linearGradient id="accent"><stop stop-color="#9af8de"/><stop offset="1" stop-color="#b8adff"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
 <rect width="1280" height="360" rx="26" fill="url(#bg)"/><rect width="1280" height="360" rx="26" fill="url(#grid)"/>
 <circle cx="1190" cy="-30" r="220" fill="#a79aff" opacity=".08"/><circle cx="1210" cy="-30" r="155" fill="none" stroke="#c9beff" stroke-opacity=".18"/>
 <rect x="52" y="37" width="122" height="30" rx="15" fill="#9af8de"/><text x="113" y="57" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#15243c">FABLE 5.2</text>
 <text x="194" y="58" fill="#c3c5e1" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">LEADDE OPEN LAB</text>
 <text x="52" y="113" fill="white" font-family="Arial,sans-serif" font-size="33" font-weight="bold">A growing world of video ideas.</text>
-<text x="46" y="270" fill="url(#accent)" font-family="Arial,sans-serif" font-size="144" font-weight="bold" letter-spacing="-7">183</text>
+<text x="46" y="270" fill="url(#accent)" font-family="Arial,sans-serif" font-size="144" font-weight="bold" letter-spacing="-7">203</text>
 <text x="355" y="230" fill="white" font-family="Arial,sans-serif" font-size="25" font-weight="bold">VIDEO EXAMPLES</text><text x="355" y="263" fill="#b9bdd8" font-family="Arial,sans-serif" font-size="17">Every creation. Every original source.</text>
 <rect x="790" y="139" width="438" height="153" rx="20" fill="#ffffff" fill-opacity=".06" stroke="#bcb4f0" stroke-opacity=".22"/>
 <circle cx="820" cy="169" r="5" fill="#9af8de"/><text x="838" y="175" fill="#c7d0e9" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">LATEST ADDITIONS</text>
-<text x="817" y="252" fill="#9af8de" font-family="Arial,sans-serif" font-size="68" font-weight="bold">+3</text><text x="1010" y="245" fill="white" font-family="Arial,sans-serif" font-size="19">new examples</text>
-<path d="M52 309H1228" stroke="#ffffff" stroke-opacity=".12"/><text x="52" y="337" fill="#b9bdd8" font-family="Arial,sans-serif" font-size="15">VIDEO · ANIMATION · 3D · INTERACTIVE</text><text x="1228" y="337" text-anchor="end" fill="#b9bdd8" font-family="Arial,sans-serif" font-size="15">UPDATED 2026-11-12</text></svg>
+<text x="817" y="252" fill="#9af8de" font-family="Arial,sans-serif" font-size="68" font-weight="bold">+20</text><text x="1010" y="245" fill="white" font-family="Arial,sans-serif" font-size="19">new examples</text>
+<path d="M52 309H1228" stroke="#ffffff" stroke-opacity=".12"/><text x="52" y="337" fill="#b9bdd8" font-family="Arial,sans-serif" font-size="15">VIDEO · ANIMATION · 3D · INTERACTIVE</text><text x="1228" y="337" text-anchor="end" fill="#b9bdd8" font-family="Arial,sans-serif" font-size="15">UPDATED 2026-11-13</text></svg>

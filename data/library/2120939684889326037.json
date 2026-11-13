@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:50.302Z",
+  "model": "fable5.2",
+  "prompt": "build an AI bill calculator with an over-the-top receipt animation.",
+  "promptTranslations": {
+    "en": "build an AI bill calculator with an over-the-top receipt animation."
+  },
+  "summary": "Kai prompts multiple AI models, including Claude Fable 5.2, to build an interactive AI bill calculator featuring an over-the-top receipt printing animation, comparing the generated outputs and cost per run.",
+  "summaryEn": "AI Bill Calculator with Animated Receipt Generation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120939684889326037",
+    "canonicalUrl": "https://x.com/kaireceipts/status/2120939684889326037",
+    "author": {
+      "username": "kaireceipts",
+      "displayName": "Kai",
+      "profileUrl": "https://x.com/kaireceipts"
+    },
+    "publishedAt": "2026-11-12T18:00:00.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "Same prompt. $8.89 on one end, $0.33 on the other.\n\nThe prompt: build an AI bill calculator with an over-the-top receipt animation. Each one ended its demo with a receipt for its own run.\n\nGPT-6 Astra: $8.89\nClaude Fable 5.2: $7.72\nClaude Opus 5.5: $5.69\nDeepSeek V4.1 Flash: $0.33\n\nThe new Fable cost more than Opus on fewer tokens. DeepSeek took an hour and still sent the smallest bill, for the fifth straight episode.\n\nSame prompt, four bills #5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kaireceipts/status/2120939684889326037",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120910877423775744/img/tjujQnk0Vu0E7oWI.jpg",
+        "analysisUrl": "https://x.com/kaireceipts/status/2120939684889326037"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 78
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/kaireceipts/status/2120939684889326037",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120910877423775744/img/tjujQnk0Vu0E7oWI.jpg",
+  "coverPath": "covers/2120939684889326037.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120910877423775744",
+    "x-post:2120939684889326037"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "AI Bill Calculator with Animated Receipt Generation",
+      "summary": "Kai prompts multiple AI models, including Claude Fable 5.2, to build an interactive AI bill calculator featuring an over-the-top receipt printing animation, comparing the generated outputs and cost per run.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Claude Desktop",
+        "authorUseConfirmed": true,
+        "evidence": "\"Claude Fable 5.2: $7.72\" and \"The new Fable cost more than Opus on fewer tokens.\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build an AI bill calculator with an over-the-top receipt animation.",
+        "englishText": "build an AI bill calculator with an over-the-top receipt animation.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "system prompt",
+          "detailed pricing tiers and schema",
+          "ui styling and animation framework parameters",
+          "interaction logic specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays Claude Fable 5.2's generated 'Token Burn Calculator' web interface, showing interactive token input and an animated receipt printout totaling $7.72.",
+        "textualResultQuote": "Claude Fable 5.2: $7.72"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / DOM",
+          "role": "Renders and executes the interactive calculator code and CSS receipt animations produced by the model",
+          "evidence": "Video shows live UI interactions inside the 'Token Burn Calculator' web app interface.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive AI Token Cost Calculator with Receipt Animation",
+        "topic": "games-interactive",
+        "tags": [
+          "calculator",
+          "receipt-animation",
+          "token-burn",
+          "ui-interaction",
+          "benchmark-comparison"
+        ]
+      },
+      "targetModelRole": "Claude Fable 5.2 authored the interactive web application code and animation logic for the Token Burn Calculator.",
+      "outputSource": "Browser execution screen recording of the generated web application",
+      "divisionEvidence": "\"The prompt: build an AI bill calculator with an over-the-top receipt animation. Each one ended its demo with a receipt for its own run.\"",
+      "video": {
+        "shots": "Four-quadrant simultaneous screen recording comparison showing interaction steps: Pick a Model, Drop in the Tokens, and Print the Damage.",
+        "duration": "29s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly documents Claude Fable 5.2 building an interactive animated receipt calculator with author-confirmed model version and accompanying screen recording comparison.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/kaireceipts/status/2120939684889326037",
+        "start": 64,
+        "end": 131
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kaireceipts/status/2120939684889326037",
+        "author": "kaireceipts",
+        "postId": "2120939684889326037",
+        "publishedAt": "2026-11-12T18:00:00.000Z"
+      },
+      "checkedAt": "2026-11-13T03:26:31.233Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kaireceipts/status/2120939684889326037",
+        "evidence": ""
+      }
+    },
+    "summary": "Kai prompts multiple AI models, including Claude Fable 5.2, to build an interactive AI bill calculator featuring an over-the-top receipt printing animation, comparing the generated outputs and cost per run.",
+    "summaryEn": "AI Bill Calculator with Animated Receipt Generation",
+    "originalPrompt": "build an AI bill calculator with an over-the-top receipt animation.",
+    "sourceRange": {
+      "start": 64,
+      "end": 131
+    },
+    "translations": {
+      "zh": "build an AI bill calculator with an over-the-top receipt animation.",
+      "en": "build an AI bill calculator with an over-the-top receipt animation."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive AI Token Cost Calculator with Receipt Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "system prompt",
+        "detailed pricing tiers and schema",
+        "ui styling and animation framework parameters",
+        "interaction logic specifications"
+      ],
+      "evidence": "The screen recording displays Claude Fable 5.2's generated 'Token Burn Calculator' web interface, showing interactive token input and an animated receipt printout totaling $7.72."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

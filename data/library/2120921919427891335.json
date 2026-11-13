@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:49.264Z",
+  "model": "fable5.2",
+  "prompt": "flip an iceberg",
+  "promptTranslations": {
+    "en": "flip an iceberg"
+  },
+  "summary": "AiMind compares Claude Fable 5.2 against Gemini 4 Carbon on generating a 3D animated simulation of an iceberg flipping and tossing a boat from a single prompt.",
+  "summaryEn": "Flip an Iceberg: Claude Fable 5.2 vs Gemini 4 Carbon",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120921919427891335",
+    "canonicalUrl": "https://x.com/AIMind_Ai/status/2120921919427891335",
+    "author": {
+      "username": "AIMind_Ai",
+      "displayName": "AiMind",
+      "profileUrl": "https://x.com/AIMind_Ai"
+    },
+    "publishedAt": "2026-11-12T16:49:25.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "~30x cheaper. Claude Fable 5.2 vs Gemini 4 Carbon, same prompt: flip an iceberg.\n\nClaude Fable 5.2 - ~$10\nGemini 4 Carbon - ~$0.30\n\nOne prompt each, no edits.\n\nCan you tell which one costs $10?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIMind_Ai/status/2120921919427891335",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120921665802575872/img/Qo8SoovrfQq6Utmq.jpg",
+        "analysisUrl": "https://x.com/AIMind_Ai/status/2120921919427891335"
+      }
+    ],
+    "metrics": {
+      "likeCount": 70,
+      "repostCount": 1,
+      "replyCount": 16,
+      "quoteCount": 2,
+      "viewCount": 9811
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2120975049813373137",
+        "text": "@kyzoroX Ahah yeah, hard to tell.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2120965334744387762",
+        "text": "@semichenkko Cheaper one looks just as good honestly",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2120945401905951055",
+        "text": "@maixbt The gap is wild. Outputs are closer than the price suggests",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2120945090890015091",
+        "text": "@gosh_sol_eth Top is Claude. The flip and boat toss still look way more alive. Gap’s real, even if not the full 30x.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2120944678438900056",
+        "text": "@_aiflood_ One shot still shows the gap clearly, though.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2120926659494744519",
+        "text": "@Scratcherrrr Gemini looks simpler",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2120926365348401220",
+        "text": "@Klonzu Top has more depth, but 30x cheaper for nearly the same is the real flex",
+        "author": "AIMind_Ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AIMind_Ai/status/2120921919427891335",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120921665802575872/img/Qo8SoovrfQq6Utmq.jpg",
+  "coverPath": "covers/2120921919427891335.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120921665802575872",
+    "x-post:2120921919427891335"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Flip an Iceberg: Claude Fable 5.2 vs Gemini 4 Carbon",
+      "summary": "AiMind compares Claude Fable 5.2 against Gemini 4 Carbon on generating a 3D animated simulation of an iceberg flipping and tossing a boat from a single prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Fable 5.2 vs Gemini 4 Carbon, same prompt: flip an iceberg."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "flip an iceberg",
+        "englishText": "flip an iceberg",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "scene configuration parameters",
+          "code execution harness",
+          "runtime rendering environment"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The top half of the video shows the Claude Fable 5.2 output depicting an iceberg in the ocean fracturing, submerging, rolling over, and tossing an Arctic trawler.",
+        "textualResultQuote": "Top is Claude. The flip and boat toss still look way more alive. Gap’s real, even if not the full 30x."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Iceberg Flipping 3D Scene Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "iceberg",
+          "ocean-simulation",
+          "model-comparison",
+          "claude-fable"
+        ]
+      },
+      "targetModelRole": "Scene code and dynamics generation for 3D animation simulation",
+      "outputSource": "unknown",
+      "divisionEvidence": "Author demonstrates 'Claude Fable 5.2 one prompt - no edits' running the 3D scene in the video without specifying the underlying renderer.",
+      "video": {
+        "shots": "Single continuous dynamic camera sequence",
+        "duration": "29s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Authentic Claude Fable 5.2 3D scene video generation case with author-confirmed model version and direct visual comparison.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AIMind_Ai/status/2120921919427891335",
+        "start": 64,
+        "end": 79
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AIMind_Ai/status/2120921919427891335",
+        "author": "AIMind_Ai",
+        "postId": "2120921919427891335",
+        "publishedAt": "2026-11-12T16:49:25.000Z"
+      },
+      "checkedAt": "2026-11-13T02:58:55.664Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AIMind_Ai/status/2120921919427891335",
+        "evidence": ""
+      }
+    },
+    "summary": "AiMind compares Claude Fable 5.2 against Gemini 4 Carbon on generating a 3D animated simulation of an iceberg flipping and tossing a boat from a single prompt.",
+    "summaryEn": "Flip an Iceberg: Claude Fable 5.2 vs Gemini 4 Carbon",
+    "originalPrompt": "flip an iceberg",
+    "sourceRange": {
+      "start": 64,
+      "end": 79
+    },
+    "translations": {
+      "zh": "flip an iceberg",
+      "en": "flip an iceberg"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Iceberg Flipping 3D Scene Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "scene configuration parameters",
+        "code execution harness",
+        "runtime rendering environment"
+      ],
+      "evidence": "The top half of the video shows the Claude Fable 5.2 output depicting an iceberg in the ocean fracturing, submerging, rolling over, and tossing an Arctic trawler."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

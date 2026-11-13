@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:53.231Z",
+  "model": "fable5.2",
+  "prompt": "un lion griffant son chemin hors d'un tapis",
+  "promptTranslations": {
+    "en": "a lion clawing its way out of a carpet"
+  },
+  "summary": "Side-by-side comparison of a creature emergence sequence generated with Claude Fable 5.2 versus Gemini 4 Argon, featuring a dark liquid form clawing through an ornate rug and transforming into a roaring lion.",
+  "summaryEn": "Lion Emerging from Carpet Transformation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120430576003887214",
+    "canonicalUrl": "https://x.com/KarimQuiPaiePas/status/2120430576003887214",
+    "author": {
+      "username": "KarimQuiPaiePas",
+      "displayName": "Karim💸",
+      "profileUrl": "https://x.com/KarimQuiPaiePas"
+    },
+    "publishedAt": "2026-11-11T08:16:59.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "fr",
+    "originalText": "L'un de ces lions coûte bien plus cher à produire que l'autre. 😳\n\nMême prompt, deux modèles, un lion griffant son chemin hors d'un tapis.\n\nClaude Fable 5.2 · Gemini 4 Argon\n\nl'un est parti en mode full cinéma - veines de lave luisantes, un rugissement que tu ressens dans la poitrine. l'autre l'a dépouillé, plus sombre, plus épuré.\n\nLe hic : plus le modèle est sophistiqué, plus il bouffe de ressources pour tourner. Alors je n'ai rien touché et je ne te dis pas lequel est lequel - à toi de juger : quel lion a l'air d'être celui qui vaut vraiment le coup de payer ?\n\nFable ou Gemini ?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/KarimQuiPaiePas/status/2120430576003887214",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HW1IXjJXcAA2NCc.jpg",
+        "analysisUrl": "https://x.com/KarimQuiPaiePas/status/2120430576003887214"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 2,
+      "replyCount": 7,
+      "quoteCount": 1,
+      "viewCount": 2681
+    },
+    "matchedRuleIds": [
+      "group:opus:fr:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/KarimQuiPaiePas/status/2120430576003887214",
+  "coverUrl": "https://pbs.twimg.com/media/HW1IXjJXcAA2NCc.jpg",
+  "coverPath": "covers/2120430576003887214.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120430539941249024",
+    "x-image:/media/HW1IXjJXcAA2NCc",
+    "x-post:2120430576003887214"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Lion Emerging from Carpet Transformation",
+      "summary": "Side-by-side comparison of a creature emergence sequence generated with Claude Fable 5.2 versus Gemini 4 Argon, featuring a dark liquid form clawing through an ornate rug and transforming into a roaring lion.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Fable 5.2 · Gemini 4 Argon"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "un lion griffant son chemin hors d'un tapis",
+        "englishText": "a lion clawing its way out of a carpet",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete verbatim prompt text",
+          "cinematic lighting and atmosphere instructions",
+          "transformation sequence timing and visual effects parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The top half of the split-screen video labeled 'Claude Fable 5.2' displays black fluid seeping through a carpet, forming a black lion with glowing molten lava veins that transforms into a roaring lion.",
+        "textualResultQuote": "l'un est parti en mode full cinéma - veines de lave luisantes, un rugissement que tu ressens dans la poitrine."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Cinematic creature emergence comparison",
+        "topic": "3d-scenes",
+        "tags": [
+          "lion",
+          "creature",
+          "transformation",
+          "cgi",
+          "split-screen-comparison"
+        ]
+      },
+      "targetModelRole": "End-to-end video production or orchestration of generative video pipeline for creature transformation animation.",
+      "outputSource": "Claude Fable 5.2 video generation output",
+      "divisionEvidence": "Claude Fable 5.2 is cited as the generating model for the top video segment in the comparison.",
+      "video": {
+        "shots": "Single continuous transformation shot",
+        "duration": "29s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "The post provides a direct visual video result credited to Claude Fable 5.2 with a prompt fragment describing the scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/KarimQuiPaiePas/status/2120430576003887214",
+        "start": 94,
+        "end": 137
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/KarimQuiPaiePas/status/2120430576003887214",
+        "author": "KarimQuiPaiePas",
+        "postId": "2120430576003887214",
+        "publishedAt": "2026-11-11T08:16:59.000Z"
+      },
+      "checkedAt": "2026-11-13T03:21:53.775Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/KarimQuiPaiePas/status/2120430576003887214",
+        "evidence": ""
+      }
+    },
+    "summary": "Side-by-side comparison of a creature emergence sequence generated with Claude Fable 5.2 versus Gemini 4 Argon, featuring a dark liquid form clawing through an ornate rug and transforming into a roaring lion.",
+    "summaryEn": "Lion Emerging from Carpet Transformation",
+    "originalPrompt": "un lion griffant son chemin hors d'un tapis",
+    "sourceRange": {
+      "start": 94,
+      "end": 137
+    },
+    "translations": {
+      "zh": "un lion griffant son chemin hors d'un tapis",
+      "en": "a lion clawing its way out of a carpet"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "external-video-model",
+    "useCase": "Cinematic creature emergence comparison",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete verbatim prompt text",
+        "cinematic lighting and atmosphere instructions",
+        "transformation sequence timing and visual effects parameters"
+      ],
+      "evidence": "The top half of the split-screen video labeled 'Claude Fable 5.2' displays black fluid seeping through a carpet, forming a black lion with glowing molten lava veins that transforms into a roaring lion."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

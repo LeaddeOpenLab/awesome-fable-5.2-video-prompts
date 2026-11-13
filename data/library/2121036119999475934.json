@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:48.242Z",
+  "model": "fable5.2",
+  "prompt": "teach an ai how to walk",
+  "promptTranslations": {
+    "en": "teach an ai how to walk"
+  },
+  "summary": "An educational 3D explainer animation illustrating how reinforcement learning trains a bipedal robot ('Wobble') to walk and sprint through iterative trial, scoring, and reward shaping.",
+  "summaryEn": "Teaching an AI How to Walk with Reinforcement Learning",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2121036119999475934",
+    "canonicalUrl": "https://x.com/imjustnewatai/status/2121036119999475934",
+    "author": {
+      "username": "imjustnewatai",
+      "displayName": "imjustnewatai",
+      "profileUrl": "https://x.com/imjustnewatai"
+    },
+    "publishedAt": "2026-11-13T00:23:12.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "I asked fable 5.2 to teach an ai how to walk.\n\nHere’s the result: https://t.co/t7uOUmKbT5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/imjustnewatai/status/2121036119999475934",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2121036047274397696/img/6R9UgCk6UzX2ghTP.jpg",
+        "analysisUrl": "https://x.com/imjustnewatai/status/2121036119999475934"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 4,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 1420
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ]
+  },
+  "xUrl": "https://x.com/imjustnewatai/status/2121036119999475934",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2121036047274397696/img/6R9UgCk6UzX2ghTP.jpg",
+  "coverPath": "covers/2121036119999475934.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2121036047274397696",
+    "x-post:2121036119999475934"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Teaching an AI How to Walk with Reinforcement Learning",
+      "summary": "An educational 3D explainer animation illustrating how reinforcement learning trains a bipedal robot ('Wobble') to walk and sprint through iterative trial, scoring, and reward shaping.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": "Anthropic Claude",
+        "authorUseConfirmed": true,
+        "evidence": "\"I asked fable 5.2 to teach an ai how to walk.\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "teach an ai how to walk",
+        "englishText": "teach an ai how to walk",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete prompt instructions",
+          "simulation and reward function parameters",
+          "visualization and rendering scripts",
+          "voiceover and UI layout specifications"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video features a stylized 3D simulation with character 'Claude' coaching a robot named 'Wobble' through reinforcement learning attempts, failure states, reward tweaks, and final gait stabilization.",
+        "textualResultQuote": "method PPO · body Walker2d · physics MuJoCo · ~200 lines of Python · 3 training runs · 14,340 attempts"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "MuJoCo",
+          "role": "Physics simulation engine for the Walker2d reinforcement learning environment",
+          "evidence": "\"physics MuJoCo\"",
+          "sourceUrl": "https://x.com/imjustnewatai/status/2121036119999475934",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Python",
+          "role": "Reinforcement learning training script implementing PPO",
+          "evidence": "\"method PPO · body Walker2d · physics MuJoCo · ~200 lines of Python\"",
+          "sourceUrl": "https://x.com/imjustnewatai/status/2121036119999475934",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Reinforcement Learning Walking Coach Explainer",
+        "topic": "explainers",
+        "tags": [
+          "reinforcement-learning",
+          "robotics",
+          "mujoco",
+          "3d-animation",
+          "fable-5-2",
+          "ppo"
+        ]
+      },
+      "targetModelRole": "Generates the reinforcement learning code, procedural animation logic, and educational narrative script.",
+      "outputSource": "MuJoCo physics environment combined with a 3D animation rendering pipeline.",
+      "divisionEvidence": "\"I asked fable 5.2 to teach an ai how to walk.\" along with technical notes shown on screen: \"method PPO · body Walker2d · physics MuJoCo · ~200 lines of Python\".",
+      "video": {
+        "shots": "Continuous multi-stage educational sequence showing training progression, metric graphs, and animated trial attempts.",
+        "duration": "01:30",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct showcase of Claude Fable 5.2 generating an AI walking simulation and educational animated explainer video, supported by a complete video demonstration.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/imjustnewatai/status/2121036119999475934",
+        "start": 21,
+        "end": 44
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/imjustnewatai/status/2121036119999475934",
+        "author": "imjustnewatai",
+        "postId": "2121036119999475934",
+        "publishedAt": "2026-11-13T00:23:12.000Z"
+      },
+      "checkedAt": "2026-11-13T02:22:35.948Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/imjustnewatai/status/2121036119999475934",
+        "evidence": ""
+      }
+    },
+    "summary": "An educational 3D explainer animation illustrating how reinforcement learning trains a bipedal robot ('Wobble') to walk and sprint through iterative trial, scoring, and reward shaping.",
+    "summaryEn": "Teaching an AI How to Walk with Reinforcement Learning",
+    "originalPrompt": "teach an ai how to walk",
+    "sourceRange": {
+      "start": 21,
+      "end": 44
+    },
+    "translations": {
+      "zh": "teach an ai how to walk",
+      "en": "teach an ai how to walk"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "other-animation",
+    "useCase": "Reinforcement Learning Walking Coach Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete prompt instructions",
+        "simulation and reward function parameters",
+        "visualization and rendering scripts",
+        "voiceover and UI layout specifications"
+      ],
+      "evidence": "The video features a stylized 3D simulation with character 'Claude' coaching a robot named 'Wobble' through reinforcement learning attempts, failure states, reward tweaks, and final gait stabilization."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

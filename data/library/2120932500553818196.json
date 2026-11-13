@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:49.968Z",
+  "model": "fable5.2",
+  "prompt": "write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs",
+  "promptTranslations": {
+    "en": "write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs"
+  },
+  "summary": "Claude Fable 5.2 generated a Blender Python script rendering a Blade Runner-inspired 2087 cyberpunk megacity with neon and traffic.",
+  "summaryEn": "Procedural Cyberpunk Megacity Flythrough via Blender Python",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120932500553818196",
+    "canonicalUrl": "https://x.com/Supriik_/status/2120932500553818196",
+    "author": {
+      "username": "Supriik_",
+      "displayName": "Suprik",
+      "profileUrl": "https://x.com/Supriik_"
+    },
+    "publishedAt": "2026-11-12T17:31:27.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "it's f*cking insane\n2026 and i still haven't modeled a single building for my game\n\nthe whole city is a python script. claude fable 5.2 wrote it, blender rendered it, i just steered\n\nneo-angeles, 2087:\n> rain, neon, flying traffic between megatowers\n> every block procedural, so no two streets repeat\n> rebuild the entire city in one run if i don't like it\n> camera flythrough rendered straight out of blender\n\nrepos if you want to build your own world:\n\n1. ahujasid/blender-mcp\nconnects claude straight to blender. it can create objects, set materials, move the camera and render without you clicking anything\n\n2. princeton-vl/infinigen\nprocedural world generator built on blender. terrain, plants, rocks and weather, all from code, all random but realistic\n\n3. domlysz/BlenderGIS\npulls real maps, terrain and building footprints into blender. take a real city and turn it into a cyberpunk one\n\n4. godotengine/godot\nfree open source engine. export the city from blender and walk around it in your own game\n\nfull prompt in the comments",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Supriik_/status/2120932500553818196",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120932342814416896/img/ZdmNlgbanbQyUpGe.jpg",
+        "analysisUrl": "https://x.com/Supriik_/status/2120932500553818196"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 0,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 469
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Supriik_/status/2120932502852219141",
+        "text": "the prompt i started with:\n\n\"write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs\"",
+        "author": "Supriik_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Supriik_/status/2120932500553818196",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120932342814416896/img/ZdmNlgbanbQyUpGe.jpg",
+  "coverPath": "covers/2120932500553818196.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120932342814416896",
+    "x-post:2120932500553818196"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Procedural Cyberpunk Megacity Flythrough via Blender Python",
+      "summary": "Claude Fable 5.2 generated a Blender Python script rendering a Blade Runner-inspired 2087 cyberpunk megacity with neon and traffic.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "claude fable 5.2 wrote it, blender rendered it, i just steered"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs",
+        "englishText": "write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Shows rainy cyberpunk skyscrapers, neon signs, traffic lanes, and a cinematic camera flythrough matching the prompt.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "Executes the Python script, builds procedural geometry, and renders video frames.",
+          "evidence": "blender rendered it",
+          "sourceUrl": "https://x.com/Supriik_/status/2120932500553818196",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural Cyberpunk City Flythrough",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "python",
+          "procedural",
+          "cyberpunk",
+          "flythrough"
+        ]
+      },
+      "targetModelRole": "Wrote the procedural Blender Python script defining scene geometry, lighting, and camera path.",
+      "outputSource": "Blender EEVEE rendering engine",
+      "divisionEvidence": "claude fable 5.2 wrote it, blender rendered it, i just steered",
+      "video": {
+        "shots": "Continuous camera tracking shots and flyovers between illuminated megastructures.",
+        "duration": "25s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Authentic Claude Fable 5.2 video production case using Blender scripting with verified author prompt and video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Supriik_/status/2120932502852219141",
+        "start": 29,
+        "end": 425
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Supriik_/status/2120932500553818196",
+        "author": "Supriik_",
+        "postId": "2120932500553818196",
+        "publishedAt": "2026-11-12T17:31:27.000Z"
+      },
+      "checkedAt": "2026-11-13T03:25:44.711Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Supriik_/status/2120932502852219141",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Fable 5.2 generated a Blender Python script rendering a Blade Runner-inspired 2087 cyberpunk megacity with neon and traffic.",
+    "summaryEn": "Procedural Cyberpunk Megacity Flythrough via Blender Python",
+    "originalPrompt": "write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs",
+    "sourceRange": {
+      "start": 29,
+      "end": 425
+    },
+    "translations": {
+      "zh": "write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs",
+      "en": "write a blender python script that builds a cyberpunk megacity in 2087, blade runner mood. procedural blocks of skyscrapers with neon signs and lit windows, rain and fog, flying cars on traffic lanes between towers, wet reflective streets. animate a slow cinematic camera flying through the city at night. EEVEE, 1080p, 30 fps. the whole scene must rebuild from scratch every time the script runs"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "blender",
+    "useCase": "Procedural Cyberpunk City Flythrough",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Shows rainy cyberpunk skyscrapers, neon signs, traffic lanes, and a cinematic camera flythrough matching the prompt."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

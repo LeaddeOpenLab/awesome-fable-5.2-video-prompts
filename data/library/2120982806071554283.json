@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:51.140Z",
+  "model": "fable5.2",
+  "prompt": "a World War Z zombie horde in three.js.",
+  "promptTranslations": {
+    "en": "a World War Z zombie horde in three.js."
+  },
+  "summary": "Side-by-side benchmark comparison between Claude Fable 5.2 and Claude Opus 5.5 generating a World War Z zombie horde simulation in Three.js.",
+  "summaryEn": "World War Z Zombie Horde in Three.js Benchmark",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120982806071554283",
+    "canonicalUrl": "https://x.com/Vortlyn/status/2120982806071554283",
+    "author": {
+      "username": "Vortlyn",
+      "displayName": "Vortlyn",
+      "profileUrl": "https://x.com/Vortlyn"
+    },
+    "publishedAt": "2026-11-12T20:51:21.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "Fable 5.2 vs Opus 5.5, same prompt: a World War Z zombie horde in three.js. https://t.co/zjVh9fdU0l",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Vortlyn/status/2120982806071554283",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120982706905362432/img/6ZSONf8__9OK7ZRl.jpg",
+        "analysisUrl": "https://x.com/Vortlyn/status/2120982806071554283"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 121
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Vortlyn/status/2120986008531447860",
+        "text": "@Joshua_WD todo app benchmarks are so 2025",
+        "author": "Vortlyn"
+      },
+      {
+        "url": "https://x.com/Vortlyn/status/2120982806071554283",
+        "text": "Vortlyn on X: \"Fable 5.2 vs Opus 5.5, same prompt: a World War Z zombie horde in three.js.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nVortlyn on X: \"Fable 5.2 vs Opus 5.5, same prompt: a World War Z zombie horde in three.js.\"\nConversation\n\n\n\nVortlyn\n\n@Vortlyn\n\n\n\n\nFable 5.2 vs Opus 5.5, same prompt: a World War Z zombie horde in three.js.\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n8:51 PM · Nov 12, 2026·121\nViews\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nVortlyn@VortlynFollow\nmaking things with AI. complaining about the limits.\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nVortlyn\n\n@Vortlyn\n\n\n\n\nFable 5.2 vs Opus 5.5, same prompt: a World War Z zombie horde in three.js.\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n8:51 PM · Nov 12, 2026·121\nViews\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nJosh Builds\n\n@Joshua_WD\n6h\n\n\nzombie hordes make a way better stress test than yet another todo app\n\n\n1\n\n\n15\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Vortlyn"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Vortlyn/status/2120982806071554283",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120982706905362432/img/6ZSONf8__9OK7ZRl.jpg",
+  "coverPath": "covers/2120982806071554283.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120982706905362432",
+    "x-post:2120982806071554283"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "World War Z Zombie Horde in Three.js Benchmark",
+      "summary": "Side-by-side benchmark comparison between Claude Fable 5.2 and Claude Opus 5.5 generating a World War Z zombie horde simulation in Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Fable 5.2 vs Opus 5.5, same prompt: a World War Z zombie horde in three.js."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a World War Z zombie horde in three.js.",
+        "englishText": "a World War Z zombie horde in three.js.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full system instructions",
+          "detailed three.js scene specifications",
+          "exact agent prompt setup"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video displays side-by-side screen captures comparing Fable 5.2 and Opus 5.5, both rendering a dynamic 3D low-poly zombie horde moving through city streets and climbing walls in Three.js.",
+        "textualResultQuote": "Fable 5.2 | Tokens: 2.30M | Cost (API price): $9.52 | Time: 29m 14s"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "three.js",
+          "role": "WebGL 3D graphics library for rendering the zombie horde scene and animations.",
+          "evidence": "a World War Z zombie horde in three.js.",
+          "sourceUrl": "https://x.com/Vortlyn/status/2120982806071554283",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Three.js Zombie Horde Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "creative-coding",
+          "benchmark",
+          "zombies",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Code generation and scene orchestration: writing the Three.js script to simulate, animate, and render the zombie horde.",
+      "outputSource": "three.js WebGL rendering engine executed in a browser environment.",
+      "divisionEvidence": "The post evaluates LLM agent coding capabilities ('Tokens', 'Cost (API price)', 'Time') implementing 'a World War Z zombie horde in three.js.'",
+      "video": {
+        "shots": "Side-by-side multi-angle capture of real-time 3D camera animations: top-down street view, low-angle tracking, wall breach swarm",
+        "duration": "0:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct author-shared comparison benchmark showing Claude Fable 5.2 generating an animated 3D scene in Three.js accompanied by video proof and execution metrics.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Vortlyn/status/2120982806071554283",
+        "start": 36,
+        "end": 75
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Vortlyn/status/2120982806071554283",
+        "author": "Vortlyn",
+        "postId": "2120982806071554283",
+        "publishedAt": "2026-11-12T20:51:21.000Z"
+      },
+      "checkedAt": "2026-11-13T03:06:19.794Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Vortlyn/status/2120982806071554283",
+        "evidence": ""
+      }
+    },
+    "summary": "Side-by-side benchmark comparison between Claude Fable 5.2 and Claude Opus 5.5 generating a World War Z zombie horde simulation in Three.js.",
+    "summaryEn": "World War Z Zombie Horde in Three.js Benchmark",
+    "originalPrompt": "a World War Z zombie horde in three.js.",
+    "sourceRange": {
+      "start": 36,
+      "end": 75
+    },
+    "translations": {
+      "zh": "a World War Z zombie horde in three.js.",
+      "en": "a World War Z zombie horde in three.js."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Three.js Zombie Horde Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full system instructions",
+        "detailed three.js scene specifications",
+        "exact agent prompt setup"
+      ],
+      "evidence": "The video displays side-by-side screen captures comparing Fable 5.2 and Opus 5.5, both rendering a dynamic 3D low-poly zombie horde moving through city streets and climbing walls in Three.js."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

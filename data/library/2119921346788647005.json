@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:46.537Z",
+  "model": "fable5.2",
+  "prompt": "Build what you think you look like",
+  "promptTranslations": {
+    "en": "Build what you think you look like"
+  },
+  "summary": "Side-by-side timelapse comparison of Claude Fable 5.2 and Claude Opus 5.5 autonomously constructing 3D voxel sculptures representing what they think they look like.",
+  "summaryEn": "Claude Fable 5.2 vs Opus 5.5: Build What You Think You Look Like",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2119921346788647005",
+    "canonicalUrl": "https://x.com/Jtyles/status/2119921346788647005",
+    "author": {
+      "username": "Jtyles",
+      "displayName": "Jackson",
+      "profileUrl": "https://x.com/Jtyles"
+    },
+    "publishedAt": "2026-11-09T22:33:29.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "I gave Claude Fable 5.2 and Claude Opus 5.5 the same challenge:\n\n“Build what you think you look like”\n\n(both on Max effort) https://t.co/2uiGdwDitt",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Jtyles/status/2119921346788647005",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2119920925961277440/img/pZdGxVMiG5fkN23w.jpg",
+        "analysisUrl": "https://x.com/Jtyles/status/2119921346788647005"
+      }
+    ],
+    "metrics": {
+      "likeCount": 25,
+      "repostCount": 2,
+      "replyCount": 13,
+      "quoteCount": 0,
+      "viewCount": 935
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ]
+  },
+  "xUrl": "https://x.com/Jtyles/status/2119921346788647005",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2119920925961277440/img/pZdGxVMiG5fkN23w.jpg",
+  "coverPath": "covers/2119921346788647005.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2119920925961277440",
+    "x-post:2119921346788647005"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Fable 5.2 vs Opus 5.5: Build What You Think You Look Like",
+      "summary": "Side-by-side timelapse comparison of Claude Fable 5.2 and Claude Opus 5.5 autonomously constructing 3D voxel sculptures representing what they think they look like.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable 5.2",
+        "version": "5.2",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "I gave Claude Fable 5.2 and Claude Opus 5.5 the same challenge:\n\n“Build what you think you look like”\n\n(both on Max effort)"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build what you think you look like",
+        "englishText": "Build what you think you look like",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Agent execution harness / environment API setup",
+          "System prompt and block placement tool schema"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates Claude Fable 5.2 constructing an open book base with 'CLAUDE' inscribed and an ascending spark structure in a 3D voxel world, directly fulfilling the prompt.",
+        "textualResultQuote": "They gather into a spark. I think that part is me."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Voxel 3D simulation engine",
+          "role": "Renders the 3D voxel environment and executes block-placement actions emitted by the agent.",
+          "evidence": "Visual voxel grid terrain, block-by-block building progress, and game HUD counters in the video.",
+          "sourceUrl": "https://x.com/Jtyles/status/2119921346788647005",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "3D Voxel Agent Creative Construction",
+        "topic": "3d-scenes",
+        "tags": [
+          "voxel",
+          "claude-fable",
+          "3d-scenes",
+          "agent-building",
+          "timelapse"
+        ]
+      },
+      "targetModelRole": "Autonomous reasoning, conceptual design, and step-by-step block placement instruction generation.",
+      "outputSource": "3D voxel simulation screen recording timelapse.",
+      "divisionEvidence": "On-screen interface attributes the reasoning captions, step counters, timing, cost, and construction commands directly to Claude Fable 5.2 while the 3D game engine renders block state changes.",
+      "video": {
+        "shots": "1 split-screen timelapse shot",
+        "duration": "00:30",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Authentic creator showcase featuring Claude Fable 5.2 driving generative 3D voxel scene construction with complete user prompt and video proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Jtyles/status/2119921346788647005",
+        "start": 66,
+        "end": 100
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Jtyles/status/2119921346788647005",
+        "author": "Jtyles",
+        "postId": "2119921346788647005",
+        "publishedAt": "2026-11-09T22:33:29.000Z"
+      },
+      "checkedAt": "2026-11-13T02:27:55.807Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Jtyles/status/2119921346788647005",
+        "evidence": ""
+      }
+    },
+    "summary": "Side-by-side timelapse comparison of Claude Fable 5.2 and Claude Opus 5.5 autonomously constructing 3D voxel sculptures representing what they think they look like.",
+    "summaryEn": "Claude Fable 5.2 vs Opus 5.5: Build What You Think You Look Like",
+    "originalPrompt": "Build what you think you look like",
+    "sourceRange": {
+      "start": 66,
+      "end": 100
+    },
+    "translations": {
+      "zh": "Build what you think you look like",
+      "en": "Build what you think you look like"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "3d-scenes",
+    "useCase": "3D Voxel Agent Creative Construction",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Agent execution harness / environment API setup",
+        "System prompt and block placement tool schema"
+      ],
+      "evidence": "The video demonstrates Claude Fable 5.2 constructing an open book base with 'CLAUDE' inscribed and an ascending spark structure in a 3D voxel world, directly fulfilling the prompt."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

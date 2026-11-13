@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:52.198Z",
+  "model": "fable5.2",
+  "prompt": "build a game around \"the most statistically likable character.\"",
+  "promptTranslations": {
+    "en": "build a game around \"the most statistically likable character.\""
+  },
+  "summary": "JuicerDude shared a screen recording of a procedural 3D game titled 'FERNWAKE' built using Fable 5.2, featuring an otter pup exploring and sliding down a forest river.",
+  "summaryEn": "Fernwake Otter Pup Game Generated with Fable 5.2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2121013519239770369",
+    "canonicalUrl": "https://x.com/zetios4/status/2121013519239770369",
+    "author": {
+      "username": "zetios4",
+      "displayName": "JuicerDude",
+      "profileUrl": "https://x.com/zetios4"
+    },
+    "publishedAt": "2026-11-12T22:53:24.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "Asked Fable 5.2 to build a game around \"the most statistically likable character.\"\n\nIt made an otter pup sliding down a forest river.\n\nHonestly can't argue with it. https://t.co/5CMzSt9zot",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/zetios4/status/2121013519239770369",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2121012483544559616/img/-zxbdUW2yiFRGj_p.jpg",
+        "analysisUrl": "https://x.com/zetios4/status/2121013519239770369"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 21
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/zetios4/status/2121013519239770369",
+        "text": "JuicerDude on X: \"Asked Fable 5.2 to build a game around \"the most statistically likable character.\"\n\nIt made an otter pup sliding down a forest river.\n\nHonestly can&#x27;t argue with it.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\nJuicerDude on X: \"Asked Fable 5.2 to build a game around \"the most statistically likable character.\"\n\nIt made an otter pup sliding down a forest river.\n\nHonestly can&#x27;t argue with it.\"\nConversation\n\n\n\nJuicerDude\n@zetios4\n\n\n\n\nAsked Fable 5.2 to build a game around \"the most statistically likable character.\"\n\nIt made an otter pup sliding down a forest river.\n\nHonestly can&#x27;t argue with it.\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n10:53 PM · Nov 12, 2026·21\nViews\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJuicerDude@zetios4Follow\nEngineer\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\nJuicerDude\n@zetios4\n\n\n\n\nAsked Fable 5.2 to build a game around \"the most statistically likable character.\"\n\nIt made an otter pup sliding down a forest river.\n\nHonestly can&#x27;t argue with it.\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n10:53 PM · Nov 12, 2026·21\nViews\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "zetios4"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/zetios4/status/2121013519239770369",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2121012483544559616/img/-zxbdUW2yiFRGj_p.jpg",
+  "coverPath": "covers/2121013519239770369.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2121012483544559616",
+    "x-post:2121013519239770369"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Fernwake Otter Pup Game Generated with Fable 5.2",
+      "summary": "JuicerDude shared a screen recording of a procedural 3D game titled 'FERNWAKE' built using Fable 5.2, featuring an otter pup exploring and sliding down a forest river.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Asked Fable 5.2 to build a game around \"the most statistically likable character.\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a game around \"the most statistically likable character.\"",
+        "englishText": "build a game around \"the most statistically likable character.\"",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full system prompt",
+          "detailed game engine instructions",
+          "asset and procedural generation code instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D interactive procedural game featuring an otter pup running, jumping, and sliding through a forest river collecting orbs, concluding with the title card 'FERNWAKE - A SMALL PROCEDURAL FOREST'.",
+        "textualResultQuote": "It made an otter pup sliding down a forest river."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Procedural 3D Game Engine",
+          "role": "Renders real-time gameplay, physics, water simulation, and character movement for Fernwake",
+          "evidence": "In-game screen recording showing 3D real-time physics, UI counter (0/12 to 7/12), and end title 'FERNWAKE A SMALL PROCEDURAL FOREST'",
+          "sourceUrl": "https://x.com/zetios4/status/2121013519239770369",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "3D Procedural Game Showcase",
+        "topic": "games-interactive",
+        "tags": [
+          "fable-5-2",
+          "procedural-generation",
+          "3d-game",
+          "gameplay",
+          "otter"
+        ]
+      },
+      "targetModelRole": "Fable 5.2 was used as the generative AI model to conceptualize and write the code for the procedural game around the specified character theme.",
+      "outputSource": "Screen recording of the procedural 3D game engine output.",
+      "divisionEvidence": "Asked Fable 5.2 to build a game around \"the most statistically likable character.\"\n\nIt made an otter pup sliding down a forest river.",
+      "video": {
+        "shots": "Continuous third-person gameplay camera following the otter pup diving into water, swimming through river rapids, running across riverbanks, and standing in high grass.",
+        "duration": "0:45",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "games-interactive",
+      "suitable": true,
+      "reason": "The post provides verified author confirmation of Claude Fable 5.2, shares a direct prompt fragment, and demonstrates interactive 3D video/screen recording output consistent with the prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/zetios4/status/2121013519239770369",
+        "start": 19,
+        "end": 82
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/zetios4/status/2121013519239770369",
+        "author": "zetios4",
+        "postId": "2121013519239770369",
+        "publishedAt": "2026-11-12T22:53:24.000Z"
+      },
+      "checkedAt": "2026-11-13T03:08:17.785Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zetios4/status/2121013519239770369",
+        "evidence": ""
+      }
+    },
+    "summary": "JuicerDude shared a screen recording of a procedural 3D game titled 'FERNWAKE' built using Fable 5.2, featuring an otter pup exploring and sliding down a forest river.",
+    "summaryEn": "Fernwake Otter Pup Game Generated with Fable 5.2",
+    "originalPrompt": "build a game around \"the most statistically likable character.\"",
+    "sourceRange": {
+      "start": 19,
+      "end": 82
+    },
+    "translations": {
+      "zh": "build a game around \"the most statistically likable character.\"",
+      "en": "build a game around \"the most statistically likable character.\""
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "games-interactive",
+    "useCase": "3D Procedural Game Showcase",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full system prompt",
+        "detailed game engine instructions",
+        "asset and procedural generation code instructions"
+      ],
+      "evidence": "The video shows a 3D interactive procedural game featuring an otter pup running, jumping, and sliding through a forest river collecting orbs, concluding with the title card 'FERNWAKE - A SMALL PROCEDURAL FOREST'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

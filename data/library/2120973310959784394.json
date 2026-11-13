@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:50.674Z",
+  "model": "fable5.2",
+  "prompt": "build a 3D robot rolling through a summer forest",
+  "promptTranslations": {
+    "en": "build a 3D robot rolling through a summer forest"
+  },
+  "summary": "The author benchmarks four AI models (Opus 5.5, Fable 5.2, Kimi K3.1, GPT 6 Astra) on generating a 3D animated scene of a robot rolling through a summer forest, evaluating render quality, generation time, and API cost.",
+  "summaryEn": "Frontier Model Comparison: 3D Robot Rolling Through a Summer Forest",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120973310959784394",
+    "canonicalUrl": "https://x.com/Model_Culture/status/2120973310959784394",
+    "author": {
+      "username": "Model_Culture",
+      "displayName": "Big Pip",
+      "profileUrl": "https://x.com/Model_Culture"
+    },
+    "publishedAt": "2026-11-12T20:13:37.000Z",
+    "collectedAt": "2026-11-13T02:47:39.127Z",
+    "language": "en",
+    "originalText": "same prompt. four models. four completely different robots\n\ngave four frontier models one job - build a 3D robot rolling through a summer forest. put all four side by side\n\nthe AI generation lottery report:\n\nOpus 5.5 - $24 / 7 min\nFable 5.2 - $6 / 2 min\nKimi K3.1 - $58 / 15 min\nGPT 6 Astra - $93 / 23 min\n\nthe priciest run cost about 15x more than the cheapest. took over 11x longer too\n\nand the best result wasn't the most expensive one. Fable pulled off warm forest lighting and a clean render for six bucks in two minutes. GPT 6 Astra burned almost a hundred dollars and came back with Minecraft\n\nwhen you pay for AI generation you're not buying quality. you're buying a lottery ticket\n\nwhich panel would you pick?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Model_Culture/status/2120973310959784394",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120973122740396033/img/3uYcULs9GXK4WMr2.jpg",
+        "analysisUrl": "https://x.com/Model_Culture/status/2120973310959784394"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 359
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Model_Culture/status/2121040609385554056",
+        "text": "@Last161eth Nenado",
+        "author": "Model_Culture"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Model_Culture/status/2121036842913190368",
+        "text": "@AdDadRyanW a rerun could shuffle this order, sure. still Fable for me too, and it’s the only one where a second attempt doesn’t sting",
+        "author": "Model_Culture"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Model_Culture/status/2121036779667014116",
+        "text": "@Last161eth which part got the wow, the bill or the Minecraft?",
+        "author": "Model_Culture"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Model_Culture/status/2120973310959784394",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120973122740396033/img/3uYcULs9GXK4WMr2.jpg",
+  "coverPath": "covers/2120973310959784394.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120973122740396033",
+    "x-post:2120973310959784394"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Frontier Model Comparison: 3D Robot Rolling Through a Summer Forest",
+      "summary": "The author benchmarks four AI models (Opus 5.5, Fable 5.2, Kimi K3.1, GPT 6 Astra) on generating a 3D animated scene of a robot rolling through a summer forest, evaluating render quality, generation time, and API cost.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Fable 5.2 - $6 / 2 min ... Fable pulled off warm forest lighting and a clean render for six bucks in two minutes."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a 3D robot rolling through a summer forest",
+        "englishText": "build a 3D robot rolling through a summer forest",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full original generation prompt",
+          "renderer/framework instructions",
+          "animation and shading parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 2x2 comparison grid with Fable 5.2 in the top-right panel showing an animated 3D robot rolling along a dirt path in a warm-lit summer forest.",
+        "textualResultQuote": "Fable pulled off warm forest lighting and a clean render for six bucks in two minutes."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "3D Robot Forest Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "robot",
+          "3d",
+          "forest",
+          "animation",
+          "model-comparison"
+        ]
+      },
+      "targetModelRole": "Code generation or agentic orchestration for 3D animation",
+      "outputSource": "unknown",
+      "divisionEvidence": "The post notes the models were tasked to 'build a 3D robot rolling through a summer forest' but does not specify the underlying graphics engine or code framework used to produce the final render.",
+      "video": {
+        "shots": "single shot per panel (2x2 comparison grid)",
+        "duration": "10s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Directly demonstrates Fable 5.2 being benchmarked for 3D animated scene production, accompanied by the resulting comparison video and cost/speed metrics.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Model_Culture/status/2120973310959784394",
+        "start": 96,
+        "end": 144
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Model_Culture/status/2120973310959784394",
+        "author": "Model_Culture",
+        "postId": "2120973310959784394",
+        "publishedAt": "2026-11-12T20:13:37.000Z"
+      },
+      "checkedAt": "2026-11-13T03:05:11.286Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Model_Culture/status/2120973310959784394",
+        "evidence": ""
+      }
+    },
+    "summary": "The author benchmarks four AI models (Opus 5.5, Fable 5.2, Kimi K3.1, GPT 6 Astra) on generating a 3D animated scene of a robot rolling through a summer forest, evaluating render quality, generation time, and API cost.",
+    "summaryEn": "Frontier Model Comparison: 3D Robot Rolling Through a Summer Forest",
+    "originalPrompt": "build a 3D robot rolling through a summer forest",
+    "sourceRange": {
+      "start": 96,
+      "end": 144
+    },
+    "translations": {
+      "zh": "build a 3D robot rolling through a summer forest",
+      "en": "build a 3D robot rolling through a summer forest"
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "3d-scenes",
+    "useCase": "3D Robot Forest Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full original generation prompt",
+        "renderer/framework instructions",
+        "animation and shading parameters"
+      ],
+      "evidence": "The video shows a 2x2 comparison grid with Fable 5.2 in the top-right panel showing an animated 3D robot rolling along a dirt path in a warm-lit summer forest."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

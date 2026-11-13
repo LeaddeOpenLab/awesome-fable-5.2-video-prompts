@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-13T03:26:52.881Z",
+  "model": "fable5.2",
+  "prompt": "请使用 Three.js 创作一个主题为《在青岛街头和海边漫步》的 3D 交互式网页。 充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。 不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。时间不要超过30s",
+  "promptTranslations": {
+    "en": "Please use Three.js to create a 3D interactive webpage with the theme \"Strolling Through the Streets and Seaside of Qingdao\". Bring out your top-tier aesthetic, art design, and 3D programming capabilities to achieve the utmost in composition, lighting, materials, animation, and spatial atmosphere. The visuals need to possess stunning visual impact and allow free mouse interaction. There are no restrictions on your creative or technical approaches—showcase your highest capabilities as much as possible. Please directly complete the development, execution, and testing to deliver a truly playable piece. The duration should not exceed 30 seconds."
+  },
+  "summary": "作者使用 Fable 5.2 生成基于 Three.js 的青岛街头与栈桥海边 3D 交互漫步场景，并在推文中分享了完整生成提示词及运行录屏视频。",
+  "summaryEn": "青岛街头与海边漫步 3D 交互式网页场景",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2120351031766966472",
+    "canonicalUrl": "https://x.com/qingzhoucloud/status/2120351031766966472",
+    "author": {
+      "username": "qingzhoucloud",
+      "displayName": "产品晓东",
+      "profileUrl": "https://x.com/qingzhoucloud"
+    },
+    "publishedAt": "2026-11-11T03:00:54.000Z",
+    "collectedAt": "2026-11-12T12:05:35.038Z",
+    "language": "zh",
+    "originalText": "用fable 5.2做了一个在青岛街头漫步的视频，\n感觉还行吧，差点意思，\n浪费token了....\n还得是要有好的创意和好的prompt来挖掘fable 52的潜力 https://t.co/XgZTJNpjtA",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/qingzhoucloud/status/2120351031766966472",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2120350285289996288/img/EZ_yodcZBDLW6Jib.jpg",
+        "analysisUrl": "https://x.com/qingzhoucloud/status/2120351031766966472"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 513
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/qingzhoucloud/status/2120370328375599459",
+        "text": "@sgdd666 请使用 Three.js 创作一个主题为《在青岛街头和海边漫步》的 3D 交互式网页。 充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。 不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。时间不要超过30s",
+        "author": "qingzhoucloud"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/qingzhoucloud/status/2120367445223637484",
+        "text": "@Heylanlan 😂😂这么惨",
+        "author": "qingzhoucloud"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/qingzhoucloud/status/2120353435359092753",
+        "text": "@RJasonHA 瞎弄的",
+        "author": "qingzhoucloud"
+      },
+      {
+        "url": "https://x.com/qingzhoucloud/status/2120351031766966472",
+        "text": "产品晓东 on X: \"用fable 5.2做了一个在青岛街头漫步的视频，\n感觉还行吧，差点意思，\n浪费token了....\n还得是要有好的创意和好的prompt来挖掘fable 52的潜力\" / X\n\n\nPost\n\nLog inSign up\n\n\n\n\nPost\n\n\nLog inSign up\n\n\n\n产品晓东 on X: \"用fable 5.2做了一个在青岛街头漫步的视频，\n感觉还行吧，差点意思，\n浪费token了....\n还得是要有好的创意和好的prompt来挖掘fable 52的潜力\"\nConversation\n\n\n\n产品晓东\n\n@qingzhoucloud\n\n\n\n\nShow translation\n用fable 5.2做了一个在青岛街头漫步的视频，\n感觉还行吧，差点意思，\n浪费token了....\n还得是要有好的创意和好的prompt来挖掘fable 52的潜力\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n3:00 AM · Nov 11, 2026·513\nViews\n\n\n3\n\n3\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n产品晓东@qingzhoucloudFollow\n--   10 年产品牛马\n--  折腾AI |  出海小白 |  薄肌理论\n--   web3爱好者 | 美股 \n--  分享生活观察、有趣项目。\n\n\n\n\nWhat’s happening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow more\n\n\n\n\n\n\n\n\n\n\n产品晓东\n\n@qingzhoucloud\n\n\n\n\nShow translation\n用fable 5.2做了一个在青岛街头漫步的视频，\n感觉还行吧，差点意思，\n浪费token了....\n还得是要有好的创意和好的prompt来挖掘fable 52的潜力\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n3:00 AM · Nov 11, 2026·513\nViews\n\n\n3\n\n3\n1\n\n\n\n\n\n\n\n\n\n蓝蓝\n\n@Heylanlan\nNov 11\n\n\n能走出青岛街头已经可以了，上回我做的人都是飘的\n\n\n1\n\n1\n6\n\n\n\n\n\n\n\n\n\n\n\nFries\n\n@RJasonHA\nNov 11\n\n\n有种我的世界的既视感 哈哈哈哈\n\n\n1\n\n1\n12\n\n\n\n\n\n\n\n\n\n\n\nASTAK\n@sgdd666\nNov 11\n\n\n提示词来一个\n\n\n1\n\n\n36\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "qingzhoucloud"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/qingzhoucloud/status/2120351031766966472",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120350285289996288/img/EZ_yodcZBDLW6Jib.jpg",
+  "coverPath": "covers/2120351031766966472.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2120350285289996288",
+    "x-post:2120351031766966472"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "青岛街头与海边漫步 3D 交互式网页场景",
+      "summary": "作者使用 Fable 5.2 生成基于 Three.js 的青岛街头与栈桥海边 3D 交互漫步场景，并在推文中分享了完整生成提示词及运行录屏视频。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Fable",
+        "version": "5.2",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "用fable 5.2做了一个在青岛街头漫步的视频"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "请使用 Three.js 创作一个主题为《在青岛街头和海边漫步》的 3D 交互式网页。 充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。 不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。时间不要超过30s",
+        "englishText": "Please use Three.js to create a 3D interactive webpage with the theme \"Strolling Through the Streets and Seaside of Qingdao\". Bring out your top-tier aesthetic, art design, and 3D programming capabilities to achieve the utmost in composition, lighting, materials, animation, and spatial atmosphere. The visuals need to possess stunning visual impact and allow free mouse interaction. There are no restrictions on your creative or technical approaches—showcase your highest capabilities as much as possible. Please directly complete the development, execution, and testing to deliver a truly playable piece. The duration should not exceed 30 seconds.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "视频展示了利用 Three.js 构建的青岛天主教堂广场、老城坡道、红瓦绿树街景以及栈桥延伸至海面的 3D 交互场景，支持视角移动漫步，与提示词要求一致。",
+        "textualResultQuote": "用fable 5.2做了一个在青岛街头漫步的视频，感觉还行吧，差点意思"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "请使用 Three.js 创作一个主题为《在青岛街头和海边漫步》的 3D 交互式网页。 充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。 不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。时间不要超过30s",
+          "sourceUrl": "https://x.com/qingzhoucloud/status/2120370328375599459",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "青岛街景与海边 3D 漫步交互网页",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "webgl",
+          "interactive",
+          "qingdao",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "根据用户提示词编写完整的 Three.js 3D 场景与交互漫步代码",
+      "outputSource": "Three.js WebGL 网页实时渲染并录制为视频",
+      "divisionEvidence": "作者通过提示词要求模型“使用 Three.js 创作一个主题为《在青岛街头和海边漫步》的 3D 交互式网页... 请直接完成开发、运行和测试”，展示了由模型写代码、浏览器 Three.js 引擎执行渲染的分工。",
+      "video": {
+        "shots": "连续漫步镜头，依次途经天主教堂前广场、红瓦绿树老城区坡道，最后延伸至栈桥与开阔海面",
+        "duration": "1:11",
+        "aspectRatio": "4:3",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "作者明确指明使用 Fable 5.2 并提供了完整原始提示词，配有展示 Three.js 交互网页渲染效果的屏幕录屏，符合视频生产案例标准。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/qingzhoucloud/status/2120370328375599459",
+        "start": 9,
+        "end": 192
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/qingzhoucloud/status/2120351031766966472",
+        "author": "qingzhoucloud",
+        "postId": "2120351031766966472",
+        "publishedAt": "2026-11-11T03:00:54.000Z"
+      },
+      "checkedAt": "2026-11-12T12:20:30.187Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/qingzhoucloud/status/2120370328375599459",
+        "evidence": ""
+      }
+    },
+    "summary": "作者使用 Fable 5.2 生成基于 Three.js 的青岛街头与栈桥海边 3D 交互漫步场景，并在推文中分享了完整生成提示词及运行录屏视频。",
+    "summaryEn": "青岛街头与海边漫步 3D 交互式网页场景",
+    "originalPrompt": "请使用 Three.js 创作一个主题为《在青岛街头和海边漫步》的 3D 交互式网页。 充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。 不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。时间不要超过30s",
+    "sourceRange": {
+      "start": 9,
+      "end": 192
+    },
+    "translations": {
+      "zh": "请使用 Three.js 创作一个主题为《在青岛街头和海边漫步》的 3D 交互式网页。 充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。 不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。时间不要超过30s",
+      "en": "Please use Three.js to create a 3D interactive webpage with the theme \"Strolling Through the Streets and Seaside of Qingdao\". Bring out your top-tier aesthetic, art design, and 3D programming capabilities to achieve the utmost in composition, lighting, materials, animation, and spatial atmosphere. The visuals need to possess stunning visual impact and allow free mouse interaction. There are no restrictions on your creative or technical approaches—showcase your highest capabilities as much as possible. Please directly complete the development, execution, and testing to deliver a truly playable piece. The duration should not exceed 30 seconds."
+    },
+    "targetModels": [
+      "fable5.2"
+    ],
+    "category": "3d-scenes",
+    "useCase": "青岛街景与海边 3D 漫步交互网页",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频展示了利用 Three.js 构建的青岛天主教堂广场、老城坡道、红瓦绿树街景以及栈桥延伸至海面的 3D 交互场景，支持视角移动漫步，与提示词要求一致。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
